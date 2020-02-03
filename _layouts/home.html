@@ -16,7 +16,7 @@ layout: default
         
       </h3> -->
       <a class="post-link" href="{{ post.url | relative_url }}">
-        <img src="http://placekitten.com/400/300" />
+        <img src="{{post.featured-image}}" />
       </a>
       {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
     </li>
