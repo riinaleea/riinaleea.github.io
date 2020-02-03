@@ -10,12 +10,14 @@ layout: default
   <ul class="post-list">
     {%- for post in site.posts -%}
     <li>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
+      <!-- <h3>
+        
           {{ post.title | escape }}
-        </a>
-      </h3>
-      <img src="http://placekitten.com/400/300" />
+        
+      </h3> -->
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        <img src="http://placekitten.com/400/300" />
+      </a>
       {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
     </li>
     {%- endfor -%}
