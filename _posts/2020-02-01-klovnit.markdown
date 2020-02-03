@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Moment 2.0"
+featured-image: /assets/klovnit_linkki.jpg
+featured-image-alt: Klovnit Amos Rex
+categories: jekyll update
+---
+Costume Designer
+
+Performance
+
+Amos Rex
+
+Actors Nenna Tyni and Sara-Maria Pirhonen
+
+![alt text](/assets/klovnit_linkki.jpg)
