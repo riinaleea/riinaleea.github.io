@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Riina Leea is a Bachelor of Art and Design gratuated from Aalto University majoring in Costume Design. Her
+minor subject was Performing Arts from the Theatre Academy. Her exchange year she studied in the University of
+the Arts London majoring in Costume for Performance. She has worked as a freelancer costume designer, scenographer and a performer.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Recent projects have included the costume and set design for drama and circus production Mun siivet ei mahdu
+kahvihuoneeseen (2019) with Janne Vasama, costume design for Aalto University’s short film De Rasande (2019)
+and costume and set design for Theatre Academy’s and Q Theatre’s musical Donkey Hot (2019). [Riina](http://www.teatterituike.fi/portfolio/items/riina-nieminen/) has been a permanent actress in Theatre Tuike since 2016.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Important for Riina are new challenges, visual dramaturgy, physical story telling and gentle and equal working enviroment.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
