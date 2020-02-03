@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Tämä nimeämätön tarttuma"
+featured-image: /assets/tarttuma_linkki.jpg
+featured-image-alt: Donkey Hot musikaali 
+categories: jekyll update
+---
+Costume Designer and Performer
+
+Modern dance
+
+Theatre Academy
+
+Choreographer Pietari Kärki
+
+![alt text](/assets/tarttuma_linkki.jpg)
