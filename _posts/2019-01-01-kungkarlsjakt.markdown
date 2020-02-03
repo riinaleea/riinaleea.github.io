@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kung Karls Jakt"
-featured-image: /assets/kung_linkki.jpg
+featured-image: /assets/kungkarls_linkki.jpg
 featured-image-alt: Kung Karls Jakt ooppera
 categories: jekyll update
 ---
@@ -13,4 +13,4 @@ Metropolia University of Applied Sciences
 
 Director Ville Sandqvist
 
-![alt text](/assets/kung_linkki.jpg)
+![alt text](/assets/kungkarls_linkki.jpg)
