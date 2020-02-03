@@ -10,7 +10,7 @@ the Arts London majoring in Costume for Performance. She has worked as a freelan
 
 Recent projects have included the costume and set design for drama and circus production Mun siivet ei mahdu
 kahvihuoneeseen (2019) with Janne Vasama, costume design for Aalto University’s short film De Rasande (2019)
-and costume and set design for Theatre Academy’s and Q Theatre’s musical Donkey Hot (2019). [Riina](http://www.teatterituike.fi/portfolio/items/riina-nieminen/) has been a permanent actress in Theatre Tuike since 2016.
+and costume and set design for Theatre Academy’s and Q Theatre’s musical Donkey Hot (2019). [Riina](http://www.teatterituike.fi/portfolio/items/riina-nieminen/) has been a permanent actress in Theatre Tuike since 2016 and latest work as an actress has been Siskoni Mun (2020) and Kreivi Hohoo (2019).
 
 Important for Riina are new challenges, visual dramaturgy, physical story telling and gentle and equal working enviroment.
 
