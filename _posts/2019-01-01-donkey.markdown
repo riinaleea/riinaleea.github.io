@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Donkey Hot"
-featured-image: donkey_linkki.jpg
+featured-image: /assets/donkey_linkki.jpg
 featured-image-alt: Donkey Hot musikaali 
 categories: jekyll update
 ---
@@ -13,4 +13,4 @@ Co-production Theatre Academy and Q-Theatre
 
 Director Juho Mantere
 
-![alt text](./donkey_linkki.jpg)
+![alt text](/assets/donkey_linkki.jpg)
