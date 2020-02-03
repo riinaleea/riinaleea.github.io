@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Seal the Mascot"
+featured-image: /assets/hylje_linkki.jpg
+featured-image-alt: Hylje maskotti puku
+categories: jekyll update
+---
+Costume Designer
+
+Making with Anni Konttinen
+
+Client Oma SP -bank
+
+![alt text](/assets/hylje_linkki.jpg)
