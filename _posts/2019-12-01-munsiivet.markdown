@@ -22,6 +22,8 @@ Co-production Sivuhenkilöt, Cirko - center for new circus and Helsinki Festival
   Costume Design and Scenography Assistant Oscar Dempsey
   Producer Emilia Hänninen  
 
+  Photography Mitro Härkönen
+
 ![alt text](/assets/projects/siivet1.jpg)
 
 
