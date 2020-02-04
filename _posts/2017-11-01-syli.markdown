@@ -4,6 +4,7 @@ title:  "Syli"
 featured-image: /assets/syli_linkki.jpg
 featured-image-alt: Syli lyhytelokuva
 categories: jekyll update
+productionstyle: Short Film
 ---
 Costume Designer with Jenni Räsänen
 

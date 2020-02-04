@@ -4,10 +4,11 @@ title:  "Salome"
 featured-image: /assets/salome_linkki.jpg
 featured-image-alt: Salome teatteriesitys teatterikorkeakoulu
 categories: jekyll update
+productionstyle: Theatre Production
 ---
 Costume Designer
 
-Theatre production
+Theatre Production
 
 Theatre Academy
 

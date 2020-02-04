@@ -4,6 +4,7 @@ title:  "Kung Karls Jakt"
 featured-image: /assets/kungkarls_linkki.jpg
 featured-image-alt: Kung Karls Jakt ooppera
 categories: jekyll update
+productionstyle: Opera
 ---
 Costume and Set Designer
 

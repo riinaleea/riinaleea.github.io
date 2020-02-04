@@ -4,6 +4,7 @@ title:  "Sankariliiga Prop Shop"
 featured-image: /assets/tuntematon_linkki.jpg
 featured-image-alt: Donkey Hot musikaali 
 categories: jekyll update
+productionstyle: Multiple Productions
 ---
 Costumer and Prop Technician
 

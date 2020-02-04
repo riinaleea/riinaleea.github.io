@@ -4,6 +4,7 @@ title:  "Moment 2.0"
 featured-image: /assets/klovnit_linkki.jpg
 featured-image-alt: Klovnit Amos Rex
 categories: jekyll update
+productionstyle: Performance
 ---
 Costume Designer
 

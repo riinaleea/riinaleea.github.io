@@ -4,10 +4,11 @@ title:  "Kohtalo"
 featured-image: /assets/kohtalo_linkki.jpg
 featured-image-alt: Kohtalo musiikkivideo Ricky-Tick Big Band ja Julkinen Sana
 categories: jekyll update
+productionstyle: Music Video
 ---
 Costume Designer
 
-Music video - Ricky-Tick Big Band & Julkinen Sana
+Music Video - Ricky-Tick Big Band & Julkinen Sana
 
 Aalto University ELO Helsinki
 

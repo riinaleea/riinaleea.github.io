@@ -4,6 +4,7 @@ title:  "Donkey Hot"
 featured-image: /assets/donkey_linkki.jpg
 featured-image-alt: Donkey Hot musikaali 
 categories: jekyll update
+productionstyle: Musical
 ---
 Costume and Set Designer
 

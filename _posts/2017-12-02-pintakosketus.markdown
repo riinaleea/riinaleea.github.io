@@ -4,6 +4,7 @@ title:  "Pinta, kosketus"
 featured-image: /assets/pinta_linkki.jpg
 featured-image-alt: Pinta, Kosketus valokuvanäyttely vedenalla
 categories: jekyll update
+productionstyle: Photography Exhibition
 ---
 Art Director and Model
 

@@ -4,10 +4,11 @@ title:  "Tämä nimeämätön tarttuma"
 featured-image: /assets/tarttuma_linkki.jpg
 featured-image-alt: Donkey Hot musikaali 
 categories: jekyll update
+productionstyle: Contemporary Dance
 ---
 Costume Designer and Performer
 
-Modern dance
+Contemporary Dance
 
 Theatre Academy
 

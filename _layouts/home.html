@@ -20,8 +20,8 @@ layout: default
         <div class="content-overlay"></div>
         <img class="content-image" src="{{post.featured-image}}" />
         <div class="content-details fadeIn-bottom">
-          <h3 class="content-title">This is a title</h3>
-          <p class="content-text"><post class="productionstyle"></post></p>
+          <h3 class="content-title">{{ post.title }}</h3>
+          <p class="content-text">{{ post.productionstyle }}</p>
         </div>
       </a>
       {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
