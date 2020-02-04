@@ -6,12 +6,27 @@ featured-image-alt: Salvat 1701 kuoro draama
 categories: jekyll update
 productionstyle: Choir Drama
 ---
-Costume Designer and Performer (actress "Nainen", solo "Itkijänainen")
 
 Choir Drama
 
 Dominante ry
 
-Director Ville Sandqvist
+  Costume Designer and Performer (actress "Nainen", solo "Itkijänainen") - Riina Leea  
+  Director - Ville Sandqvist  
+  Conductor - Seppo Murto  
+  Choir - Dominante  
+  Light Designer - Carl Sjöblom  
 
-![alt text](/assets/salvat_linkki.jpg)
+  Photographer - Veera Nivalainen
+
+![alt text](/assets/projects/salvat1.jpg)
+
+![alt text](/assets/projects/salvat2.jpg)
+
+![alt text](/assets/projects/salvat3.jpg)
+
+![alt text](/assets/projects/salvat4.jpg)
+
+![alt text](/assets/projects/salvat5.jpg)
+
+![alt text](/assets/projects/salvat6.jpg)
