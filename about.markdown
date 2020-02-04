@@ -16,5 +16,9 @@ Important for Riina are new challenges, visual dramaturgy, physical story tellin
 
 <a href="riinaleea.github.io/2020cvnieminen.pdf">Download CV</a>
 
+<form method="get" action="2020cvnieminen.pdf">
+   <button type="submit">Download CV</button>
+</form>
+
 
 
