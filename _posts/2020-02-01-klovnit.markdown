@@ -5,9 +5,9 @@ featured-image: /assets/klovnit_linkki.jpg
 featured-image-alt: Klovnit Amos Rex
 categories: jekyll update
 productionstyle: Performance
-<img style="float: right;" src="/assets/klovnit_linkki.jpg">
 ---
-
+<img style="float: right;" src="/assets/projects/klovnit3.jpg">
+<img style="float: right;" src="/assets/klovnit_linkki.jpg">
 Costume Designer
 
 Performance
@@ -16,6 +16,3 @@ Amos Rex
 
 Actors Nenna Tyni and Sara-Maria Pirhonen
 
-
-
-![alt text](/assets/klovnit_linkki.jpg)
