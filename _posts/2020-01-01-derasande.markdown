@@ -21,4 +21,6 @@ Aalto University ELO Helsinki
   Makeup Artist - Stephanie Korhonen  
   Producer - Mikael Syrjälä  
 
+  Photographer - Linn Henrichson
+
 ![alt text](/assets/projects/derasande1.jpg)
