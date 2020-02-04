@@ -202,7 +202,8 @@
 }
 
 .post-list-heading {
-  @include relative-font-size(1.75);
+  //@include relative-font-size(1.75);
+  font-size: 0px;
 }
 
 .post-list {
