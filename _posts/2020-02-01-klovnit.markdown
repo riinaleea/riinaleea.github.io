@@ -18,8 +18,3 @@ Costume Designer
 ![alt text](/assets/projects/klovnit1.jpg)
 ![alt text](/assets/projects/klovnit2.jpg)
 ![alt text](/assets/projects/klovnit5.jpg)
-
-<img style="float: center;" src="/assets/projects/klovnit3.jpg" width="600"/>
-<img style="float: center;" src="/assets/projects/klovnit1.jpg" width="600"/>
-<img style="float: center;" src="/assets/projects/klovnit2.jpg" width="600"/>
-<img style="float: center;" src="/assets/projects/klovnit5.jpg" width="600"/>
