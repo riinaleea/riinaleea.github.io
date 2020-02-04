@@ -6,7 +6,7 @@ featured-image-alt: Klovnit Amos Rex
 categories: jekyll update
 productionstyle: Performance
 ---
-<img style="float: right;" max-width=30% src="/assets/projects/klovnit3.jpg">
+<img style="float: right;" src="/assets/projects/klovnit3.jpg" width="200"/>
 <img style="float: right;" src="/assets/projects/klovnit5.jpg">
 <img style="float: right;" src="/assets/projects/klovnit1.jpg">
 <img style="float: right;" src="/assets/projects/klovnit2.jpg">
