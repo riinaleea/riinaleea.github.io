@@ -14,4 +14,6 @@ Amos Rex
 
 Actors Nenna Tyni and Sara-Maria Pirhonen
 
+<img style="float: right;" src="/assets/klovnit_linkki.jpg">
+
 ![alt text](/assets/klovnit_linkki.jpg)
