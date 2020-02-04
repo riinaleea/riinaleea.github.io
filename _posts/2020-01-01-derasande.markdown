@@ -6,6 +6,8 @@ featured-image-alt: De Rasande lyhytelokuva
 categories: jekyll update
 productionstyle: Short Film
 ---
+<img style="float: right;" src="/assets/derasande_linkki.jpg" width="500"/>
+
 Costume Designer
 
 Short Film
@@ -13,5 +15,3 @@ Short Film
 Aalto University ELO Helsinki
 
 Director Malin Nyqvist
-
-![alt text](/assets/derasande_linkki.jpg)
