@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "BLIND"
+featured-image: /assets/blind_linkki.jpg
+featured-image-alt: Blind tanssielokuva lyhytelokuva
+categories: jekyll update
+---
+Costume Designer
+
+Short Film
+
+Director Katariina Räty
+
+![alt text](/assets/blind_linkki.jpg)
