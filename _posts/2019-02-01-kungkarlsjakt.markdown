@@ -15,13 +15,14 @@ Metropolia University of Applied Sciences
   Director - Ville Sandqvist    
   Conductor - Sasha Mäkilä  
   Light Designer - Noora Pietilä  
-  Singers: Eero Lasorla, Laura Juvonen, Veera Niiranen, Samuli Takkula,  
+  Singers - Eero Lasorla, Laura Juvonen, Veera Niiranen, Samuli Takkula,  
   Ilmari Leisma, Anu Ontronen, Anna Arola, Elsa-Maija Helminen, Maija Turunen,  
   Maria Turunen, Hilkka Ylinärä, Kalle Virtanen, Antti Tolvanen, Sampsa Heiniö,  
   Jussi Keltakangas, Olli-Jaakko Miettunen and Joonas Tuominen  
   Actress - Lina Johansson  
 
   Photographer - Lydia Siikasmaa
+
 
 ![alt text](/assets/projects/kung1.jpg)
 
