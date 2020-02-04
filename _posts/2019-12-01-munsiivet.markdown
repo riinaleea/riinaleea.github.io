@@ -7,9 +7,9 @@ categories: jekyll update
 productionstyle: Contemporary Circus Production
 ---
 <img style="float: right;" src="/assets/projects/siivet1.jpg" width="500"/>
-<img style="float: right;" src="/assets/projects/siivet2.jpg" width="500"/>
 <img style="float: right;" src="/assets/projects/siivet3.jpg" width="500"/>
 <img style="float: right;" src="/assets/projects/siivet4.jpg" width="500"/>
+<img style="float: right;" src="/assets/projects/siivet2.jpg" width="500"/>
 
 Costume Design and Scenography with Janne Vasama
 
