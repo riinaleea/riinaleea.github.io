@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Syli"
+featured-image: /assets/syli_linkki.jpg
+featured-image-alt: Syli lyhytelokuva
+categories: jekyll update
+---
+Costume Designer with Jenni Räsänen
+
+Short Film
+
+Aalto University ELO Helsinki
+
+Director Anna Äärelä
+
+![alt text](/assets/syli_linkki.jpg)
