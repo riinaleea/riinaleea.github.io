@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Siskoni Mun"
+featured-image: /assets/siskoni_linkki.jpg
+featured-image-alt: Siskoni Mun teatteri lastenteatteri teatteri tuike
+categories: jekyll update
+productionstyle: Theatre Production
+---
+
+  Theatre Production 
+  
+  Theatre Tuike
+
+  Actors - Riina Leea and Veera Aaltonen  
+  Director - Ann-Mari Ohtamaa  
+  Voice Actors - Sallamaari Rapo, Aarne Linden and Sanna Warsell
+  Sound Design - Aarne Linden
+  Lighting Design - Nina Rinkinen
+
+  Photographer - Nina Rinkinen
+
+![alt text](/assets/projects/klovnit3.jpg)
+
