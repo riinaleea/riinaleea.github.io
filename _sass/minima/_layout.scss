@@ -111,13 +111,11 @@
   padding: $spacing-unit 0;
   background-color: #35020f;
 }
-.a:hover {
-color: #828282;
-}
+//.a:hover {
+//color: #828282;
+//}
 
-.a {
-  color: #ffffff;
-  }
+
 .footer-heading {
   //@include relative-font-size(1.125);
   font-size: 0px;
@@ -128,11 +126,6 @@ color: #828282;
 .social-media-list {
   list-style: none;
   margin-left: 0;
-  .a {
-   .a:visited {
-     color: #ffffff;
-      }
-  }
 }
 
 .footer-col-wrapper {
