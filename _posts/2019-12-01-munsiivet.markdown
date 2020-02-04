@@ -12,15 +12,15 @@ Costume Design and Scenography with Janne Vasama
   Contemporary Circus Production  
 Co-production Sivuhenkilöt, Cirko - center for new circus and Helsinki Festival
 
-  Director Alma Lehmuskallio  
-  Scriptwriter Eira Virekoski  
-  Sound Designer Joonas Outakoski  
-  Light Designer Ainu Palmu  
-  Makeup Artist Tia Kokljuschkin  
-  Performers Anne-Mari Alaspää, Milla Järvinen, Henna Kaikula,  
+  Director - Alma Lehmuskallio  
+  Scriptwriter - Eira Virekoski  
+  Sound Designer - Joonas Outakoski  
+  Light Designer - Ainu Palmu  
+  Makeup Artist - Tia Kokljuschkin  
+  Performers - Anne-Mari Alaspää, Milla Järvinen, Henna Kaikula,  
   Saku Mäkelä, Eero Vesterinen  
-  Costume Design and Scenography Assistant Oscar Dempsey
-  Producer Emilia Hänninen  
+  Costume Design and Scenography Assistant - Oscar Dempsey  
+  Producer - Emilia Hänninen  
 
   Photography Mitro Härkönen
 
