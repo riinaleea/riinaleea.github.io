@@ -251,19 +251,6 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
-    margin-left: 0;
-    list-style: none;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  
-    > li {
-      //margin-bottom: $spacing-unit;
-      width: 50%;
-      min-width: 300px;
-    }
-  
-
   h2 {
     @include relative-font-size(2);
 
