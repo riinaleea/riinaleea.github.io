@@ -7,7 +7,8 @@ categories: jekyll update
 productionstyle: Contemporary Circus Production
 ---
 
-  Contemporary Circus Production  
+Contemporary Circus Production  
+
 Co-production Sivuhenkilöt, Cirko - center for new circus and Helsinki Festival
 
   Costume and Set Design - Riina Leea and Janne Vasama  
