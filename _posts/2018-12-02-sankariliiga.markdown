@@ -7,7 +7,11 @@ categories: jekyll update
 ---
 Costumer and Prop Technician
 
-Multiple productions
+Multiple productions:
+    -2018 esa -space suite (Prop Technician)
+    -2018 Kepler 62 (Costumer)
+    -2017 Tuntematon REDUX (Costumer)
+    -2017 Hevireissu (Prop Technician)
 
 Sankariliiga Prop Shop
 
