@@ -109,7 +109,8 @@
 }
 
 .footer-heading {
-  @include relative-font-size(1.125);
+  //@include relative-font-size(1.125);
+  font-size: 0px;
   margin-bottom: $spacing-unit / 2;
 }
 
