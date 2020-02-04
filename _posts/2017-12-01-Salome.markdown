@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Salome"
+featured-image: /assets/salome_linkki.jpg
+featured-image-alt: Salome teatteriesitys teatterikorkeakoulu
+categories: jekyll update
+---
+Costume Designer
+
+Theatre production
+
+Theatre Academy
+
+Director Juho Mantere
+
+![alt text](/assets/salome_linkki.jpg)
