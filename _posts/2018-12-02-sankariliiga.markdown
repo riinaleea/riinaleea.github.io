@@ -6,7 +6,6 @@ featured-image-alt: Donkey Hot musikaali
 categories: jekyll update
 productionstyle: Multiple Productions
 ---
-Costumer and Prop Technician
 
   Multiple productions:  
    2018 esa -space suite (Prop Technician)  
@@ -17,6 +16,7 @@ Costumer and Prop Technician
 
 Sankariliiga Prop Shop
 
+  Costumer and Prop Technician - Riina Leea  
   Costume Designer - Petteri Mäkinen  
   Co-Workers - Emilia Lindholm and Anni Konttinen  
 

@@ -6,11 +6,11 @@ featured-image-alt: Norppa maskotti puku
 categories: jekyll update
 productionstyle: Mascot Costume
 ---
-Costume Designer
-
-Making with Anni Konttinen
 
 Oma SP -bank
+
+  Costume Designer - Riina Leea  
+  Making with Anni Konttinen  
 
 ![alt text](/assets/projects/norppa1.jpg)
 

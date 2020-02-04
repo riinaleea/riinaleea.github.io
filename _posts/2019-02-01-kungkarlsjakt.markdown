@@ -6,12 +6,12 @@ featured-image-alt: Kung Karls Jakt ooppera
 categories: jekyll update
 productionstyle: Opera
 ---
-Costume and Set Designer
 
 Opera
 
 Metropolia University of Applied Sciences
 
+  Costume and Set Designer - Riina Leea  
   Director - Ville Sandqvist    
   Conductor - Sasha Mäkilä  
   Light Designer - Noora Pietilä  

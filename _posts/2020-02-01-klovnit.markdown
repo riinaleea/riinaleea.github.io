@@ -6,11 +6,10 @@ featured-image-alt: Klovnit Amos Rex
 categories: jekyll update
 productionstyle: Performance
 ---
-Costume Designer
-
   Performance  
   Amos Rex  
 
+  Costume Designer - Riina Leea  
   Actors - Nenna Tyni and Sara-Maria Pirhonen  
   Photographer - Deniz Kaya  
 

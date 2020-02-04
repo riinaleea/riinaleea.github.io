@@ -7,11 +7,10 @@ categories: jekyll update
 productionstyle: Contemporary Circus Production
 ---
 
-Costume Design and Scenography with Janne Vasama
-
   Contemporary Circus Production  
 Co-production Sivuhenkilöt, Cirko - center for new circus and Helsinki Festival
 
+  Costume and Set Design - Riina Leea and Janne Vasama  
   Director - Alma Lehmuskallio  
   Scriptwriter - Eira Virekoski  
   Sound Designer - Joonas Outakoski  

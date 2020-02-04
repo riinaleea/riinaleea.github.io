@@ -6,13 +6,13 @@ featured-image-alt: Donkey Hot musikaali
 categories: jekyll update
 productionstyle: Musical
 ---
-Costume and Set Designer
 
 Musical
 
 Co-production Theatre Academy and Q-Theatre
 
-  Director and Scriptwriter -  Juho Mantere  
+  Costume and Set Designer - Riina Leea  
+  Director and Scriptwriter - Juho Mantere  
   Composer - Henri Lyysaari  
   Light Designer - Vilma Vantola  
   Sound Designer - Pekka Kiiliäinen  
