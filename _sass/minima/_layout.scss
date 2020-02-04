@@ -109,8 +109,17 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background-color: #35020f;
 }
-
+.a:hover {
+color: #828282;
+}
+.a:visited {
+  color: #ffffff;
+  }
+.a {
+  color: #ffffff;
+  }
 .footer-heading {
   //@include relative-font-size(1.125);
   font-size: 0px;
