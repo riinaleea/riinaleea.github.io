@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "HYLJE"
+featured-image: /assets/hyljemusikaali_linkki.jpg
+featured-image-alt: HYLJE musikaali OMS teatteri
+categories: jekyll update
+---
+Costume Designer with Eila Lumme
+
+Musical
+
+OMS-Theatre
+
+Director Meiju Lampinen
+
+![alt text](/assets/hyljemusikaali_linkki.jpg)
