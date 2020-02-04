@@ -218,6 +218,11 @@
   }
 }
 
+.post-list::after {
+  content: "";
+  flex: auto;
+}
+
 .post-meta {
   //font-size: $small-font-size;
   font-size: 0px;
