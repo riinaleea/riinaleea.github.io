@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Kohtalo"
+featured-image: /assets/kohtalo_linkki.jpg
+featured-image-alt: Kohtalo musiikkivideo Ricky-Tick Big Band ja Julkinen Sana
+categories: jekyll update
+---
+Costume Designer
+
+Music video - Ricky-Tick Big Band & Julkinen Sana
+
+Aalto University ELO Helsinki
+
+Director Malin Nyqvist
+
+![alt text](/assets/kohtalo_linkki.jpg)
