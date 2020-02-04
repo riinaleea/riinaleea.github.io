@@ -20,5 +20,5 @@ productionstyle: Theatre Production
   Costume Design - Jenni Räsänen  
 
 
-![alt text](/assets/projects/.jpg)
+![alt text](/assets/veden_linkki.jpg)
 
