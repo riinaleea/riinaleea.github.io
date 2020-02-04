@@ -15,8 +15,10 @@ layout: default
           {{ post.title | escape }}
         
       </h3> -->
-      <a class="post-link" href="{{ post.url | relative_url }}">
-        <img src="{{post.featured-image}}" />
+      <div class="content">
+       <a class="post-link" href="{{ post.url | relative_url }}">
+        <div class="content-overlay"></div>
+        <img class="content-image" src="{{post.featured-image}}" />
         <div class="content-details fadeIn-bottom">
           <h3 class="content-title">This is a title</h3>
           <p class="content-text">This is a short description</p>
