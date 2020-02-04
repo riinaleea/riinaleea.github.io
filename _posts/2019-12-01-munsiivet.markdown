@@ -6,12 +6,11 @@ featured-image-alt: Mun siivet ei mahdu kahvihuoneeseen sirkus teatteri esitys
 categories: jekyll update
 productionstyle: Contemporary Circus Production
 ---
-Costume and Set Designer with Janne Vasama
+Costume Design and Scenography with Janne Vasama
 
-Contemporary Circus Production
-
+  Contemporary Circus Production  
 Co-production Sivuhenkilöt, Cirko - center for new circus and Helsinki Festival
 
 Director Alma Lehmuskallio
 
-![alt text](/assets/siivet_linkki.jpg)
+<img style="float: right;" src="/assets/projects/siivet1.jpg" width="500"/>
