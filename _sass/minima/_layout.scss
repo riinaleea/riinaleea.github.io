@@ -356,3 +356,9 @@ margin-top: 20px;
 .fadeIn-bottom{
   top: 80%;
 }
+
+//kokeilu muuttaa linkkejä
+
+.a:visited {
+  color: &grey-color-light;
+}
