@@ -14,8 +14,6 @@ and costume and set design for Theatre Academy’s and Q Theatre’s musical Don
 
 Important for Riina are new challenges, visual dramaturgy, physical story telling and gentle and equal working enviroment.
 
-<a href="riinaleea.github.io/2020cvnieminen.pdf">Download CV</a>
-
 [Download CV](2020cvnieminen.pdf)
 
 
