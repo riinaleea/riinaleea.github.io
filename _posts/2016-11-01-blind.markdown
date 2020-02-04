@@ -4,11 +4,11 @@ title:  "BLIND"
 featured-image: /assets/blind_linkki.jpg
 featured-image-alt: Blind tanssielokuva lyhytelokuva
 categories: jekyll update
-productionstyle: Short Dance Film
+productionstyle: Dance Short Film
 ---
 Costume Designer
 
-Short Dance Film
+Dance Short Film
 
 Director Katariina Räty
 
