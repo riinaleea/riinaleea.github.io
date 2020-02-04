@@ -6,12 +6,6 @@ featured-image-alt: Klovnit Amos Rex
 categories: jekyll update
 productionstyle: Performance
 ---
-
-<img style="float: right;" src="/assets/projects/klovnit3.jpg" width="500"/>
-<img style="float: right;" src="/assets/projects/klovnit1.jpg" width="500"/>
-<img style="float: right;" src="/assets/projects/klovnit2.jpg" width="500"/>
-<img style="float: right;" src="/assets/projects/klovnit5.jpg" width="500"/>
-
 Costume Designer
 
   Performance  
@@ -19,3 +13,8 @@ Costume Designer
 
   Actors Nenna Tyni and Sara-Maria Pirhonen  
   Photographer Deniz Kaya  
+
+<img style="float: center;" src="/assets/projects/klovnit3.jpg" width="600"/>
+<img style="float: center;" src="/assets/projects/klovnit1.jpg" width="600"/>
+<img style="float: center;" src="/assets/projects/klovnit2.jpg" width="600"/>
+<img style="float: center;" src="/assets/projects/klovnit5.jpg" width="600"/>
