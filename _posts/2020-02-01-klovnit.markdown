@@ -7,9 +7,9 @@ categories: jekyll update
 productionstyle: Performance
 ---
 <img style="float: right;" src="/assets/projects/klovnit3.jpg" width="500"/>
-<img style="float: right;" src="/assets/projects/klovnit5.jpg" width="500"/>
 <img style="float: right;" src="/assets/projects/klovnit1.jpg" width="500"/>
 <img style="float: right;" src="/assets/projects/klovnit2.jpg" width="500"/>
+<img style="float: right;" src="/assets/projects/klovnit5.jpg" width="500"/>
 <img style="float: right;" src="/assets/klovnit_linkki.jpg" width="500"/>
 
 Costume Designer
