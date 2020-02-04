@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kreivi Hohoo"
-featured-image: /assets/hohoo_linkki.jpg
+featured-image: /assets/kreivi_linkki.jpg
 featured-image-alt: Kreivi Hohoo teatteriesitys lastenteatteri
 categories: jekyll update
 productionstyle: Theatre Production
