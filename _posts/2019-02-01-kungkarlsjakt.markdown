@@ -24,18 +24,18 @@ Metropolia University of Applied Sciences
   Photographer - Lydia Siikasmaa
 
 
-![alt text](/assets/projects/kung1.jpg)
+![alt text](/assets/projects/kungk1.jpg)
 
-![alt text](/assets/projects/kung2.jpg)
+![alt text](/assets/projects/kungk2.jpg)
 
-![alt text](/assets/projects/kung3.jpg)
+![alt text](/assets/projects/kungk3.jpg)
 
-![alt text](/assets/projects/kung4.jpg)
+![alt text](/assets/projects/kungk4.jpg)
 
-![alt text](/assets/projects/kung5.jpg)
+![alt text](/assets/projects/kungk5.jpg)
 
-![alt text](/assets/projects/kung6.jpg)
+![alt text](/assets/projects/kungk6.jpg)
 
-![alt text](/assets/projects/kung7.jpg)
+![alt text](/assets/projects/kungk7.jpg)
 
-![alt text](/assets/projects/kung8.jpg)
+![alt text](/assets/projects/kungk8.jpg)
