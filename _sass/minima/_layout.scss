@@ -140,6 +140,7 @@ margin-top: 20px;
 .social-media-list {
   list-style: none;
   margin-left: 0;
+  text-align: center;
   .username {
      color: #ffffff;
   }
@@ -159,18 +160,21 @@ margin-top: 20px;
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width: calc(35% - (#{$spacing-unit} / 2));
+  width: 32%;
+  //width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+  //width: calc(35% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width: calc(20% - (#{$spacing-unit} / 2));
+  width: 32%;
+  //width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+  //width: calc(20% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width: calc(45% - (#{$spacing-unit} / 2));
+  width: 32%;
+  //width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+  //width: calc(45% - (#{$spacing-unit} / 2));
   text-align: right;
 }
 
