@@ -14,7 +14,7 @@ Metropolia University of Applied Sciences
   Costume and Set Designer - Riina Leea  
   Director - Ville Sandqvist    
   Conductor - Sasha Mäkilä  
-  Light Designer - Noora Pietilä  
+  Lighting Designer - Noora Pietilä  
   Singers - Eero Lasorla, Laura Juvonen, Veera Niiranen, Samuli Takkula,  
   Ilmari Leisma, Anu Ontronen, Anna Arola, Elsa-Maija Helminen, Maija Turunen,  
   Maria Turunen, Hilkka Ylinärä, Kalle Virtanen, Antti Tolvanen, Sampsa Heiniö,  

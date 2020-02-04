@@ -15,7 +15,7 @@ Co-production Sivuhenkilöt, Cirko - center for new circus and Helsinki Festival
   Director - Alma Lehmuskallio  
   Scriptwriter - Eira Virekoski  
   Sound Designer - Joonas Outakoski  
-  Light Designer - Ainu Palmu  
+  Lighting Designer - Ainu Palmu  
   Makeup Artist - Tia Kokljuschkin  
   Performers - Anne-Mari Alaspää, Milla Järvinen, Henna Kaikula,  
   Saku Mäkelä, Eero Vesterinen  
