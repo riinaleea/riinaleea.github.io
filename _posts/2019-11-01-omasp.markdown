@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Seal the Mascot"
+title:  "Ringed Seal the Mascot"
 featured-image: /assets/hylje_linkki.jpg
-featured-image-alt: Hylje maskotti puku
+featured-image-alt: Norppa maskotti puku
 categories: jekyll update
 productionstyle: Mascot Costume
 ---
@@ -10,6 +10,16 @@ Costume Designer
 
 Making with Anni Konttinen
 
-Client Oma SP -bank
+Oma SP -bank
 
-![alt text](/assets/hylje_linkki.jpg)
+![alt text](/assets/projects/norppa1.jpg)
+
+![alt text](/assets/projects/norppa2.jpg)
+
+![alt text](/assets/projects/norppa3.jpg)
+
+![alt text](/assets/projects/norppa4.jpg)
+
+![alt text](/assets/projects/norppa5.jpg)
+
+![alt text](/assets/projects/norppa6.jpg)
