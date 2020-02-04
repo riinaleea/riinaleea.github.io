@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Salvat 1701"
+featured-image: /assets/salvat_linkki.jpg
+featured-image-alt: Salvat 1701 kuoro draama
+categories: jekyll update
+---
+Costume Designer and Performer (actress "Nainen", solo "Itkijänainen")
+
+Choir drama
+
+Dominante ry
+
+Director Ville Sandqvist
+
+![alt text](/assets/salvat_linkki.jpg)
