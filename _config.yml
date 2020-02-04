@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Riina Leea - Costume Designer
+title: Riina Leea - Costume Designer and Performer
 email: riina.leea@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Helsinki based Costume Designer open for new projects.
