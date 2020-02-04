@@ -14,4 +14,10 @@ Short Film
 
 Aalto University ELO Helsinki
 
-Director Malin Nyqvist
+  Director and scriptwriter Malin Nyqvist  
+  Cinematografer Alvi Pakarinen  
+  Editor Anna Nuuros
+  Sound Designer Lotta Mäki
+  Production Designer Lotta Taarasti
+  Makeup Artist Stephanie Korhonen
+  Producer Mikael Syrjälä
