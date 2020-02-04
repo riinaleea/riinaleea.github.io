@@ -15,5 +15,5 @@ Theatre Tuike
   Producer - Noora Kääriäinen  
 
 
-![alt text](/assets/projects/liiga1.jpg)
+![alt text](/assets/projects/.jpg)
 

@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Veden alla"
+featured-image: /assets/veden_linkki.jpg
+featured-image-alt: Veden alla teatteri lastenteatteri teatteri tuike
+categories: jekyll update
+productionstyle: Theatre Production
+---
+
+  Theatre Production 
+  
+  Theatre Tuike
+
+  Actress - Riina Leea ("Veden alle joutuva tyttö")  
+  Puppeteers - Aarne Linden, Veera Aaltonen, Kimmo Tähtivirta and Tanja Hautakangas  
+  Director and Scriptwriter - Nina Rinkinen  
+  Puppet Designer and Maker - Mira Laine
+  Animations - Bastian Salmela  
+  Composer - Otso Helos
+  Costume Design - Jenni Räsänen  
+
+
+![alt text](/assets/projects/.jpg)
+

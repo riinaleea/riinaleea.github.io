@@ -19,5 +19,5 @@ productionstyle: Theatre Production
 
   Photographer - Nina Rinkinen
 
-![alt text](/assets/projects/klovnit3.jpg)
+![alt text](/assets/projects/.jpg)
 
