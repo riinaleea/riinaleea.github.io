@@ -14,7 +14,19 @@ Co-production Sivuhenkilöt, Cirko - center for new circus and Helsinki Festival
 
 Director Alma Lehmuskallio
 
-<img style="float: center;" src="/assets/projects/siivet1.jpg" width="800"/>
-<img style="float: center;" src="/assets/projects/siivet3.jpg" width="800"/>
-<img style="float: center;" src="/assets/projects/siivet4.jpg" width="800"/>
-<img style="float: center;" src="/assets/projects/siivet2.jpg" width="800"/>
+![alt text](/assets/projects/siivet1.jpg)
+
+
+![alt text](/assets/projects/siivet2.jpg)
+
+
+![alt text](/assets/projects/siivet3.jpg)
+
+
+![alt text](/assets/projects/siivet4.jpg)
+
+
+![alt text](/assets/projects/siivet5.jpg)
+
+
+![alt text](/assets/projects/siivet6.jpg)
