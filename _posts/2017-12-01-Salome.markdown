@@ -6,12 +6,37 @@ featured-image-alt: Salome teatteriesitys teatterikorkeakoulu
 categories: jekyll update
 productionstyle: Theatre Production
 ---
-Costume Designer
 
 Theatre Production
 
-Theatre Academy
+Theatre Academy and Half Q-Theatre
 
-Director Juho Mantere
+  Costume Designer - Riina Leea  
+  Scenography - Riina Leea and Sami Roikola  
+  Director - Juho Mantere  
+  Lighting Designer - Sami Roikola  
+  Actors - Saga Sarkola, Marketta Tikkanen and Inka Reyes  
+  
+Photographer Sami Roikola
 
-![alt text](/assets/salome_linkki.jpg)
+![alt text](/assets/projects/salome1.jpg)
+
+![alt text](/assets/projects/salome2.jpg)
+
+![alt text](/assets/projects/salome3.jpg)
+
+![alt text](/assets/projects/salome4.jpg)
+
+![alt text](/assets/projects/salome5.jpg)
+
+![alt text](/assets/projects/salome6.jpg)
+
+![alt text](/assets/projects/salome7.jpg)
+
+![alt text](/assets/projects/salome8.jpg)
+
+![alt text](/assets/projects/salome9.jpg)
+
+![alt text](/assets/projects/salome10.jpg)
+
+![alt text](/assets/projects/salome11.jpg)
