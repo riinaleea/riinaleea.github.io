@@ -6,13 +6,21 @@ featured-image-alt: Kohtalo musiikkivideo Ricky-Tick Big Band ja Julkinen Sana
 categories: jekyll update
 productionstyle: Music Video
 ---
-Costume Designer
 
 Music Video - Ricky-Tick Big Band & Julkinen Sana
 
-Aalto University ELO Helsinki
+Aalto Arts / ELO Film School Finland
 
-Director Malin Nyqvist
+  Coastume Designer - Riina Leea  
+  Director - Malin Nyqvist  
+  Starring - Maikki Palm, Boodi Kabbani, Karri Miettinen, Lasse Mellberg, Tommy Lindgren  
+  Dancers - Heidi Suur-Hamari, Senja Pöllänen  
+  Script - Anni Pulkkinen  
+  Director of Photography - Alvi Pakarinen  
+  Production design - Lotta Taarasti  
+  Editors - Malin Nyqvist & Alvi Pakarinen  
+  Assistant costumer designer - Mirva Mietala  
+  Producers - Jenni Ripatti, Maarit Laaksoharju  
 
 
 ![alt text](/assets/projects/kohtalo1.jpg)
