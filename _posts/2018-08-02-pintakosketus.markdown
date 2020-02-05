@@ -6,8 +6,8 @@ featured-image-alt: Pinta, Kosketus valokuvanäyttely vedenalla
 categories: jekyll update
 productionstyle: Photography Exhibition
 ---
-
-Photography Exhibition
+  2018  
+  Photography Exhibition  
 
 Riki Arts, Korjaamo
 

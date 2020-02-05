@@ -6,8 +6,8 @@ featured-image-alt: De Rasande lyhytelokuva
 categories: jekyll update
 productionstyle: Short Film
 ---
-
-2020 Short Film
+  2020  
+  Short Film  
 
 Aalto Arts / ELO Film School Finland
 

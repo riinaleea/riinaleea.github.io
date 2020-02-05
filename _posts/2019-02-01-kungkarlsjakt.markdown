@@ -6,8 +6,8 @@ featured-image-alt: Kung Karls Jakt ooppera
 categories: jekyll update
 productionstyle: Opera
 ---
-
-Opera
+  2019  
+  Opera  
 
 Metropolia University of Applied Sciences
 
