@@ -32,12 +32,19 @@ margin-top: 20px;
     //color: $grey-color-dark;
     color: #ffffff;
     //color: #03989d;
+    //muotoilutesti
+    margin-right: 41%;
+    font-size: 110px;
+    text-align-last: end;
   }
 }
 
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
+  //muotoilukokeilu
+  margin-right: 48.5%;
+  margin-top: 17px;
 
   .nav-trigger {
     display: none;
