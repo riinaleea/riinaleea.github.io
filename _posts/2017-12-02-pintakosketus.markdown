@@ -6,12 +6,22 @@ featured-image-alt: Pinta, Kosketus valokuvanäyttely vedenalla
 categories: jekyll update
 productionstyle: Photography Exhibition
 ---
-Art Director and Model
 
 Photography Exhibition
 
 Riki Arts, Korjaamo
 
-Photographer Veera Nivalainen
+  Art Director and Model: Riina Leea  
+  Photographer Veera Nivalainen  
 
-![alt text](/assets/pinta_linkki.jpg)
+![alt text](/assets/projects/pinta1.jpg)
+
+![alt text](/assets/projects/pinta2.jpg)
+
+![alt text](/assets/projects/pinta3.jpg)
+
+![alt text](/assets/projects/pinta4.jpg)
+
+![alt text](/assets/projects/pinta5.jpg)
+
+![alt text](/assets/projects/pinta6.jpg)
