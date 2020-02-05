@@ -7,7 +7,7 @@ categories: jekyll update
 productionstyle: Contemporary Circus Production
 ---
 
-Contemporary Circus Production  
+2019 Contemporary Circus Production  
 
 Co-production Sivuhenkilöt, Cirko - center for new circus and Helsinki Festival
 
