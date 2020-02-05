@@ -6,7 +6,6 @@ featured-image-alt: Norppa maskotti puku
 categories: jekyll update
 productionstyle: Mascot Costume
 ---
-
   2019  
   Mascot Costume  
 
