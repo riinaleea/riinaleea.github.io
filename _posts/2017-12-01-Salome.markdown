@@ -19,6 +19,8 @@ Theatre Academy and Half Q-Theatre
   
 Photographer Sami Roikola
 
+![alt text](/assets/projects/salome5.jpg)
+
 ![alt text](/assets/projects/salome1.jpg)
 
 ![alt text](/assets/projects/salome2.jpg)
@@ -26,8 +28,6 @@ Photographer Sami Roikola
 ![alt text](/assets/projects/salome3.jpg)
 
 ![alt text](/assets/projects/salome4.jpg)
-
-![alt text](/assets/projects/salome5.jpg)
 
 ![alt text](/assets/projects/salome6.jpg)
 
