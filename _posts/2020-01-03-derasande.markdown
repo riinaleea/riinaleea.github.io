@@ -9,7 +9,7 @@ productionstyle: Short Film
 
 Short Film
 
-Aalto University ELO Helsinki
+Aalto Arts / ELO Film School Finland
 
   Costume Designer - Riina Leea  
   Director and Scriptwriter - Malin Nyqvist  
