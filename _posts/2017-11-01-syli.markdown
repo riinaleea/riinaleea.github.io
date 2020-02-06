@@ -6,13 +6,36 @@ featured-image-alt: Syli lyhytelokuva
 categories: jekyll update
 productionstyle: Short Film
 ---
-  2017  
-  Costume Designer with Jenni Räsänen  
+  2017   
 
 Short Film
 
 Aalto Arts / ELO Film School Finland
 
-Director Anna Äärelä
+  Costume Designers - Riina Leea and Jenni Räsänen  
+  Starring - Ronja Alatalo and Matti Ristinen  
+  Director - Anna Äärelä  
+  Producer - Pilvi Kuusrainen  
+  Screenwriter - Reeta Ruotsalainen  
+  Cinematographer - Max Smeds  
+  Set Designers - Anna Haajasalmi and Martta Antila  
+  Sound Designer - Tarmo Pehkonen  
+  Editor - Matias Auramo  
+  Music - Sonja Pennanen and Karin Mäkiranta  
+  Graphics - Sonja Pennanen  
+  Color grade - Petri Falkenberg  
 
-![alt text](/assets/syli_linkki.jpg)
+Photographers - Anna Äärelä and Max Smeds
+
+
+![alt text](/assets/projects/syli1.jpg)
+
+![alt text](/assets/projects/syli2.jpg)
+
+![alt text](/assets/projects/syli3.jpg)
+
+![alt text](/assets/projects/syli4.jpg)
+
+![alt text](/assets/projects/syli6.jpg)
+
+![alt text](/assets/projects/syli5.jpg)
