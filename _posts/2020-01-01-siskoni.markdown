@@ -13,9 +13,9 @@ productionstyle: Theatre Production
 
   Actors - Riina Leea ("Maija") and Veera Aaltonen  
   Director - Ann-Mari Ohtamaa  
-  Voice Actors - Sallamaari Rapo, Aarne Linden and Sanna Warsell
-  Sound Design - Aarne Linden
-  Lighting Design - Nina Rinkinen
+  Voice Actors - Sallamaari Rapo, Aarne Linden and Sanna Warsell  
+  Sound Design - Aarne Linden  
+  Lighting Design - Nina Rinkinen  
 
   Photographer - Nina Rinkinen
 
