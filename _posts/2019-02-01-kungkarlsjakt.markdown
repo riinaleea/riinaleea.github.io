@@ -15,6 +15,7 @@ Metropolia University of Applied Sciences
   Director - Ville Sandqvist    
   Conductor - Sasha Mäkilä  
   Lighting Designer - Noora Pietilä  
+  Costume Assistants - Suvi Kajas, Aurora Frestadius, Anna Jokinen, Mira Korhonen and Sini Marjakangas  
   Singers - Eero Lasorla, Laura Juvonen, Veera Niiranen, Samuli Takkula,  
   Ilmari Leisma, Anu Ontronen, Anna Arola, Elsa-Maija Helminen, Maija Turunen,  
   Maria Turunen, Hilkka Ylinärä, Kalle Virtanen, Antti Tolvanen, Sampsa Heiniö,  
