@@ -16,7 +16,7 @@ Aalto Arts / ELO Film School Finland
   Cinematografer - Alvi Pakarinen  
   Editor - Anna Nuuros  
   Sound Designer - Lotta Mäki  
-  Production Designer - Lotta Taarasti  
+  Set Designer - Lotta Taarasti  
   Makeup Artist - Stephanie Korhonen  
   Producer - Mikael Syrjälä  
 
