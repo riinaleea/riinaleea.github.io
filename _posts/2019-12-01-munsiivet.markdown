@@ -19,7 +19,7 @@ Co-production Sivuhenkilöt, Cirko - center for new circus and Helsinki Festival
   Makeup Artist - Tia Kokljuschkin  
   Performers - Anne-Mari Alaspää, Milla Järvinen, Henna Kaikula,  
   Saku Mäkelä, Eero Vesterinen  
-  Costume Design and Scenography Assistant - Oscar Dempsey  
+  Costume and Set Design Assistant - Oscar Dempsey  
   Producer - Emilia Hänninen  
 
   Photography - Mitro Härkönen
