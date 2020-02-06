@@ -6,11 +6,28 @@ featured-image-alt: Blind tanssielokuva lyhytelokuva
 categories: jekyll update
 productionstyle: Dance Short Film
 ---
-  2016  
-  Costume Designer  
+  2016    
 
 Dance Short Film
 
-Director Katariina Räty
+  Costume Designer - Riina Leea  
+  Starring - Mia Jaatinen and Mikko Makkonen
+  Director - Katariina Räty  
+  Cinematographer - Axel Nordman  
+  Makeup Artist - Laura Havimo  
+  Sound Designer - Fredrik Winberg  
+  Editing - Axel Nordman  
+  Music - John Lönnfeldt  
+  Producer - Katariina Räty  
 
-![alt text](/assets/blind_linkki.jpg)
+![alt text](/assets/projects/blind1.jpg)
+
+![alt text](/assets/projects/blind2.jpg)
+
+![alt text](/assets/projects/blind3.jpg)
+
+![alt text](/assets/projects/blind4.jpg)
+
+![alt text](/assets/projects/blind5.jpg)
+
+![alt text](/assets/projects/blind6.jpg)
