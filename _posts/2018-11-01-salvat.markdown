@@ -11,14 +11,14 @@ productionstyle: Choir Drama
 
 Dominante ry
 
-  Costume Designer and Performer - Riina Leea (actress "Nainen", solo "Itkijänainen")  
+  Costume Designer - Riina Leea  
+  Actors - Jouko Puolanto, Miika Laakso and Riina Leea ("Nainen", solo "Itkijänainen")  
   Director - Ville Sandqvist  
   Conductor - Seppo Murto  
   Choir - Dominante  
-  Actors - Jouko Puolanto and Miika Laakso
   Lighting Designer - Carl Sjöblom  
 
-  Photographer - Veera Nivalainen
+  Photographers - Veera Nivalainen and Markku Rämö
 
 ![alt text](/assets/projects/salvat1.jpg)
 

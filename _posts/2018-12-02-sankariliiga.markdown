@@ -20,7 +20,8 @@ Sankariliiga Prop Shop
   Costume Designer - Petteri Mäkinen  
   Co-Workers - Emilia Lindholm and Anni Konttinen  
 
-esa - Space Suit
+  esa - Space Suit  
+  Photographer - Riina Leea  
 
 ![alt text](/assets/projects/liiga1.jpg)
 
@@ -28,7 +29,8 @@ esa - Space Suit
 
 ![alt text](/assets/projects/liiga3.jpg)
 
-Kepler 62
+  Kepler 62  
+  Photographers - Emilia Lindholm and Riina Leea  
 
 ![alt text](/assets/projects/liiga4.jpg)
 
@@ -36,7 +38,8 @@ Kepler 62
 
 ![alt text](/assets/projects/liiga6.jpg)
 
-Tuntematon REDUX
+  Tuntematon REDUX  
+  Photographers - Riina Leea and Marko Saari  
 
 ![alt text](/assets/projects/liiga7.jpg)
 
@@ -46,7 +49,8 @@ Tuntematon REDUX
 
 ![alt text](/assets/projects/liiga10.jpg)
 
-Hevireissu
+  Hevireissu  
+  Photographers - Emilia Lindholm and Riina Leea  
 
 ![alt text](/assets/projects/liiga11.jpg)
 

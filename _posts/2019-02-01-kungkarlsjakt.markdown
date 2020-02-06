@@ -19,7 +19,7 @@ Metropolia University of Applied Sciences
   Ilmari Leisma, Anu Ontronen, Anna Arola, Elsa-Maija Helminen, Maija Turunen,  
   Maria Turunen, Hilkka Ylinärä, Kalle Virtanen, Antti Tolvanen, Sampsa Heiniö,  
   Jussi Keltakangas, Olli-Jaakko Miettunen and Joonas Tuominen  
-  Actress - Lina Johansson  
+  Actor - Lina Johansson  
 
   Photographer - Lydia Siikasmaa
 

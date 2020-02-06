@@ -11,12 +11,12 @@ productionstyle: Theatre Production
   
   Theatre Tuike
 
-  Actress - Riina Leea ("Veden alle joutuva tyttö")  
+  Actor - Riina Leea ("Veden alle joutuva tyttö")  
   Puppeteers - Aarne Linden, Veera Aaltonen, Kimmo Tähtivirta and Tanja Hautakangas  
   Director and Scriptwriter - Nina Rinkinen  
   Puppet Designer and Maker - Mira Laine
   Animations - Bastian Salmela  
-  Composer - Otso Helos
+  Composer - Otso Helos  
   Costume Design - Jenni Räsänen  
 
 
