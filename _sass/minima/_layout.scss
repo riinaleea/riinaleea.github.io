@@ -42,11 +42,11 @@ margin-top: 20px;
 }
 
 //kännykässä olevia muutoksia
-@media screen and (max-width: 600px)
-.site-nav {
+@media screen and (max-width: 600px) {
+.site-nav .page-link {
   color: #111111;
 }
-
+}
 
 .site-nav {
   float: right;
