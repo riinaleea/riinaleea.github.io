@@ -17,7 +17,7 @@ productionstyle: Theatre Production
   Puppet Designer and Maker - Mira Laine
   Animations - Bastian Salmela  
   Composer - Otso Helos  
-  Costume Design - Jenni Räsänen  
+  Costume Designer - Jenni Räsänen  
 
 
 ![alt text](/assets/projects/veden1.jpg)

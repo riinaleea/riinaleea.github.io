@@ -19,6 +19,8 @@ Aalto Arts / ELO Film School Finland
   Set Designer - Lotta Taarasti  
   Makeup Artist - Stephanie Korhonen  
   Producer - Mikael Syrjälä  
+  Costumer - Hilla Ruuska  
+  Costume Assistants - Aurora Frestadius, Jenni Räsänen, Suvi Kajas and Laura Havimo  
 
   Photographer - Linn Henrichson
 

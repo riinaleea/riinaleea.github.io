@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Scetches"
+title:  "Sketches"
 featured-image: /assets/luonnokset_linkki.jpg
-featured-image-alt: Pukuluonnoksia ja kuvituksia hamlet
+featured-image-alt: Pukuluonnoksia, luonnoksia ja kuvituksia
 categories: jekyll update
 productionstyle: Drawings and illustrations
 ---
    
-  Costume scetches and other illustrations
+  Costume sketches and other illustrations
 
 ![alt text](/assets/projects/luonnos1.jpg)
 
