@@ -19,6 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Riina Leea Costume Designer
+tagline: Riina Leea Nieminen Costume Designer Pukusuunnittelija
+author: Riina Leea pukusuunnittelija
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   
