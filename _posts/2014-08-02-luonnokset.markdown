@@ -13,13 +13,13 @@ productionstyle: Drawings and illustrations
 
 ![alt text](/assets/projects/luonnos2.jpg)
 
-![alt text](/assets/projects/luonnos3.jpg)
-
 ![alt text](/assets/projects/luonnos5.jpg)
 
 ![alt text](/assets/projects/luonnos9.jpg)
 
 ![alt text](/assets/projects/luonnos6.jpg)
+
+![alt text](/assets/projects/luonnos3.jpg)
 
 ![alt text](/assets/projects/luonnos7.jpg)
 
