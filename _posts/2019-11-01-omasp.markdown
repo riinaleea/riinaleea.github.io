@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ringed Seal the Mascot"
-featured-image: /assets/hylje_linkki2.jpg
+featured-image: /assets/hylje2_linkki.jpg
 featured-image-alt: Norppa maskotti puku
 categories: jekyll update
 productionstyle: Mascot Costume
