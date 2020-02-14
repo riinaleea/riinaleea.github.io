@@ -22,7 +22,7 @@ Aalto Arts / ELO Film School Finland
   Costumer - Hilla Ruuska  
   Costume Assistants - Aurora Frestadius, Jenni Räsänen, Suvi Kajas and Laura Havimo  
 
-  Photographer - Linn Henrichson
+  Photographer - Alvi Pakarinen and Linn Henrichson
 
 ![alt text](/assets/projects/derasande2.jpg)
 
