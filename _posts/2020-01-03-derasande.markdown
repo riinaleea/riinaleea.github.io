@@ -24,4 +24,18 @@ Aalto Arts / ELO Film School Finland
 
   Photographer - Linn Henrichson
 
+![alt text](/assets/projects/derasande2.jpg)
+
+![alt text](/assets/projects/derasande3.jpg)
+
+![alt text](/assets/projects/derasande4.jpg)
+
+![alt text](/assets/projects/derasande5.jpg)
+
+![alt text](/assets/projects/derasande6.jpg)
+
+![alt text](/assets/projects/derasande7.jpg)
+
+![alt text](/assets/projects/derasande8.jpg)
+
 ![alt text](/assets/projects/derasande1.jpg)
