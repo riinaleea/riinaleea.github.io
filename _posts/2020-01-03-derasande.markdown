@@ -18,7 +18,8 @@ productionstyle: Short Film
   the actors were really important because all the actors were also teenagers themselves  
   so they knew the world of high school better than us. Every character had their own  
   social circles, favorite bands and family issues. We wanted the characters to be from  
-  the same “teenager factory” but that everyone would still have their unique  characteristics.  
+  the same “teenager factory” but that everyone would still have their unique  
+  characteristics.  
 
   Costume Designer - Riina Leea  
   Director and Scriptwriter - Malin Nyqvist  
