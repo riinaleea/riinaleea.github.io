@@ -8,7 +8,6 @@ productionstyle: Performance
 ---
   2020  
   Performance   
-  
   Amos Rex  
 
   What was it about? - Clowns are characters that are impertinent and forthright,  
@@ -23,8 +22,7 @@ productionstyle: Performance
   that is connected to yourself. Feathers started it all for us.  
 
   Costume Designer - Riina Leea  
-  Performers - Nenna Tyni and Sara-Maria Pirhonen  
-  
+  Performers - Nenna Tyni and Sara-Maria Pirhonen    
   Photographers - Deniz Kaya and Enni Laitinen  
 
 ![alt text](/assets/projects/klovnit3.jpg)
