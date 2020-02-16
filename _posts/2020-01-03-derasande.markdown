@@ -8,8 +8,19 @@ productionstyle: Short Film
 ---
   2020  
   Short Film  
+  Aalto Arts / ELO Film School Finland  
 
-Aalto Arts / ELO Film School Finland
+  What was it about? – Group of high schoolers try to plan their “abispeksi”  
+  when a rumor about classmates attempt to do a suicide starts to go around  
+  the cafeteria.  
+
+  What was important for me? – The story involves many high school students  
+  whose characters were really inspiring to create with Malin and the actors.  
+  Discussions with the actors were really important because all the actors were  
+  also teenagers themselves so they knew the world of high school better than  
+  us. Every character had their own social circles, favorite bands and family  
+  issues. We wanted the characters to be from the same “teenager factory” but  
+  that everyone would still have their unique characteristics.  
 
   Costume Designer - Riina Leea  
   Director and Scriptwriter - Malin Nyqvist  
