@@ -6,7 +6,6 @@ featured-image-alt: Donkey Hot musikaali
 categories: jekyll update
 productionstyle: Multiple Productions
 ---
-  Sankariliiga Prop Shop  
   Multiple productions:  
    2018 esa -space suite (Prop Technician)  
    2018 Kepler 62 (Costumer)  
