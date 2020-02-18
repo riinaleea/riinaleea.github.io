@@ -14,10 +14,9 @@ Recent projects have included costume design for Aalto University’s short film
 <div class="post-text-alone">  
 Important for Riina are new challenges, visual dramaturgy, physical story telling and gentle and equal working enviroment.
 </div>  
-
+<p></p>
 riina.leea(@)gmail.com
 
 [Download CV](2020cvnieminen.pdf)
 
-[Theatre Tuike](http://www.teatterituike.fi/portfolio/items/riina-nieminen/) 
 
