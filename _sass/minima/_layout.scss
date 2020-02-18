@@ -134,6 +134,10 @@ margin-top: 20px;
  .site-nav {
   right: 22%;
  }
+ .post-text-alone {
+  max-width: 100%;
+  margin: auto;
+}
 }
 
 /**
@@ -294,10 +298,6 @@ margin-top: 20px;
   }
 }
 .post-text-alone {
-  max-width: 70%;
-  margin: auto;
-}
-.post-text-alone2 {
   max-width: 70%;
   margin: auto;
 }
