@@ -6,6 +6,7 @@ featured-image-alt: Klovnit Amos Rex
 categories: jekyll update
 productionstyle: Performance
 ---
+<div class="post-text-alone">
   2020  
   Performance   
   Amos Rex  
@@ -18,6 +19,7 @@ productionstyle: Performance
   Performers - Nenna Tyni and Sara-Maria Pirhonen  
 
   Photographers - Deniz Kaya and Enni Laitinen  
+</div>
 
 ![alt text](/assets/projects/klovnit3.jpg)
 
