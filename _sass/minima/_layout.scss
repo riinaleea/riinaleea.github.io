@@ -294,17 +294,17 @@ margin-top: 20px;
   }
 }
 
-@media screen and (max-width: 600px) {
-  .post-text-alone {
-   max-width: 100%;
-   margin: auto;
- }
- }
-
 .post-text-alone {
   max-width: 70%;
   margin: auto;
 }
+
+@media screen and (max-width: 600px) {
+  .post-text-alone {
+   max-width: 100%;
+   margin: auto;
+  }
+ }
 
 .post-content {
   text-align: center;
