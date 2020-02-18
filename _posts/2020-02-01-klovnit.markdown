@@ -13,12 +13,11 @@ productionstyle: Performance
 <div class="post-text-alone">  
   What was it about? – Clowns are characters that are impertinent and forthright, they say uncomfortable things out loud without caring about the consequences. They work against learned and established approaches. In the exhibition the artists have put the forthright nature of clowns on a collision course with our daily lives.  
 </div>  
-
-
-<div class="post-text-alone2">  
+<p></p>
+<div class="post-text-alone">  
   What was important for me? - Our working group was so small that the process was really intense and personal. It was fascinating to work with the characteristics of clowns. They have such a long history in Western culture and you want to be connected to it but at the same time you want to create something new and something that is connected to yourself. Feathers started it all for us.  
 </div>  
-
+<p></p>
 
   Costume Designer - Riina Leea  
   Performers - Nenna Tyni and Sara-Maria Pirhonen  
