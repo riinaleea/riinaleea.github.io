@@ -8,9 +8,9 @@ Riina Leea is soon to be Master of Art and Design gratuating from Aalto Universi
 </div>  
 <p></p>
 <div class="post-text-alone">    
-Recent projects have included costume design for Aalto University’s short film De Rasande (2020), costume and set design for drama and circus production Mun siivet ei mahdu kahvihuoneeseen (2019) with Janne Vasama and costume and set design for Theatre Academy’s and Q-Theatre’s musical Donkey Hot (2019). Riina has been a permanent actress in [Theatre Tuike](http://www.teatterituike.fi/portfolio/items/riina-nieminen/) since 2016 and her latest work as an actress has been Siskoni Mun (2020) and Kreivi Hohoo (2019).  
+Recent projects have included costume design for Aalto University’s short film De Rasande (2020), costume and set design for drama and circus production Mun siivet ei mahdu kahvihuoneeseen (2019) with Janne Vasama and costume and set design for Theatre Academy’s and Q-Theatre’s musical Donkey Hot (2019). Riina has been a permanent actress in <a href="http://www.teatterituike.fi/portfolio/items/riina-nieminen/">Theatre Tuike</a> since 2016 and her latest work as an actress has been Siskoni Mun (2020) and Kreivi Hohoo (2019).  
 </div>  
-
+<p></p>
 <div class="post-text-alone">  
 Important for Riina are new challenges, visual dramaturgy, physical story telling and gentle and equal working enviroment.
 </div>  
@@ -19,5 +19,5 @@ riina.leea(@)gmail.com
 
 [Download CV](2020cvnieminen.pdf)
 
-
+[Theatre Tuike](http://www.teatterituike.fi/portfolio/items/riina-nieminen/) 
 
