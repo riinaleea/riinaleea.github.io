@@ -293,10 +293,6 @@ margin-top: 20px;
     @include relative-font-size(2.25);
   }
 }
-.post-text-alone {
-  max-width: 70%;
-  margin: auto;
-}
 
 @media screen and (max-width: 600px) {
   .post-text-alone {
@@ -304,7 +300,12 @@ margin-top: 20px;
    margin: auto;
  }
  }
- 
+
+.post-text-alone {
+  max-width: 70%;
+  margin: auto;
+}
+
 .post-content {
   text-align: center;
   margin-bottom: $spacing-unit;
