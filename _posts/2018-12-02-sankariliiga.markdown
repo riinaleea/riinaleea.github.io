@@ -13,9 +13,9 @@ productionstyle: Multiple Productions
    2017 Hevireissu (Prop Technician)  
    2017 Space Nation (Prop Technician)  
 
-  What was it about? – Space Nation (2017) and esa-space suit (2018) were both space suit productions for companies. Kepler 62 (2017) is a trailer for a show. Tuntematon REDUX (2017) is a short film that tells a story of two soldiers that fix an enemy’s broken android. Hevireissu (2017) is a movie and we made a realistic wolverine puppet for it. 
+  What was it about? – Esa-space suit (2018) and Space Nation (2017) were both space suit productions for companies. Kepler 62 (2017) is a trailer for a show. Tuntematon REDUX (2017) is a short film that tells a story of two soldiers that fix enemy’s broken android. Hevireissu (2017) is a comedy movie and we made a realistic wolverine puppet for it. 
 
-  What was important for me? – Working with Petteri and Emilia in Sankariliiga Prop Shop has been a dream come true for me. Petteri is super talented designer but he still gives you lots of freedom and trusts your skills. Emilia has teached me many new techniques and I have improved my skills with foam building while working in prop shop. Highlights could be foam work in Hevireissu and esa –space suit, leather work and armor building in Tuntematon REDUX and soft foam work in Kepler 62.
+  What was important for me? – Working with Petteri and Emilia in Sankariliiga Prop Shop has been a dream come true for me. Petteri is talented and demanding designer but he still gives you lots of freedom and trusts your skills. I did my own work schedule, suggested ideas how to make some parts of the projects and worked with different materials. Emilia has teached me many new techniques and I have improved especially my foam sculpturing skills while working in the prop shop. Highlights could be foam work in Hevireissu and esa –space suit, leather work and armor building in Tuntematon REDUX and soft foam and electrical work in Kepler 62.
 
   Costumer and Prop Technician - Riina Leea  
   Costume Designer - Petteri Mäkinen  
