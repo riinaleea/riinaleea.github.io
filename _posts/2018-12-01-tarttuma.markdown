@@ -10,10 +10,12 @@ productionstyle: Contemporary Dance
   Contemporary Dance  
   Theatre Academy
 
+<div class="post-text-alone">  
   What was it about? – We created a space for questions. How is the spirit of the times being embodied. How to recognize when something ends and something else begins. The performers are following a nonlinear line of questions, questions such as these: what grasps, what follows, what leads and what takes place while waiting.
-
+<p></p> 
   What was important for me? – We wanted to work as an equal group of artists and that taught me a lot. The discussions that we had are still lingering in my mind because we had interesting discussion methods and we accomplished to create an environment where everybody was heard. This was not easy and I am so proud of our group that we did not give up in the middle of it. I was really interested in blobs or clothing creatures that woke up when the performers interacted with them and went back to sleep when the performers left them alone. The space was open for audience and performers to walk around freely so some of the audience members started to also play with these blob creatures. Every blob was made of different recycled clothes and they felt different, moved differently and sounded different.
-
+<p></p> 
+</div>
   Costume Designer and Performer - Riina Leea  
   Co-Artists - Pietari Kärki, Nooa Kekoni, Akim Bakhtaoui, Una Auri,  
   Riikka Karjalainen, Oskari Ruuska, Oula Rytkönen and Siiri Kortelainen

@@ -9,10 +9,12 @@ productionstyle: Dance Short Film
   2016    
   Dance Short Film  
 
+<div class="post-text-alone">  
   What was it about? – Blind is a dance short film about how the routine of everyday encounters escalate into a struggle of egos. What becomes of love in a relationship where the other becomes so obvious that you no longer can see each other.  
-
+<p></p> 
   What was important for me? – The whole story happens almost in one scene but still the appearance of the couple changed along the struggle of egos. They had three different costumes that had small changes in color and in shape. The audience might not notice these changes immediately but they might notice that something is a little bit off or that the characters seem fractured and hazy. I loved working with the dancers Mikko and Mia. We discussed about all the ideas and the workflow was inspiring.
-
+<p></p> 
+</div>
   Costume Designer - Riina Leea  
   Starring - Mia Jaatinen and Mikko Makkonen  
   Director - Katariina Räty  
