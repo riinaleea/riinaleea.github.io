@@ -410,3 +410,16 @@ margin-top: 20px;
 .fadeIn-bottom{
   top: 80%;
 }
+
+//yritys saada project linkki vain mobiiliin
+.show-only-on-mobile {
+  display: none;
+}
+
+
+@media screen and (max-width: 600px) {
+ .show-only-on-mobile {
+     display: block;
+ }
+}
+
