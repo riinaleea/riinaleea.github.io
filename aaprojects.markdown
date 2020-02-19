@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-link: /
+link: riinaleea.com
 ---
 
 
