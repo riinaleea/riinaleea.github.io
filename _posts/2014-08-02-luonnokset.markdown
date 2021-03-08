@@ -9,6 +9,9 @@ productionstyle: Drawings and illustrations
    
   Costume sketches and other illustrations
 
+![alt text](/assets/projects/luonnos10.jpg)
+  With Pate Pesonius
+
 ![alt text](/assets/projects/luonnos1.jpg)
 
 ![alt text](/assets/projects/luonnos2.jpg)
