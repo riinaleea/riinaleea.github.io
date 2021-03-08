@@ -7,7 +7,7 @@ categories: jekyll update
 productionstyle: Music Theatre Production
 ---
   2021  
-  Music Theatre Production
+  Music Theatre Production  
   Q-Theatre
 
 <div class="post-text-alone">  
@@ -20,10 +20,10 @@ productionstyle: Music Theatre Production
   Costume and Set Designer - Riina Leea Nieminen  
   Director and Scriptwriter - Juho Mantere  
   Composer and Musician - Henri Lyysaari  
-  Lighting Designer - William Iles
-  Sound Designer - Pekka Kiiliäinen  
-  Actors - Miro Lopperi, Olli Riipinen, Miiko Toiviainen and Anna-Sofia Tuominen
-
+  Lighting Designer - William Iles  
+  Sound Designer - Pekka Kiiliäinen   
+  Actors - Miro Lopperi, Olli Riipinen, Miiko Toiviainen and Anna-Sofia Tuominen  
+  
   Photographer - Pate Pesonius
 
 
