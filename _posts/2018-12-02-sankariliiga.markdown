@@ -19,7 +19,7 @@ productionstyle: Multiple Productions
   What was important for me? – Working with Petteri and Emilia in Sankariliiga Prop Shop has been a dream come true for me. Petteri is talented and demanding designer but he still gives you lots of freedom and trusts your skills. I did my own work schedule, suggested ideas how to make some parts of the projects and worked with different materials. Emilia has teached me many new techniques and I have improved especially my foam sculpturing skills while working in the prop shop. Highlights could be foam work in Hevireissu and esa –space suit, leather work and armor building in Tuntematon REDUX and soft foam and electrical work in Kepler 62.
 <p></p>
 </div>
-  Costumer and Prop Technician - Riina Leea  
+  Costumer and Prop Technician - Riina Leea Nieminen  
   Costume Designer - Petteri Mäkinen  
   Co-Workers - Emilia Lindholm and Anni Konttinen  
 
