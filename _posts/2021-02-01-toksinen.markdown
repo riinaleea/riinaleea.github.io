@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Moment 2.0"
+featured-image: /assets/klovnit_linkki.jpg
+featured-image-alt: Klovnit Amos Rex
+categories: jekyll update
+productionstyle: Performance
+---
+  2020  
+  Performance   
+  Amos Rex  
+
+<div class="post-text-alone">  
+  What was it about? – Clowns are characters that are impertinent and forthright, they say uncomfortable things out loud without caring about the consequences. They work against learned and established approaches. In the exhibition the artists have put the forthright nature of clowns on a collision course with our daily lives.  
+<p></p>
+  What was important for me? - Our working group was small which made the process intensive and personal. It was fascinating to work with the characteristics of clowns. They have a long history in Western culture and we wanted to be connected to it but at the same time we wanted to create something contemporary and something that represents us as an artists. Feathers started it all for us.  
+</div>  
+<p></p>
+
+  Costume Designer - Riina Leea  
+  Performers - Nenna Tyni and Sara-Maria Pirhonen  
+
+  Photographers - Deniz Kaya and Enni Laitinen  
+
+
+![alt text](/assets/projects/klovnit3.jpg)
+
+![alt text](/assets/projects/klovnit9.jpg)
+
+![alt text](/assets/projects/klovnit5.jpg)
+
+![alt text](/assets/projects/klovnit1.jpg)
+
+![alt text](/assets/projects/klovnit2.jpg)
+
+![alt text](/assets/projects/klovnit6.jpg)
+
+![alt text](/assets/projects/klovnit7.jpg)
+
+![alt text](/assets/projects/klovnit8.jpg)
+
+![alt text](/assets/projects/klovnit4.jpg)
