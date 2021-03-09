@@ -24,10 +24,24 @@ productionstyle: Music Theatre Production
   Sound Designer - Pekka Kiiliäinen   
   Actors - Miro Lopperi, Olli Riipinen, Miiko Toiviainen and Anna-Sofia Tuominen  
   
-  Photographer - Pate Pesonius
+  Photographer - Pate Pesonius  
+  Poster - Riina Leea Nieminen and Pate Pesonius  
+  
+![alt text](/assets/projects/toksinen1.jpg)  
+  
+![alt text](/assets/projects/toksinen2.jpg)  
 
+![alt text](/assets/projects/toksinen3.jpg)  
 
-![alt text](/assets/projects/luonnos10.jpg)
+![alt text](/assets/projects/toksinen4.jpg)  
+
+![alt text](/assets/projects/toksinen5.jpg)  
+
+![alt text](/assets/projects/toksinen6.jpg)  
+
+![alt text](/assets/projects/toksinen7.jpg)  
+  
+![alt text](/assets/projects/luonnos10.jpg)  
 
 
 
