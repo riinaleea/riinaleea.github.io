@@ -10,7 +10,7 @@ Recent projects have included costume and set design for Q-Theatre's music theat
 <p></p>
 Important for Riina are new challenges, visual dramaturgy, physical story telling and gentle and equal working enviroment.
 <p></p>
-<a href="https://aaltodoc.aalto.fi/handle/123456789/101800">Master Thesis</a> "Art of costume design and how to verbalize it– Designing moments of the characters, costume design styles and communication as an artist in a working group"
+<a href="https://aaltodoc.aalto.fi/handle/123456789/101800">Master's Thesis</a> "Art of costume design and how to verbalize it– Designing moments of the characters, costume design styles and communication as an artist in a working group"
 </div>  
 <p></p>
 riina.leea(@)gmail.com
