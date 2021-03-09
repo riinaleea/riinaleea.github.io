@@ -24,7 +24,7 @@ productionstyle: Multiple Productions
   Co-Workers - Emilia Lindholm and Anni Konttinen  
 
   esa - Space Suit  
-  Photographer - Riina Leea  
+  Photographer - Riina Leea Nieminen  
 
 ![alt text](/assets/projects/liiga1.jpg)
 
@@ -33,7 +33,7 @@ productionstyle: Multiple Productions
 ![alt text](/assets/projects/liiga3.jpg)
 
   Kepler 62  
-  Photographers - Emilia Lindholm and Riina Leea  
+  Photographers - Emilia Lindholm and Riina Leea Nieminen  
 
 ![alt text](/assets/projects/liiga4.jpg)
 
@@ -42,7 +42,7 @@ productionstyle: Multiple Productions
 ![alt text](/assets/projects/liiga6.jpg)
 
   Tuntematon REDUX  
-  Photographers - Riina Leea and Marko Saari  
+  Photographers - Riina Leea Nieminen and Marko Saari  
 
 ![alt text](/assets/projects/liiga7.jpg)
 
@@ -53,7 +53,7 @@ productionstyle: Multiple Productions
 ![alt text](/assets/projects/liiga10.jpg)
 
   Hevireissu  
-  Photographers - Emilia Lindholm and Riina Leea  
+  Photographers - Emilia Lindholm and Riina Leea Nieminen  
 
 ![alt text](/assets/projects/liiga11.jpg)
 
