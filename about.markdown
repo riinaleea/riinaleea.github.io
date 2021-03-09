@@ -17,4 +17,4 @@ Riina is a part of an online exhibition <a href="https://kuviteltutodellisuus.fi
 <p></p>
 riina.leea(@)gmail.com
 
-# [Download CV](2020cvnieminen.pdf)
+<!-- [Download CV](2020cvnieminen.pdf) -->
