@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kerttu Kaskas ja kadonnut kummitus"
-featured-image: /assets/siskoni_linkki.jpg
+featured-image: /assets/kaskas_linkki.jpg
 featured-image-alt: Kerttu kaskas teatteri lastenteatteri teatteri tuike
 categories: jekyll update
 productionstyle: Stream Theatre Production
