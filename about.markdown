@@ -9,6 +9,8 @@ Riina Leea Nieminen is Master of Art and Design gratuated from Aalto University 
 Recent projects have included costume and set design for Q-Theatre's music theatre Toksinen Kabaree (2021), costume design for Aalto University’s short film De Rasande (2020), costume and set design for drama and circus production Mun siivet ei mahdu kahvihuoneeseen (2019) with Janne Vasama and costume and set design for Theatre Academy’s and Q-Theatre’s musical Donkey Hot (2019). Riina has been a permanent actress in <a href="http://www.teatterituike.fi/portfolio/items/riina-nieminen/">Theatre Tuike</a> since 2016 and her latest work as an actress has been Rohkea Muurahainen (2020), Etsivä Kerttu Kas Kas (2020), Siskoni Mun (2020) and Kreivi Hohoo (2019).  
 <p></p>
 Important for Riina are new challenges, visual dramaturgy, physical story telling and gentle and equal working enviroment.
+<p></p>
+<a href="https://aaltodoc.aalto.fi/handle/123456789/101800">Master Thesis</a> "Art of costume design and how to verbalize it– Designing moments of the characters, costume design styles and communication as an artist in a working group"
 </div>  
 <p></p>
 riina.leea(@)gmail.com
