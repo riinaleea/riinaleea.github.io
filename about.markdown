@@ -12,7 +12,7 @@ Important for Riina are new challenges, visual dramaturgy, physical story tellin
 <p></p>
 <a href="https://aaltodoc.aalto.fi/handle/123456789/101800">Master's Thesis</a> "Art of costume design and how to verbalize it– Designing moments of the characters, costume design styles and communication as an artist in a working group"
 <p></p>
-Riina is a part of an online exhibition <a href="https://kuviteltutodellisuus.fi/osallistuja/riina-nieminen/">Kuviteltu todellisuus</a> by the Theatre, Film and Television Designers (Lavastus- ja pukusuunnittelijat, LP) organization.
+Riina is part of an online exhibition <a href="https://kuviteltutodellisuus.fi/osallistuja/riina-nieminen/">Kuviteltu todellisuus</a> by the Theatre, Film and Television Designers (Lavastus- ja pukusuunnittelijat, LP) organization.
 </div>  
 <p></p>
 riina.leea(@)gmail.com
