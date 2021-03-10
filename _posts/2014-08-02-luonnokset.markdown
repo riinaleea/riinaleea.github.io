@@ -7,11 +7,11 @@ categories: jekyll update
 productionstyle: Drawings and illustrations
 ---
    
-  Costume sketches and other illustrations
-
-![alt text](/assets/projects/luonnos10.jpg)  
-
+  Costume sketches and other illustrations  
+  
   Toksinen Kabaree poster with Pate Pesonius  
+  
+![alt text](/assets/projects/luonnos10.jpg)  
 
 ![alt text](/assets/projects/luonnos1.jpg)
 
