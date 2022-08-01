@@ -28,6 +28,15 @@ productionstyle: Theatre Production
   
 ![alt text](/assets/projects/pelikanen1.jpg)  
   
+![alt text](/assets/projects/pelikanen2.jpg)
+
+![alt text](/assets/projects/pelikanen3.jpg) 
+
+![alt text](/assets/projects/pelikanen4.jpg)  
+
+![alt text](/assets/projects/pelikanen5.jpg) 
+
+![alt text](/assets/projects/pelikanen6.jpg)   
  
 
 
