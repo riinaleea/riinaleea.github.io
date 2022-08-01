@@ -18,10 +18,11 @@ productionstyle: Theatre Production
 <p></p>
 
   Costume and Set Designer - Riina Leea Nieminen  
-  Director - Juho Mantere
+  Director - Juho Mantere  
   Scriptwriters - August Strindberg and Juho Mantere  
   Lighting Designer - Nadja Räikkä  
   Sound Designer - Pekka Kiiliäinen   
+  Hair and makeup consultant - Riikka Virtanen  
   Actors - Maria Ahlroth, Martin Bahne, Joonas Heikkinen and Iida Kuningas 
   
   Photographer - Ernest Protasiewicz
