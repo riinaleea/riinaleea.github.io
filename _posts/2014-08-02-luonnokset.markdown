@@ -9,11 +9,10 @@ productionstyle: Drawings and illustrations
    
   Costume sketches and other illustrations  
   
-  Toksinen Kabaree poster with Pate Pesonius  
-  
-![alt text](/assets/projects/luonnos10.jpg)    
 
 ![alt text](/assets/projects/luonnos13.jpg) 
+
+![alt text](/assets/projects/luonnos12.jpg) 
 
 ![alt text](/assets/projects/luonnos1.jpg)
 
@@ -34,4 +33,8 @@ productionstyle: Drawings and illustrations
 ![alt text](/assets/projects/luonnos3.jpg)
 
 ![alt text](/assets/projects/luonnos7.jpg)
+
+  Toksinen Kabaree poster with Pate Pesonius  
+  
+![alt text](/assets/projects/luonnos10.jpg)    
 
