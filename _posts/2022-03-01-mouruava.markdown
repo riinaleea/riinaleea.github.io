@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Mouruava Yösydän"
+featured-image: /assets/mouruava_linkki.jpg
+featured-image-alt: Mouruava yösydän Ahaa teatteri
+categories: jekyll update
+productionstyle: Music Theatre Production
+---
+  2022  
+  Music Theatre Production  
+  Ahaa Theatre
+
+<div class="post-text-alone">  
+  What was it about? – Coming soon... 
+<p></p>
+  What was important for me? - Coming soon...
+</div>  
+<p></p>
+
+  Costume Designer - Riina Leea Nieminen  
+  Director and scriptwriter - Jukka Kittilä  
+  Set Designer - Heini Maaranen  
+  Lighting Designer - Antti Kauppi  
+  Composer and Sound Designer - Kari Mäkiranta     
+  Hair and makeup artist - Pia Kähkönen  
+  Actors - Oskar Hartman, Reetta Hyreen, Roosa Lehtinen and Teemu Mäkinen   
+  
+  Photographer - Jari Kivelä  
+  
+![alt text](/assets/projects/mouruava1.jpg)  
+  
+![alt text](/assets/projects/mouruava2.jpg)
+
+![alt text](/assets/projects/mouruava3.jpg) 
+
+![alt text](/assets/projects/mouruava4.jpg)  
+
+![alt text](/assets/projects/mouruava5.jpg) 
+
+![alt text](/assets/projects/mouruava6.jpg)   
+ 
+
+
+
