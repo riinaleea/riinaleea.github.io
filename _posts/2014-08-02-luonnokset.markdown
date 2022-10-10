@@ -13,20 +13,25 @@ productionstyle: Drawings and illustrations
   
 ![alt text](/assets/projects/luonnos10.jpg)    
 
-![alt text](/assets/projects/luonnos1.jpg)
+![alt text](/assets/projects/luonnos13.jpg) 
 
-![alt text](/assets/projects/luonnos11.jpg)  
+![alt text](/assets/projects/luonnos1.jpg)
 
 ![alt text](/assets/projects/luonnos2.jpg)
 
-![alt text](/assets/projects/luonnos5.jpg)
-
 ![alt text](/assets/projects/luonnos9.jpg)
 
-![alt text](/assets/projects/luonnos6.jpg)
+![alt text](/assets/projects/luonnos6.jpg)  
+
+![alt text](/assets/projects/luonnos14.jpg) 
+
+![alt text](/assets/projects/luonnos11.jpg) 
+
+![alt text](/assets/projects/luonnos5.jpg)  
+
+![alt text](/assets/projects/luonnos12.jpg) 
 
 ![alt text](/assets/projects/luonnos3.jpg)
 
 ![alt text](/assets/projects/luonnos7.jpg)
 
-![alt text](/assets/projects/luonnos8.jpg)
