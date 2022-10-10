@@ -12,6 +12,8 @@ productionstyle: Drawings and illustrations
 
 ![alt text](/assets/projects/luonnos13.jpg) 
 
+![alt text](/assets/projects/luonnos15.jpg) 
+
 ![alt text](/assets/projects/luonnos12.jpg) 
 
 ![alt text](/assets/projects/luonnos1.jpg)
