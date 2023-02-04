@@ -10,12 +10,13 @@ productionstyle: Music Theatre Production
   Music Theatre Production  
   Q-Theatre  
     
-    
+<p></p>    
 <div class="post-text-alone">  
   What was it about? – The year is 2031. Life on Earth has become impossible. Mankind has not been able to meet the challenges of this time; ecological disaster and pandemic-like toxicity. Operation "Tähtihiisi" is humanity's last chance. The Finnish space corporation is loading the last natural resources and a handful of proven good individuals of humanity into the starship. The ship is heading towards the darkness of the cosmos with the goal of finding a new home for all of us. 
 <p></p>
   <em>What was important for me? - This production was a dream come true for me. It was a great opportunity to work in the well respected Q-Theatre and with an amazing team. However at the same time during the rehearsals there was this dark shadow created by COVID-19 pandemic and all the theatres were shutting down. This production reminded me how important theatre is for me and how much I love to create performances.</em>
 </div>  
+<p></p>
 <p></p>
     
   Costume and Set Designer - Riina Leea Nieminen  
@@ -25,11 +26,12 @@ productionstyle: Music Theatre Production
   Sound Designer - Pekka Kiiliäinen   
   Hair and makeup consultants - Riikka Virtanen and Saara Huuhtanen  
   Actors - Miro Lopperi, Olli Riipinen, Miiko Toiviainen and Anna-Sofia Tuominen  
-    
+
+<p></p>    
     
   Photographer - Pate Pesonius  
   Poster - Riina Leea Nieminen and Pate Pesonius  
-    
+<p></p>    
     
 ![alt text](/assets/projects/toksinen1.jpg)  
   
