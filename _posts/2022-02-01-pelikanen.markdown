@@ -10,6 +10,7 @@ productionstyle: Theatre Production
   Theatre Production  
   Viirus Theatre
 
+  
 <div class="post-text-alone">  
   What was it about? – Coming soon... 
 <p></p>
@@ -17,6 +18,7 @@ productionstyle: Theatre Production
 </div>  
 <p></p>
 
+  
   Costume and Set Designer - Riina Leea Nieminen  
   Director - Juho Mantere  
   Scriptwriters - August Strindberg and Juho Mantere  
@@ -25,7 +27,9 @@ productionstyle: Theatre Production
   Hair and makeup consultant - Riikka Virtanen  
   Actors - Maria Ahlroth, Martin Bahne, Joonas Heikkinen and Iida Kuningas 
   
+
   Photographer - Ernest Protasiewicz
+  
   
 ![alt text](/assets/projects/pelikanen1.jpg)  
   
