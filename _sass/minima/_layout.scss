@@ -7,7 +7,7 @@
   //min-height: $spacing-unit * 1.865;
   min-height: 100px;
   //background-color: #450213;
-  background-color: #111111;
+  background-color: #171717;
  
 
   // Positioning context for the mobile navigation icon
@@ -128,7 +128,7 @@ margin-top: 20px;
 //kännykässä olevia muutoksia
 @media screen and (max-width: 600px) {
   .site-nav .page-link {
-    color: #111111;
+    color: #171717;
   }
   }
 @media screen and (max-width: 600px) {
@@ -143,7 +143,7 @@ margin-top: 20px;
 .site-footer {
   //border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
-  background-color: #111111;
+  background-color: #171717;
   //background-color: #450213;
   //background-color: #35020f;
 }
@@ -238,7 +238,7 @@ margin-top: 20px;
   padding: $spacing-unit 0;
   flex: 1;
   //background-color: #d6d6d6;
-  background-color: #111111;
+  background-color: #171717;
   //color: #03989d
   color: #0594a1;
 }
@@ -424,6 +424,3 @@ margin-top: 20px;
  }
 }
 
-.emphasized {
-  font-style: italic;
-}
