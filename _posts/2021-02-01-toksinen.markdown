@@ -8,8 +8,8 @@ productionstyle: Music Theatre Production
 ---
   2021  
   Music Theatre Production  
-  Q-Theatre
-
+  Q-Theatre  
+  
   
 <div class="post-text-alone">  
   What was it about? – The year is 2031. Life on Earth has become impossible. Mankind has not been able to meet the challenges of this time; ecological disaster and pandemic-like toxicity. Operation "Tähtihiisi" is humanity's last chance. The Finnish space corporation is loading the last natural resources and a handful of proven good individuals of humanity into the starship. The ship is heading towards the darkness of the cosmos with the goal of finding a new home for all of us. 
@@ -26,7 +26,7 @@ productionstyle: Music Theatre Production
   Hair and makeup consultants - Riikka Virtanen and Saara Huuhtanen  
   Actors - Miro Lopperi, Olli Riipinen, Miiko Toiviainen and Anna-Sofia Tuominen  
   
-
+  
   Photographer - Pate Pesonius  
   Poster - Riina Leea Nieminen and Pate Pesonius  
   
