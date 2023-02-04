@@ -13,7 +13,7 @@ productionstyle: Theatre Production
 <div class="post-text-alone">  
   What was it about? – Coming soon... 
 <p></p>
-<span class="emphasized">  What was important for me? - Coming soon... </span>
+<span class="emphasized">What was important for me? - Coming soon...</span>
 </div>  
 <p></p>
 
