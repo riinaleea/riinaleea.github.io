@@ -18,7 +18,7 @@ productionstyle: Theatre Production
   Lighting Designer - Nadja Räikkä  
   Sound Designer - Pekka Kiiliäinen   
   Hair and makeup consultant - Riikka Virtanen  
-  Actors - Maria Ahlroth, Martin Bahne, Joonas Heikkinen and Iida Kuningas 
+  Actors - Maria Ahlroth, Martin Bahne, Joonas Heikkinen and Iida Kuningas  
 
   <br/>
 
