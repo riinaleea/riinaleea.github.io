@@ -19,7 +19,7 @@ productionstyle: Musical
   Dance Manager - Miia Puranen  
   Sound Designer - Kristian Penttinen  
   Lighting Designer - Timo Hiekkanen  
-  Dramaturg - Veera Tyhtilä 
+  Dramaturg - Veera Tyhtilä  
   <br/>
 <p></p>  
 <div class="post-text-alone">  
