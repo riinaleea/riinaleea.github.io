@@ -10,13 +10,7 @@ productionstyle: Musical
   Musical  
   Co-production Theatre Academy and Q-Theatre  
   <br/>
-<p></p>
-<div class="post-text-alone"> 
-  What was it about? – New trainee Jusu is coming to Q Theatre and she dreams to become an artist. Chance of a life time opens up for her when theatre’s regular actors refuse to come to perform the evening’s play. Jusu decides to take the impossible challenge of saving the evening’s play and she gets help from tired theatre technicians and dead mentor. Nothing stops the theatre machine!  
-<p></p>
-  What was important for me? – This musical was a wonderful and crazy production that we did as a group of aspiring artists who loves theatre from the bottom of our hearts. We made Finland’s biggest musical in Töölö’s smallest stage. I wanted to do both costume and set design because from the beginning I had intriguing ideas and visions. The set design started from an idea of a holy wooden stage to be in the center of everything and all the actions with this stage would be meaningful. We created four different visual worlds that represented different stages of illusion. From costumes point of view it was important to me that I fell in love with every character and this influenced my design decisions more than rational thinking. I loved to do this project because I trusted my intuition in many decisions and that gave me the sensation of flow. Henri's music was crazy good!
-</div>
-<p></p>
+<p></p>  
   Costume and Set Designer - Riina Leea Nieminen  
   Director and Scriptwriter - Juho Mantere  
   Composer - Henri Lyysaari  
@@ -28,6 +22,14 @@ productionstyle: Musical
   Makeup Artists - Essi Lammervo, Niina Kangas, Oona Kärkkäinen  
   Tia Kokljuschkin and Nicole Hjelt  
   Starring in the video - Elina Knihtilä, Tommi Korpela, Pirjo Lonka, Jussi Nikkilä and Laura Birn  
+  <br/>
+<p></p>
+<div class="post-text-alone"> 
+  What was it about? – New trainee Jusu is coming to Q Theatre and she dreams to become an artist. Chance of a life time opens up for her when theatre’s regular actors refuse to come to perform the evening’s play. Jusu decides to take the impossible challenge of saving the evening’s play and she gets help from tired theatre technicians and dead mentor. Nothing stops the theatre machine!  
+<p></p>
+  <em>What was important for me? – This musical was a wonderful and crazy production that we did as a group of aspiring artists who loves theatre from the bottom of our hearts. We made Finland’s biggest musical in Töölö’s smallest stage. I wanted to do both costume and set design because from the beginning I had intriguing ideas and visions. The set design started from an idea of a holy wooden stage to be in the center of everything and all the actions with this stage would be meaningful. We created four different visual worlds that represented different stages of illusion. From costumes point of view it was important to me that I fell in love with every character and this influenced my design decisions more than rational thinking. I loved to do this project because I trusted my intuition in many decisions and that gave me the sensation of flow. Henri's music was crazy good!</em>
+</div>
+<p></p>
 
   <br/>
   Photographers - Mitro Härkönen and Riina Leea Nieminen
