@@ -21,11 +21,11 @@ productionstyle: Theatre Production
   Hair and makeup artist - Saija Mäki  
   Actors - Sami Lalou, Annina Rokka, Asta Sveholm, Henri Tuominen, Tuula Väänänen and Tuure Korja   
   <br/>
-  
+
 <div class="post-text-alone">  
   What was it about? – Coming soon... 
 <p></p>
-<em>What was important for me? - Coming soon...</em>
+  <em>What was important for me? - Coming soon...</em>
 </div>  
 <p></p>
   

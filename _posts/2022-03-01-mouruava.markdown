@@ -23,7 +23,7 @@ productionstyle: Music Theatre Production
 <div class="post-text-alone">  
   What was it about? – Coming soon... 
 <p></p>
-  What was important for me? - Coming soon...
+  <em>What was important for me? - Coming soon...</em>
 </div>  
 <p></p>
 

@@ -11,15 +11,7 @@ productionstyle: Theatre Production
   Viirus Theatre
   <br/>
 
-  
-<div class="post-text-alone">  
-  What was it about? – Coming soon... 
-<p></p>
-  What was important for me? - Coming soon...
-</div>  
-<p></p>
-
-  
+<p></p>  
   Costume and Set Designer - Riina Leea Nieminen  
   Director - Juho Mantere  
   Scriptwriters - August Strindberg and Juho Mantere  
@@ -27,6 +19,14 @@ productionstyle: Theatre Production
   Sound Designer - Pekka Kiiliäinen   
   Hair and makeup consultant - Riikka Virtanen  
   Actors - Maria Ahlroth, Martin Bahne, Joonas Heikkinen and Iida Kuningas 
+  <br/>
+
+<div class="post-text-alone">  
+  What was it about? – Coming soon... 
+<p></p>
+  <em>What was important for me? - Coming soon...</em>
+</div>  
+<p></p>
   
   <br/>
   Photographer - Ernest Protasiewicz
