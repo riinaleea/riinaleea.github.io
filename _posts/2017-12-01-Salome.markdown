@@ -9,6 +9,7 @@ productionstyle: Theatre Production
   2017  
   Theatre Production  
   Theatre Academy and Half Q-Theatre  
+  <br/>
 
 <div class="post-text-alone">  
   What was it about? – Modern version of the story of Salome, who demanded and received the head of John the Baptist. Our version pondered topics such as how gender influences the roles of actors and director, how female gender is built from pieces by different parties and how actors’ have to sell themselves with audition videos. At the end of the play, actors killed male director Johan Fastland.  
@@ -22,7 +23,8 @@ productionstyle: Theatre Production
   Lighting Designer - Sami Roikola  
   Actors - Saga Sarkola, Marketta Tikkanen and Inka Reyes  
   
-Photographer Sami Roikola
+  <br/>
+  Photographer Sami Roikola
 
 ![alt text](/assets/projects/salome5.jpg)
 

@@ -9,12 +9,7 @@ productionstyle: Theatre Production
   2022  
   Theatre Production  
   Oulu Theatre
-
-<div class="post-text-alone">  
-  What was it about? – Coming soon... 
-<p></p>
-<em>What was important for me? - Coming soon...</em>
-</div>  
+  <br/>
 <p></p>
 
   Costume Designer - Riina Leea Nieminen  
@@ -25,7 +20,16 @@ productionstyle: Theatre Production
   Sound Designer - Rauno Paananen      
   Hair and makeup artist - Saija Mäki  
   Actors - Sami Lalou, Annina Rokka, Asta Sveholm, Henri Tuominen, Tuula Väänänen and Tuure Korja   
+  <br/>
   
+<div class="post-text-alone">  
+  What was it about? – Coming soon... 
+<p></p>
+<em>What was important for me? - Coming soon...</em>
+</div>  
+<p></p>
+  
+  <br/>
   Photographer - Janne-Pekka Manninen  
   
 ![alt text](/assets/projects/vanhempainilta1.jpg)  

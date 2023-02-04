@@ -9,6 +9,7 @@ productionstyle: Theatre Production
   2019  
   Theatre Production   
   Theatre Tuike  
+  <br/>
 <p></p>
 <div class="post-text-alone"> 
   What was it about? – It is Maija’s 7th birthday but her parents have forgotten about it. She is also afraid to start school and all her parent’s attention is stolen by his little brother. Maija decides to escape with the audience to the Golden World where her secret twin sister Frida is living. There Maija and Frida will have exciting adventures and Maija learns about REAL magic words. The play activates audience's senses of sight, hearing, touch and smell.  
@@ -22,6 +23,7 @@ productionstyle: Theatre Production
   Sound Designer - Aarne Linden  
   Lighting Designer - Nina Rinkinen  
 
+  <br/>
   Photographer - Nina Rinkinen
 
 ![alt text](/assets/projects/siskoni1.jpg)

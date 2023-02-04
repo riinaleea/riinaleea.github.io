@@ -12,6 +12,7 @@ productionstyle: Multiple Productions
    2017 Tuntematon REDUX (Costumer)  
    2017 Hevireissu (Prop Technician)  
    2017 Space Nation (Prop Technician)  
+   <br/>
 <p></p>
 <div class="post-text-alone"> 
   What was it about? – Esa-space suit (2018) and Space Nation (2017) were both space suit productions for companies. Kepler 62 (2017) is a trailer for a show. Tuntematon REDUX (2017) is a short film that tells a story of two soldiers that fix enemy’s broken android. Hevireissu (2017) is a comedy movie and we made a realistic wolverine puppet for it. 
@@ -23,6 +24,7 @@ productionstyle: Multiple Productions
   Costume Designer - Petteri Mäkinen  
   Co-Workers - Emilia Lindholm and Anni Konttinen  
 
+  <br/>
   esa - Space Suit  
   Photographer - Riina Leea Nieminen  
 

@@ -9,6 +9,7 @@ productionstyle: Musical
   2016  
   Musical  
   OMS-Theatre  
+  <br/>
 
 <div class="post-text-alone">  
   What was it about? – Ilmari, who was working in marketing company, realizes that his whole life is fake and he decides to leave everything behind. He wants to find himself and he goes to work on a cruise as a mascot. There Ilmari finds himself in the middle of drama, black comedy and incredible music numbers.
@@ -26,7 +27,8 @@ productionstyle: Musical
   Lighting Designer - Timo Hiekkanen  
   Dramaturg - Veera Tyhtilä  
 
-Photographer - Jussi Rekiaro
+  <br/>
+  Photographer - Jussi Rekiaro
 
 ![alt text](/assets/projects/hylje1.jpg)
 

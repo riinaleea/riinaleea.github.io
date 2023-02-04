@@ -9,6 +9,7 @@ productionstyle: Performance
   2020  
   Performance   
   Amos Rex  
+  <br/>
 
 <div class="post-text-alone">  
   What was it about? – Clowns are characters that are impertinent and forthright, they say uncomfortable things out loud without caring about the consequences. They work against learned and established approaches. In the exhibition the artists have put the forthright nature of clowns on a collision course with our daily lives.  
@@ -19,7 +20,8 @@ productionstyle: Performance
 
   Costume Designer - Riina Leea Nieminen  
   Performers - Nenna Tyni and Sara-Maria Pirhonen  
-
+  
+  <br/>
   Photographers - Deniz Kaya and Enni Laitinen  
 
 

@@ -9,6 +9,7 @@ productionstyle: Theatre Production
   2016-2017  
   Theatre Production  
   Theatre Tuike  
+  <br/>
 
 <div class="post-text-alone">  
   What was it about? – Veden alla is a speechless children’s play and its topic was water pollution. The story follows a girl that is having a boring and rainy day outside. Suddenly water level rises and the girl goes underwater. First she can’t breathe but then a magical fish kisses her and suddenly she can breathe underwater. She faces different kinds of friendly characters on her journey but then suddenly everybody swims away and she has to face the evil fish made out of trash. How will she survive?

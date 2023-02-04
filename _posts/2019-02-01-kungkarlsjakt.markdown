@@ -9,6 +9,7 @@ productionstyle: Opera
   2019  
   Opera  
   Metropolia University of Applied Sciences  
+  <br/>
 <p></p>
 <div class="post-text-alone"> 
   What was it about? – Young King is coming to the Åland Islands to go hunting. King’s close friend and his comrades start to plot against the young king. Leonora, the daughter of a local fisherman, hears their evil plot against the king’s life and saves him. In return, the king spares the life of her fiancé Jonathan, who has been condemned to death for killing one of the royal elks.
@@ -27,6 +28,7 @@ productionstyle: Opera
   Jussi Keltakangas, Olli-Jaakko Miettunen and Joonas Tuominen  
   Actor - Lina Johansson  
 
+  <br/>
   Photographer - Lydia Siikasmaa
 
 

@@ -9,6 +9,7 @@ productionstyle: Mascot Costume
   2019  
   Mascot Costume  
   Oma SP -bank  
+  <br/>
 <p></p>
 <div class="post-text-alone"> 
   What was it about? – Friendly Ringed Seal the Mascot travelled across the Finland promoting the bank Oma SP.

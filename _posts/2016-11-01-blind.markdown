@@ -8,6 +8,7 @@ productionstyle: Dance Short Film
 ---
   2016    
   Dance Short Film  
+  <br/>
 
 <div class="post-text-alone">  
   What was it about? – Blind is a dance short film about how the routine of everyday encounters escalate into a struggle of egos. What becomes of love in a relationship where the other becomes so obvious that you no longer can see each other.  

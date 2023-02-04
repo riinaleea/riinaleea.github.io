@@ -9,6 +9,7 @@ productionstyle: Short Film
   2020  
   Short Film  
   Aalto Arts / ELO Film School Finland  
+  <br/>
 <p></p>
 <div class="post-text-alone">  
   What was it about? – Group of high schoolers try to plan their “senior students' show”  when a rumor about classmates attempt to do a suicide starts to go around the cafeteria.  
@@ -26,7 +27,8 @@ productionstyle: Short Film
   Producer - Mikael Syrjälä  
   Costumer - Hilla Ruuska  
   Costume Assistants - Aurora Frestadius, Jenni Räsänen, Suvi Kajas and Laura Havimo  
-
+  
+  <br/>
   Photographers - Alvi Pakarinen and Linn Henrichson
 
 ![alt text](/assets/projects/derasande2.jpg)

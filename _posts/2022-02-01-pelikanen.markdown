@@ -9,6 +9,7 @@ productionstyle: Theatre Production
   2022  
   Theatre Production  
   Viirus Theatre
+  <br/>
 
   
 <div class="post-text-alone">  
@@ -27,10 +28,10 @@ productionstyle: Theatre Production
   Hair and makeup consultant - Riikka Virtanen  
   Actors - Maria Ahlroth, Martin Bahne, Joonas Heikkinen and Iida Kuningas 
   
-
+  <br/>
   Photographer - Ernest Protasiewicz
   
-  
+
 ![alt text](/assets/projects/pelikanen1.jpg)  
   
 ![alt text](/assets/projects/pelikanen2.jpg)

@@ -9,6 +9,7 @@ productionstyle: Music Video
   2018  
   Music Video - Ricky-Tick Big Band & Julkinen Sana  
   Aalto Arts / ELO Film School Finland  
+  <br/>
 
 <div class="post-text-alone">  
   What was it about? – Music video follows two lovers that get into a quarrel. They have to go through three mysterious characters and their tarot cards to get together again.

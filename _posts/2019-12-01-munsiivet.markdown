@@ -9,6 +9,7 @@ productionstyle: Contemporary Circus Production
   2019  
   Contemporary Circus Production  
   Co-production Sivuhenkilöt, Cirko - center for new circus and Helsinki Festival  
+  <br/>
 <p></p>
 <div class="post-text-alone"> 
   What was it about? – The fictional workplace sells personalized mugs and wall decals. Live Laugh Love. Smile every day. Unlike the slogans on the mugs, the hopes and emotions of the company’s five employees do not stay in line but fly out like birds against windows. The performance consists of aerial acrobatics, physical theatre, wings, weight, laughter and shame.  
@@ -27,6 +28,7 @@ productionstyle: Contemporary Circus Production
   Costume and Set Design Assistant - Oscar Dempsey  
   Producer - Emilia Hänninen  
 
+  <br/>
   Photography - Mitro Härkönen
 
 ![alt text](/assets/projects/siivet1.jpg)

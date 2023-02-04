@@ -9,6 +9,7 @@ productionstyle: Choir Drama
   2018  
   Choir Drama  
   Dominante ry  
+  <br/>
 
 <div class="post-text-alone">  
   What was it about? – Plague, starvation and war is raging in Finland in 1701 and the Finnish people are angry. They try to find shelter from a church. The priest of the church and an official start to argue about how to deal with these people. Everything seems miserable but there is hope in the end.
@@ -23,6 +24,7 @@ productionstyle: Choir Drama
   Choir - Dominante  
   Lighting Designer - Carl Sjöblom  
 
+  <br/>
   Photographers - Veera Nivalainen and Markku Rämö
 
 ![alt text](/assets/projects/salvat1.jpg)

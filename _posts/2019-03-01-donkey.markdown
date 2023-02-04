@@ -9,6 +9,7 @@ productionstyle: Musical
   2019  
   Musical  
   Co-production Theatre Academy and Q-Theatre  
+  <br/>
 <p></p>
 <div class="post-text-alone"> 
   What was it about? – New trainee Jusu is coming to Q Theatre and she dreams to become an artist. Chance of a life time opens up for her when theatre’s regular actors refuse to come to perform the evening’s play. Jusu decides to take the impossible challenge of saving the evening’s play and she gets help from tired theatre technicians and dead mentor. Nothing stops the theatre machine!  
@@ -28,6 +29,7 @@ productionstyle: Musical
   Tia Kokljuschkin and Nicole Hjelt  
   Starring in the video - Elina Knihtilä, Tommi Korpela, Pirjo Lonka, Jussi Nikkilä and Laura Birn  
 
+  <br/>
   Photographers - Mitro Härkönen and Riina Leea Nieminen
 
 ![alt text](/assets/projects/donkey1.jpg)
