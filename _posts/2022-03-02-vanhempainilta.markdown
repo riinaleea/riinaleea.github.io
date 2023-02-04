@@ -18,12 +18,12 @@ productionstyle: Theatre Production
 <p></p>
 
   Costume Designer - Riina Leea Nieminen  
-  Director - Jukka Heinänen
+  Director - Jukka Heinänen  
   Scriptwriter - Veikko Nuutinen  
   Set Designer - Kalle Nurminen  
   Lighting Designer - Mika Ryynänen  
   Sound Designer - Rauno Paananen      
-  Hair and makeup artist - Saija Mäki 
+  Hair and makeup artist - Saija Mäki  
   Actors - Sami Lalou, Annina Rokka, Asta Sveholm, Henri Tuominen, Tuula Väänänen and Tuure Korja   
   
   Photographer - Janne-Pekka Manninen  
