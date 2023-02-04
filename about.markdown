@@ -9,6 +9,7 @@ riina.leea(@)gmail.com
 
 ![alt text](/assets/riina-8.jpg)  
 <br/>
+<br/>
 <div class="post-text-alone">  
 Riina Leea Nieminen is Master of Art and Design graduated from Aalto University majoring in Costume Design. Her minor subject in Bachelor studies was Performing Arts from the Theatre Academy. Her exchange year she studied in the University of the Arts London majoring in Costume for Performance. She has worked as a freelancer costume designer, scenographer and performer.  
 <p></p>   
