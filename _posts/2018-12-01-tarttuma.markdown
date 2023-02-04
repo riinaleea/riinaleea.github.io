@@ -10,16 +10,19 @@ productionstyle: Contemporary Dance
   Contemporary Dance  
   Theatre Academy
   <br/>
-
-<div class="post-text-alone">  
-  What was it about? – We created a space for questions. How is the spirit of the times being embodied. How to recognize when something ends and something else begins. The performers are following a nonlinear line of questions, questions such as these: what grasps, what follows, what leads and what takes place while waiting.
-<p></p> 
-  What was important for me? – We wanted to work as an equal group of nine artists and that taught me a lot. We had interesting discussion methods and because of these methods we accomplished to create an environment where everybody was heard. Everybody had their own intrests and we combined them with questions that we decided togehter. I was interested in blobs or clothing creatures that woke up when the performers interacted with them and went back to sleep when the performers left them alone. The space was open for audience and performers to walk around freely so some of the audience members started to also play with these blob creatures. Every blob was made of different recycled clothes and they felt different, moved differently and sounded different.
-<p></p> 
-</div>
+<p></p>
   Costume Designer and Performer - Riina Leea Nieminen  
   Co-Artists - Pietari Kärki, Nooa Kekoni, Akim Bakhtaoui, Una Auri,  
   Riikka Karjalainen, Oskari Ruuska, Oula Rytkönen and Siiri Kortelainen
+  <br/>
+<p></p>  
+<div class="post-text-alone">  
+  What was it about? – We created a space for questions. How is the spirit of the times being embodied. How to recognize when something ends and something else begins. The performers are following a nonlinear line of questions, questions such as these: what grasps, what follows, what leads and what takes place while waiting.
+<p></p> 
+  <em>What was important for me? – We wanted to work as an equal group of nine artists and that taught me a lot. We had interesting discussion methods and because of these methods we accomplished to create an environment where everybody was heard. Everybody had their own intrests and we combined them with questions that we decided togehter. I was interested in blobs or clothing creatures that woke up when the performers interacted with them and went back to sleep when the performers left them alone. The space was open for audience and performers to walk around freely so some of the audience members started to also play with these blob creatures. Every blob was made of different recycled clothes and they felt different, moved differently and sounded different.</em>
+<p></p> 
+</div>
+
 
 ![alt text](/assets/projects/tarttuma1.jpg)
 
