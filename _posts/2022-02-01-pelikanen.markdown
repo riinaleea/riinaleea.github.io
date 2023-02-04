@@ -11,7 +11,6 @@ productionstyle: Theatre Production
   Viirus Theatre  
 
   <br/>
-
 <p></p>  
   Costume and Set Designer - Riina Leea Nieminen  
   Director - Juho Mantere  
@@ -20,7 +19,7 @@ productionstyle: Theatre Production
   Sound Designer - Pekka Kiiliäinen   
   Hair and makeup consultant - Riikka Virtanen  
   Actors - Maria Ahlroth, Martin Bahne, Joonas Heikkinen and Iida Kuningas 
-  
+
   <br/>
 
 <div class="post-text-alone">  
