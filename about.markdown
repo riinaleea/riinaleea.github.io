@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+riina.leea(@)gmail.com  
 
 ![alt text](/assets/riina-8.jpg)
 
@@ -18,6 +19,6 @@ Important for Riina are new challenges, visual dramaturgy, physical story tellin
 Riina is part of an online exhibition <a href="https://kuviteltutodellisuus.fi/osallistuja/riina-nieminen/">Kuviteltu todellisuus</a> by the Theatre, Film and Television Designers (Lavastus- ja pukusuunnittelijat, LP) organization.
 </div>  
 <p></p>
-riina.leea(@)gmail.com
+
 
 <!-- [Download CV](2020cvnieminen.pdf) -->
