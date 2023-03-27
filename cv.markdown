@@ -11,16 +11,16 @@ riina.leea(@)gmail.com
 <p></p>   
 <br/>
 2018 – 2020  
-Master student of Art and Design, Aalto University  
-Department of Film, Television and Scenography, Main Subject: Costume Design  
+  Master student of Art and Design, Aalto University  
+  Department of Film, Television and Scenography, Main Subject: Costume Design  
 <p></p>   
 Autumn 2017  
-Exchange student in London College of Fashion, University of the Arts London  
-Department of Costume for Performance  
+  Exchange student in London College of Fashion, University of the Arts London  
+  Department of Costume for Performance  
 <p></p> 
 2014 – 2017  
-Bachelor of Art and Design, Aalto University  
-Department of Film, Television and Scenography, Main Subject: Costume Design, Minor
+  Bachelor of Art and Design, Aalto University  
+  Department of Film, Television and Scenography, Main Subject: Costume Design, Minor
 subject: Performing arts in the Theatre Academy  
 <p></p>  
 <br/>
