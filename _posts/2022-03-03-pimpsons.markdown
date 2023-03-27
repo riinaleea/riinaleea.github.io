@@ -12,8 +12,13 @@ productionstyle: Theatre Production
   
   <br/>
 <p></p>
-
-  coming soon...  
+  Costume Designer - Riina Leea Nieminen  
+  Director and scriptwriter - Lauri Maijala  
+  Set Designer - Janne Vasama  
+  Lighting Designer - Antti KauppiTomi Suovankoski  
+  Sound Designers - Markus Tapio and Pekka Kiiliäinen     
+  Hair and makeup artist - Riikka Virtanen  
+  Actors - Lotta Kaihua, Satu Tuuli Karhu, Ria Kataja and Eero Ritala   
   <br/>
 
 <div class="post-text-alone">  
@@ -24,4 +29,26 @@ productionstyle: Theatre Production
 <p></p>
   
   <br/>
+  Photographer - Pate Pesonius and Janne Vasama
+
+
+  ![alt text](/assets/projects/pimpsons1.jpg) 
+
+  ![alt text](/assets/projects/pimpsons2.jpg)   
+
+  ![alt text](/assets/projects/pimpsons3.jpg) 
+
+  ![alt text](/assets/projects/pimpsons4.jpg) 
+
+  ![alt text](/assets/projects/pimpsons5.jpg)  
+
+  ![alt text](/assets/projects/pimpsons6.jpg)  
+
+  ![alt text](/assets/projects/pimpsons7.jpg)  
+
+  ![alt text](/assets/projects/pimpsons8.jpg)    
+
+  ![alt text](/assets/projects/pimpsons9.jpg)  
+
+  ![alt text](/assets/projects/pimpsons10.jpg)    
   
