@@ -76,21 +76,17 @@ Pukusuunnittelija, esiintyjä. Koreografi Pietari Kärki.
 Pukusuunnittelija, näyttelijä (Nainen), solisti
 (Itkijänainen). Ohjaus Ville Sandqvist.
 <p></p>  
-2017
-<p></p>  
-Salome, Teatteriesitys, Teatterikorkeakoulu
+2017 Salome, Teatteriesitys, Teatterikorkeakoulu
 Pukusuunnittelija. Ohjaus Juho Mantere.
 <p></p>  
-2016 
-<p></p>  
-Saiturin joulu, Teatteriesitys, Tikkurilan teatteri
+2016 Saiturin joulu, Teatteriesitys, Tikkurilan teatteri
 Pukusuunnittelija. Ohjaus Tanja Hautakangas.
 <p></p>  
-HYLJE, Musikaali, OMS-teatteri
+2016 HYLJE, Musikaali, OMS-teatteri
 Pukusuunnittelija, työpari Eila Lumme ja Mia Turu. Ohjaus
 Meiju Lampinen.
 <p></p>  
-Huokauksii maailmanlopun kynnykselt, Teatteriesitys,
+2016 Huokauksii maailmanlopun kynnykselt, Teatteriesitys,
 Teatterikorkeakoulu
 Pukusuunnittelija, esiintyjä. Ohjaus Laura Mattila.
 <p></p>  
@@ -99,60 +95,46 @@ Pukusuunnittelija, esiintyjä. Ohjaus Laura Mattila.
 FILM AND TV
 <p></p>  
 <br/>
-2022 
-<p></p>  
-Suonsilmä, Lyhytelokuva, Aalto-yliopisto ELO
+2023 Suonsilmä, Lyhytelokuva, Aalto-yliopisto ELO
 Pukusuunnittelija. Ohjaus Topi Raulo.
 <p></p>  
-2021
-<p></p>  
-LEGO Masters, Tv-show, Endemol Shine Finland Oy
+2021 LEGO Masters, Tv-show, Endemol Shine Finland Oy
 Stylisti.
 <p></p>  
-Ne jotka putoaa, Lyhytelokuva, Aaltoyliopisto ELO
+2021 Ne jotka putoaa, Lyhytelokuva, Aaltoyliopisto ELO
 Pukusuunnittelija. Ohjaus Helmi Donner.
 <p></p>  
-2020 
-<p></p>  
-Nutous, liveshow, NJ Production ja Newsec
+2020 Nutous, liveshow, NJ Production ja Newsec
 Pukusuunnittelija työparina Karoliina
 Karjalainen.
 <p></p>  
-De Rasande, Lyhytelokuva, Aalto-yliopisto
+2020 De Rasande, Lyhytelokuva, Aalto-yliopisto
 ELO
 Pukusuunnittelija. Ohjaus Malin Nyqvist.
 <p></p>  
-The Nightmare, Lyhytelokuva, Aaltoyliopisto ELO
+2020 The Nightmare, Lyhytelokuva, Aaltoyliopisto ELO
 Ohjaaja sekä pukusuunnittelija työpareina
 Maria Vidas ja Katri Nikkola.
 <p></p>  
-2018 
-<p></p>  
-Kohtalo – Ricky-Tick Big Band & Julkinen
+2018 Kohtalo – Ricky-Tick Big Band & Julkinen
 sana, Musiikkivideo, Aalto-yliopisto ELO
 Pukusuunnittelija. Ohjaus Malin Nyqvist.
 <p></p>  
-2017
-<p></p>   
-Syli, Lyhytelokuva, Aalto-yliopisto ELO
+2017 Syli, Lyhytelokuva, Aalto-yliopisto ELO
 Pukusuunnittelija työparina Jenni Räsänen.
 Ohjaus Anna Äärelä.
 <p></p>  
-2016 
-<p></p>  
-BLIND, Tanssilyhytelokuva
+2016 BLIND, Tanssilyhytelokuva
 Pukusuunnittelija. Ohjaus Katariina Räty.
 <p></p>  
-Luna De Miel, Lyhytelokuva, Arcada
+2016 Luna De Miel, Lyhytelokuva, Arcada
 Pukusuunnittelija. Ohjaus Katariina Räty.
 <p></p>  
-2015 
-<p></p>  
-Exit game, Lyhytelokuva, Aalto-yliopisto
+2015 Exit game, Lyhytelokuva, Aalto-yliopisto
 ELO
 Pukusuunnittelija.
 <p></p>  
-REC Love eli äänimies rakastuu,
+2015 REC Love eli äänimies rakastuu,
 Lyhytelokuva, Aalto-yliopisto ELO
 Pukusuunnittelija työparina Jenni Räsänen.
 
