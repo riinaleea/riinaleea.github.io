@@ -33,7 +33,7 @@ subject: Performing arts in the Theatre Academy
 PERFORMING ARTS  
 <p></p>  
 <br/>
-  2023 The Pimpsons, Teatteriesitys, Q-teatteri  
+  2023 <strong>The Pimpsons</strong>, Teatteriesitys, Q-teatteri  
   Pukusuunnittelija. Ohjaus Lauri Maijala.  
 <p></p>  
   2022 Vanhempainilta, Teatteriesitys, Oulun kaupunginteatteri  
