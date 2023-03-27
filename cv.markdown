@@ -11,11 +11,15 @@ riina.leea(@)gmail.com
 <p></p>   
 <br/>
   2018 – 2020  
+  <br/>
   Master student of Art and Design, Aalto University  
+  <br/> 
   Department of Film, Television and Scenography, Main Subject: Costume Design  
 <p></p>   
-  Autumn 2017  
+  Autumn 2017 
+  <br/> 
   Exchange student in London College of Fashion, University of the Arts London  
+  <br/>  
   Department of Costume for Performance  
 <p></p> 
   2014 – 2017  
