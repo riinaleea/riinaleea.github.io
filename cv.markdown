@@ -10,15 +10,15 @@ riina.leea(@)gmail.com
 <strong>EDUCATION</strong>  
 <p></p>   
 <br/>
-2018 – 2020  
+  2018 – 2020  
   Master student of Art and Design, Aalto University  
   Department of Film, Television and Scenography, Main Subject: Costume Design  
 <p></p>   
-Autumn 2017  
+  Autumn 2017  
   Exchange student in London College of Fashion, University of the Arts London  
   Department of Costume for Performance  
 <p></p> 
-2014 – 2017  
+  2014 – 2017  
   Bachelor of Art and Design, Aalto University  
   Department of Film, Television and Scenography, Main Subject: Costume Design, Minor
 subject: Performing arts in the Theatre Academy  
@@ -31,7 +31,6 @@ subject: Performing arts in the Theatre Academy
 PERFORMING ARTS  
 <p></p>  
 <br/>
-
   2023 The Pimpsons, Teatteriesitys, Q-teatteri  
   Pukusuunnittelija. Ohjaus Lauri Maijala.  
 <p></p>  
