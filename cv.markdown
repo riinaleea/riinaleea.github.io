@@ -7,7 +7,7 @@ permalink: /cv/
 riina.leea(@)gmail.com  
 <br/>
 <div class="post-text-alone">  
-EDUCATION  
+<strong>EDUCATION</strong>  
 <p></p>   
 <br/>
 2018 – 2020  
