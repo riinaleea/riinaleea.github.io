@@ -31,59 +31,48 @@ ARTISTIC WORK EXPERIENCE
 PERFORMING ARTS  
 <p></p>  
 <br/>
-2023 
-<p></p>  
-The Pimpsons, Teatteriesitys, Q-teatteri
+
+2023 The Pimpsons, Teatteriesitys, Q-teatteri
 Pukusuunnittelija. Ohjaus Lauri Maijala.  
 <p></p>  
-2022 
-<p></p>  
-Vanhempainilta, Teatteriesitys, Oulun kaupunginteatteri
+2022 Vanhempainilta, Teatteriesitys, Oulun kaupunginteatteri
 Pukusuunnittelija. Ohjaus Jukka Heinänen.
 <p></p>   
-Mouruava yösydän, Teatteriesitys, Ahaa Teatteri
+2022 Mouruava yösydän, Teatteriesitys, Ahaa Teatteri
 Pukusuunnittelija. Ohjaus Jukka Kittilä.
 <p></p>  
-Pelikaani, Teatteriesitys, Teatteri Viirus
+2022 Pelikaani, Teatteriesitys, Teatteri Viirus
 Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
 Säde-ehdokkuus pukusuunnittelusta sekä lavastuksesta.
 <p></p>  
-2021 
-<p></p>  
-Toksinen Kabaree, Teatteriesitys, Q-teatteri
+2021 Toksinen Kabaree, Teatteriesitys, Q-teatteri
 Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
 Säde-ehdokkuus pukusuunnittelusta sekä lavastuksesta.
 <p></p>  
-2020
-<p></p>  
-Etsivä Kerttu Kaskas, Stream teatteriesitys, Teatteri
+2020 Etsivä Kerttu Kaskas, Stream teatteriesitys, Teatteri
 Tuike, Helsinki-päivä 2020
 Pukusuunnittelija, näyttelijä
 <p></p>  
-Hetki 2.0, Performanssi, Amos Rex
+2020 Hetki 2.0, Performanssi, Amos Rex
 Pukusuunnittelija.
 <p></p>  
-2019 
-<p></p>  
-Mun siivet ei mahdu kahvihuoneeseen,
+2019 Mun siivet ei mahdu kahvihuoneeseen,
 Nykysirkus/Teatteriesitys, Sivuhenkilöt, Cirko
 Puku- ja lavastussuunnittelija työparina Janne Vasama.
 Ohjaus Alma Lehmuskallio.
 <p></p>  
-Donkey Hot, Musikaali, Teatterikorkeakoulu ja Qteatteri
+2019 Donkey Hot, Musikaali, Teatterikorkeakoulu ja Qteatteri
 Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
 <p></p>  
-Kung Karls Jakt, Ooppera, Metropolia
+2019 Kung Karls Jakt, Ooppera, Metropolia
 Ammattikorkeakoulu
 Puku- ja lavastussuunnittelija. Ohjaus Ville Sandqvist.
 <p></p>  
-2018 
-<p></p>  
-Tämä nimeämätön tarttuma, Artistic Collaboration,
+2018 Tämä nimeämätön tarttuma, Artistic Collaboration,
 Teatterikorkeakoulu
 Pukusuunnittelija, esiintyjä. Koreografi Pietari Kärki.
 <p></p>  
-Salvat 1701, Musiikkidraama, Dominante ry
+2018 Salvat 1701, Musiikkidraama, Dominante ry
 Pukusuunnittelija, näyttelijä (Nainen), solisti
 (Itkijänainen). Ohjaus Ville Sandqvist.
 <p></p>  
