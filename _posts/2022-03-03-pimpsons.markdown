@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "The Pimpsons"
+featured-image: /assets/pimpsons_linkki.jpg
+featured-image-alt: the pimpsons q-teatteri theatre
+categories: jekyll update
+productionstyle: Theatre Production
+---
+  2023  
+  Theatre Production  
+  Q Theatre  
+  
+  <br/>
+<p></p>
+
+  coming soon...  
+  <br/>
+
+<div class="post-text-alone">  
+  What was it about? – Coming soon... 
+<p></p>
+  <em>What was important for me? - Coming soon...</em>
+</div>  
+<p></p>
+  
+  <br/>
+  
