@@ -22,6 +22,21 @@ Department of Costume for Performance
 Bachelor of Art and Design, Aalto University  
 Department of Film, Television and Scenography, Main Subject: Costume Design, Minor
 subject: Performing arts in the Theatre Academy  
+<p></p>   
+ARTISTIC WORK EXPERIENCE  
+
+PERFORMING ARTS  
+
+2023 Vihervaaran Anna, Teatteriesitys, Lahden kaupunginteatteri
+Pukusuunnittelija. Ohjaus Laura Mattila.  
+
+2023 The Pimpsons, Teatteriesitys, Q-teatteri
+Pukusuunnittelija. Ohjaus Lauri Maijala.  
+
+2022 Vanhempainilta, Teatteriesitys, Oulun kaupunginteatteri
+Pukusuunnittelija. Ohjaus Jukka Heinänen.
+
+
 </div>  
 <p></p>
 
