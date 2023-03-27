@@ -43,38 +43,32 @@ PERFORMING ARTS
 <p></p>  
 2022 Pelikaani, Teatteriesitys, Teatteri Viirus
 Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
-Säde-ehdokkuus pukusuunnittelusta sekä lavastuksesta.
+<em>Säde-ehdokkuus pukusuunnittelusta sekä lavastuksesta.</em>
 <p></p>  
 2021 Toksinen Kabaree, Teatteriesitys, Q-teatteri
 Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
-Säde-ehdokkuus pukusuunnittelusta sekä lavastuksesta.
+<em>Säde-ehdokkuus pukusuunnittelusta sekä lavastuksesta.</em>
 <p></p>  
-2020 Etsivä Kerttu Kaskas, Stream teatteriesitys, Teatteri
-Tuike, Helsinki-päivä 2020
+2020 Etsivä Kerttu Kaskas, Stream teatteriesitys, Teatteri Tuike, Helsinki-päivä 2020
 Pukusuunnittelija, näyttelijä
 <p></p>  
 2020 Hetki 2.0, Performanssi, Amos Rex
 Pukusuunnittelija.
 <p></p>  
-2019 Mun siivet ei mahdu kahvihuoneeseen,
-Nykysirkus/Teatteriesitys, Sivuhenkilöt, Cirko
-Puku- ja lavastussuunnittelija työparina Janne Vasama.
-Ohjaus Alma Lehmuskallio.
+2019 Mun siivet ei mahdu kahvihuoneeseen, Nykysirkus/Teatteriesitys, Sivuhenkilöt, Cirko
+Puku- ja lavastussuunnittelija työparina Janne Vasama. Ohjaus Alma Lehmuskallio.
 <p></p>  
-2019 Donkey Hot, Musikaali, Teatterikorkeakoulu ja Qteatteri
+2019 Donkey Hot, Musikaali, Teatterikorkeakoulu ja Q-teatteri
 Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
 <p></p>  
-2019 Kung Karls Jakt, Ooppera, Metropolia
-Ammattikorkeakoulu
+2019 Kung Karls Jakt, Ooppera, Metropolia Ammattikorkeakoulu
 Puku- ja lavastussuunnittelija. Ohjaus Ville Sandqvist.
 <p></p>  
-2018 Tämä nimeämätön tarttuma, Artistic Collaboration,
-Teatterikorkeakoulu
+2018 Tämä nimeämätön tarttuma, Artistic Collaboration, Teatterikorkeakoulu
 Pukusuunnittelija, esiintyjä. Koreografi Pietari Kärki.
 <p></p>  
 2018 Salvat 1701, Musiikkidraama, Dominante ry
-Pukusuunnittelija, näyttelijä (Nainen), solisti
-(Itkijänainen). Ohjaus Ville Sandqvist.
+Pukusuunnittelija, näyttelijä (Nainen), solisti (Itkijänainen). Ohjaus Ville Sandqvist.
 <p></p>  
 2017 Salome, Teatteriesitys, Teatterikorkeakoulu
 Pukusuunnittelija. Ohjaus Juho Mantere.
@@ -83,11 +77,9 @@ Pukusuunnittelija. Ohjaus Juho Mantere.
 Pukusuunnittelija. Ohjaus Tanja Hautakangas.
 <p></p>  
 2016 HYLJE, Musikaali, OMS-teatteri
-Pukusuunnittelija, työpari Eila Lumme ja Mia Turu. Ohjaus
-Meiju Lampinen.
+Pukusuunnittelija, työpari Eila Lumme ja Mia Turu. Ohjaus Meiju Lampinen.
 <p></p>  
-2016 Huokauksii maailmanlopun kynnykselt, Teatteriesitys,
-Teatterikorkeakoulu
+2016 Huokauksii maailmanlopun kynnykselt, Teatteriesitys, Teatterikorkeakoulu
 Pukusuunnittelija, esiintyjä. Ohjaus Laura Mattila.
 <p></p>  
 <br/>
@@ -105,24 +97,19 @@ Stylisti.
 Pukusuunnittelija. Ohjaus Helmi Donner.
 <p></p>  
 2020 Nutous, liveshow, NJ Production ja Newsec
-Pukusuunnittelija työparina Karoliina
-Karjalainen.
+Pukusuunnittelija työparina Karoliina Karjalainen.
 <p></p>  
-2020 De Rasande, Lyhytelokuva, Aalto-yliopisto
-ELO
+2020 De Rasande, Lyhytelokuva, Aalto-yliopisto ELO
 Pukusuunnittelija. Ohjaus Malin Nyqvist.
 <p></p>  
 2020 The Nightmare, Lyhytelokuva, Aaltoyliopisto ELO
-Ohjaaja sekä pukusuunnittelija työpareina
-Maria Vidas ja Katri Nikkola.
+Ohjaaja sekä pukusuunnittelija työpareina Maria Vidas ja Katri Nikkola.
 <p></p>  
-2018 Kohtalo – Ricky-Tick Big Band & Julkinen
-sana, Musiikkivideo, Aalto-yliopisto ELO
+2018 Kohtalo – Ricky-Tick Big Band & Julkinen sana, Musiikkivideo, Aalto-yliopisto ELO
 Pukusuunnittelija. Ohjaus Malin Nyqvist.
 <p></p>  
 2017 Syli, Lyhytelokuva, Aalto-yliopisto ELO
-Pukusuunnittelija työparina Jenni Räsänen.
-Ohjaus Anna Äärelä.
+Pukusuunnittelija työparina Jenni Räsänen. Ohjaus Anna Äärelä.
 <p></p>  
 2016 BLIND, Tanssilyhytelokuva
 Pukusuunnittelija. Ohjaus Katariina Räty.
@@ -130,12 +117,10 @@ Pukusuunnittelija. Ohjaus Katariina Räty.
 2016 Luna De Miel, Lyhytelokuva, Arcada
 Pukusuunnittelija. Ohjaus Katariina Räty.
 <p></p>  
-2015 Exit game, Lyhytelokuva, Aalto-yliopisto
-ELO
+2015 Exit game, Lyhytelokuva, Aalto-yliopisto ELO
 Pukusuunnittelija.
 <p></p>  
-2015 REC Love eli äänimies rakastuu,
-Lyhytelokuva, Aalto-yliopisto ELO
+2015 REC Love eli äänimies rakastuu, Lyhytelokuva, Aalto-yliopisto ELO
 Pukusuunnittelija työparina Jenni Räsänen.
 
 </div>  
