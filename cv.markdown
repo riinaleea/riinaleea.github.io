@@ -32,14 +32,14 @@ PERFORMING ARTS
 <p></p>  
 <br/>
 
-2023 The Pimpsons, Teatteriesitys, Q-teatteri
-Pukusuunnittelija. Ohjaus Lauri Maijala.  
+  2023 The Pimpsons, Teatteriesitys, Q-teatteri  
+  Pukusuunnittelija. Ohjaus Lauri Maijala.  
 <p></p>  
-2022 Vanhempainilta, Teatteriesitys, Oulun kaupunginteatteri
-Pukusuunnittelija. Ohjaus Jukka Heinänen.
+  2022 Vanhempainilta, Teatteriesitys, Oulun kaupunginteatteri  
+  Pukusuunnittelija. Ohjaus Jukka Heinänen.  
 <p></p>   
-2022 Mouruava yösydän, Teatteriesitys, Ahaa Teatteri
-Pukusuunnittelija. Ohjaus Jukka Kittilä.
+  2022 Mouruava yösydän, Teatteriesitys, Ahaa Teatteri  
+  Pukusuunnittelija. Ohjaus Jukka Kittilä.  
 <p></p>  
 2022 Pelikaani, Teatteriesitys, Teatteri Viirus
 Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
