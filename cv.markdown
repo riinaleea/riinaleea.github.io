@@ -19,7 +19,9 @@ riina.leea(@)gmail.com
   Department of Costume for Performance  
 <p></p> 
   2014 – 2017  
-  Bachelor of Art and Design, Aalto University  
+  <br/>
+  Bachelor of Art and Design, Aalto University
+  <br/>
   Department of Film, Television and Scenography, Main Subject: Costume Design, Minor
 subject: Performing arts in the Theatre Academy  
 <p></p>  
