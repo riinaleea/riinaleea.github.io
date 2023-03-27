@@ -122,39 +122,35 @@ Stylisti.
  <br/>
 Pukusuunnittelija. Ohjaus Helmi Donner.
 <p></p>  
-2020 Nutous, liveshow, NJ Production ja Newsec
- <br/>
-Pukusuunnittelija työparina Karoliina Karjalainen.
-<p></p>  
-2020 De Rasande, Lyhytelokuva, Aalto-yliopisto ELO
+2020 <strong>De Rasande</strong>, Lyhytelokuva, Aalto-yliopisto ELO
  <br/>
 Pukusuunnittelija. Ohjaus Malin Nyqvist.
 <p></p>  
-2020 The Nightmare, Lyhytelokuva, Aaltoyliopisto ELO
+2020 <strong>The Nightmare</strong>, Lyhytelokuva, Aaltoyliopisto ELO
  <br/>
 Ohjaaja sekä pukusuunnittelija työpareina Maria Vidas ja Katri Nikkola.
 <p></p>  
-2018 Kohtalo – Ricky-Tick Big Band & Julkinen sana, Musiikkivideo, Aalto-yliopisto ELO
+2018 <strong>Kohtalo – Ricky-Tick Big Band & Julkinen sana</strong>, Musiikkivideo, Aalto-yliopisto ELO
  <br/>
 Pukusuunnittelija. Ohjaus Malin Nyqvist.
 <p></p>  
-2017 Syli, Lyhytelokuva, Aalto-yliopisto ELO
+2017 <strong>Syli</strong>, Lyhytelokuva, Aalto-yliopisto ELO
  <br/>
 Pukusuunnittelija työparina Jenni Räsänen. Ohjaus Anna Äärelä.
 <p></p>  
-2016 BLIND, Tanssilyhytelokuva
+2016 <strong>BLIND</strong>, Tanssilyhytelokuva
  <br/>
 Pukusuunnittelija. Ohjaus Katariina Räty.
 <p></p>  
-2016 Luna De Miel, Lyhytelokuva, Arcada
+2016 <strong>Luna De Miel</strong>, Lyhytelokuva, Arcada
  <br/>
 Pukusuunnittelija. Ohjaus Katariina Räty.
 <p></p>  
-2015 Exit game, Lyhytelokuva, Aalto-yliopisto ELO
+2015 <strong>Exit game</strong>, Lyhytelokuva, Aalto-yliopisto ELO
  <br/>
 Pukusuunnittelija.
 <p></p>  
-2015 REC Love eli äänimies rakastuu, Lyhytelokuva, Aalto-yliopisto ELO
+2015 <strong>REC Love eli äänimies rakastuu</strong>, Lyhytelokuva, Aalto-yliopisto ELO
  <br/>
 Pukusuunnittelija työparina Jenni Räsänen.
 
