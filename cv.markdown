@@ -4,7 +4,6 @@ title: CV
 permalink: /cv/
 ---
 <br/>
-CV
 riina.leea(@)gmail.com  
 <br/>
 <div class="post-text-alone">  
@@ -24,15 +23,15 @@ riina.leea(@)gmail.com
   subject: Performing arts in the Theatre Academy  
 <p></p>   
 ARTISTIC WORK EXPERIENCE  
-
+<p></p>  
 PERFORMING ARTS  
-
+<p></p>  
 2023 Vihervaaran Anna, Teatteriesitys, Lahden kaupunginteatteri
 Pukusuunnittelija. Ohjaus Laura Mattila.  
-
+<p></p>  
 2023 The Pimpsons, Teatteriesitys, Q-teatteri
 Pukusuunnittelija. Ohjaus Lauri Maijala.  
-
+<p></p>  
 2022 Vanhempainilta, Teatteriesitys, Oulun kaupunginteatteri
 Pukusuunnittelija. Ohjaus Jukka Heinänen.
 
