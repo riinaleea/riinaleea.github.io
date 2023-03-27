@@ -25,7 +25,7 @@ subject: Performing arts in the Theatre Academy
 <p></p>  
 <br/>
 <br/>
-ARTISTIC WORK EXPERIENCE  
+<strong>ARTISTIC WORK EXPERIENCE</strong>  
 <p></p>  
 <br/>
 PERFORMING ARTS  
