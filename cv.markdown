@@ -38,53 +38,71 @@ PERFORMING ARTS
 <p></p>  
 <br/>
   2023 <strong>The Pimpsons</strong>, Teatteriesitys, Q-teatteri  
+   <br/>
   Pukusuunnittelija. Ohjaus Lauri Maijala.  
 <p></p>  
   2022 Vanhempainilta, Teatteriesitys, Oulun kaupunginteatteri  
+   <br/>
   Pukusuunnittelija. Ohjaus Jukka Heinänen.  
 <p></p>   
   2022 Mouruava yösydän, Teatteriesitys, Ahaa Teatteri  
+   <br/>
   Pukusuunnittelija. Ohjaus Jukka Kittilä.  
 <p></p>  
 2022 Pelikaani, Teatteriesitys, Teatteri Viirus
+ <br/>
 Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
+ <br/>
 <em>Säde-ehdokkuus pukusuunnittelusta sekä lavastuksesta.</em>
 <p></p>  
 2021 Toksinen Kabaree, Teatteriesitys, Q-teatteri
+ <br/>
 Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
+ <br/>
 <em>Säde-ehdokkuus pukusuunnittelusta sekä lavastuksesta.</em>
 <p></p>  
 2020 Etsivä Kerttu Kaskas, Stream teatteriesitys, Teatteri Tuike, Helsinki-päivä 2020
+ <br/>
 Pukusuunnittelija, näyttelijä
 <p></p>  
 2020 Hetki 2.0, Performanssi, Amos Rex
+ <br/>
 Pukusuunnittelija.
 <p></p>  
 2019 Mun siivet ei mahdu kahvihuoneeseen, Nykysirkus/Teatteriesitys, Sivuhenkilöt, Cirko
+ <br/>
 Puku- ja lavastussuunnittelija työparina Janne Vasama. Ohjaus Alma Lehmuskallio.
 <p></p>  
 2019 Donkey Hot, Musikaali, Teatterikorkeakoulu ja Q-teatteri
+ <br/>
 Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
 <p></p>  
 2019 Kung Karls Jakt, Ooppera, Metropolia Ammattikorkeakoulu
+ <br/>
 Puku- ja lavastussuunnittelija. Ohjaus Ville Sandqvist.
 <p></p>  
 2018 Tämä nimeämätön tarttuma, Artistic Collaboration, Teatterikorkeakoulu
+ <br/>
 Pukusuunnittelija, esiintyjä. Koreografi Pietari Kärki.
 <p></p>  
 2018 Salvat 1701, Musiikkidraama, Dominante ry
+ <br/>
 Pukusuunnittelija, näyttelijä (Nainen), solisti (Itkijänainen). Ohjaus Ville Sandqvist.
 <p></p>  
 2017 Salome, Teatteriesitys, Teatterikorkeakoulu
+ <br/>
 Pukusuunnittelija. Ohjaus Juho Mantere.
 <p></p>  
 2016 Saiturin joulu, Teatteriesitys, Tikkurilan teatteri
+ <br/>
 Pukusuunnittelija. Ohjaus Tanja Hautakangas.
 <p></p>  
 2016 HYLJE, Musikaali, OMS-teatteri
+ <br/>
 Pukusuunnittelija, työpari Eila Lumme ja Mia Turu. Ohjaus Meiju Lampinen.
 <p></p>  
 2016 Huokauksii maailmanlopun kynnykselt, Teatteriesitys, Teatterikorkeakoulu
+ <br/>
 Pukusuunnittelija, esiintyjä. Ohjaus Laura Mattila.
 <p></p>  
 <br/>
