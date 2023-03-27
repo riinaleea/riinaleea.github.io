@@ -12,19 +12,19 @@ riina.leea(@)gmail.com
 <br/>
   2018 – 2020  
   <br/>
-  Master student of Art and Design, Aalto University  
+  <strong>Master student of Art and Design</strong>, Aalto University  
   <br/> 
   Department of Film, Television and Scenography, Main Subject: Costume Design  
 <p></p>   
   Autumn 2017 
   <br/> 
-  Exchange student in London College of Fashion, University of the Arts London  
+  Exchange student in <strong>London College of Fashion</strong>, University of the Arts London  
   <br/>  
   Department of Costume for Performance  
 <p></p> 
   2014 – 2017  
   <br/>
-  Bachelor of Art and Design, Aalto University
+  <strong>Bachelor of Art and Design</strong>, Aalto University
   <br/>
   Department of Film, Television and Scenography, Main Subject: Costume Design, Minor
 subject: Performing arts in the Theatre Academy  
@@ -41,67 +41,67 @@ PERFORMING ARTS
    <br/>
   Pukusuunnittelija. Ohjaus Lauri Maijala.  
 <p></p>  
-  2022 Vanhempainilta, Teatteriesitys, Oulun kaupunginteatteri  
+  2022 <strong>Vanhempainilta</strong>, Teatteriesitys, Oulun kaupunginteatteri  
    <br/>
   Pukusuunnittelija. Ohjaus Jukka Heinänen.  
 <p></p>   
-  2022 Mouruava yösydän, Teatteriesitys, Ahaa Teatteri  
+  2022 <strong>Mouruava yösydän</strong>, Teatteriesitys, Ahaa Teatteri  
    <br/>
   Pukusuunnittelija. Ohjaus Jukka Kittilä.  
 <p></p>  
-2022 Pelikaani, Teatteriesitys, Teatteri Viirus
+2022 <strong>Pelikaani</strong>, Teatteriesitys, Teatteri Viirus
  <br/>
 Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
  <br/>
 <em>Säde-ehdokkuus pukusuunnittelusta sekä lavastuksesta.</em>
 <p></p>  
-2021 Toksinen Kabaree, Teatteriesitys, Q-teatteri
+2021 <strong>Toksinen Kabaree</strong>, Teatteriesitys, Q-teatteri
  <br/>
 Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
  <br/>
 <em>Säde-ehdokkuus pukusuunnittelusta sekä lavastuksesta.</em>
 <p></p>  
-2020 Etsivä Kerttu Kaskas, Stream teatteriesitys, Teatteri Tuike, Helsinki-päivä 2020
+2020 <strong>Etsivä Kerttu Kaskas</strong>, Stream teatteriesitys, Teatteri Tuike, Helsinki-päivä 2020
  <br/>
 Pukusuunnittelija, näyttelijä
 <p></p>  
-2020 Hetki 2.0, Performanssi, Amos Rex
+2020 <strong>Hetki 2.0</strong>, Performanssi, Amos Rex
  <br/>
 Pukusuunnittelija.
 <p></p>  
-2019 Mun siivet ei mahdu kahvihuoneeseen, Nykysirkus/Teatteriesitys, Sivuhenkilöt, Cirko
+2019 <strong>Mun siivet ei mahdu kahvihuoneeseen</strong>, Nykysirkus/Teatteriesitys, Sivuhenkilöt, Cirko
  <br/>
 Puku- ja lavastussuunnittelija työparina Janne Vasama. Ohjaus Alma Lehmuskallio.
 <p></p>  
-2019 Donkey Hot, Musikaali, Teatterikorkeakoulu ja Q-teatteri
+2019 <strong>Donkey Hot</strong>, Musikaali, Teatterikorkeakoulu ja Q-teatteri
  <br/>
 Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
 <p></p>  
-2019 Kung Karls Jakt, Ooppera, Metropolia Ammattikorkeakoulu
+2019 <strong>Kung Karls Jakt</strong>, Ooppera, Metropolia Ammattikorkeakoulu
  <br/>
 Puku- ja lavastussuunnittelija. Ohjaus Ville Sandqvist.
 <p></p>  
-2018 Tämä nimeämätön tarttuma, Artistic Collaboration, Teatterikorkeakoulu
+2018 <strong>Tämä nimeämätön tarttuma</strong>, Artistic Collaboration, Teatterikorkeakoulu
  <br/>
 Pukusuunnittelija, esiintyjä. Koreografi Pietari Kärki.
 <p></p>  
-2018 Salvat 1701, Musiikkidraama, Dominante ry
+2018 <strong>Salvat 1701</strong>, Musiikkidraama, Dominante ry
  <br/>
 Pukusuunnittelija, näyttelijä (Nainen), solisti (Itkijänainen). Ohjaus Ville Sandqvist.
 <p></p>  
-2017 Salome, Teatteriesitys, Teatterikorkeakoulu
+2017 <strong>Salome</strong>, Teatteriesitys, Teatterikorkeakoulu
  <br/>
 Pukusuunnittelija. Ohjaus Juho Mantere.
 <p></p>  
-2016 Saiturin joulu, Teatteriesitys, Tikkurilan teatteri
+2016 <strong>Saiturin joulu</strong>, Teatteriesitys, Tikkurilan teatteri
  <br/>
 Pukusuunnittelija. Ohjaus Tanja Hautakangas.
 <p></p>  
-2016 HYLJE, Musikaali, OMS-teatteri
+2016 <strong>HYLJE</strong>, Musikaali, OMS-teatteri
  <br/>
 Pukusuunnittelija, työpari Eila Lumme ja Mia Turu. Ohjaus Meiju Lampinen.
 <p></p>  
-2016 Huokauksii maailmanlopun kynnykselt, Teatteriesitys, Teatterikorkeakoulu
+2016 <strong>Huokauksii maailmanlopun kynnykselt</strong>, Teatteriesitys, Teatterikorkeakoulu
  <br/>
 Pukusuunnittelija, esiintyjä. Ohjaus Laura Mattila.
 <p></p>  
@@ -110,40 +110,52 @@ Pukusuunnittelija, esiintyjä. Ohjaus Laura Mattila.
 FILM AND TV
 <p></p>  
 <br/>
-2023 Suonsilmä, Lyhytelokuva, Aalto-yliopisto ELO
+2023 <strong>Suonsilmä</strong>, Lyhytelokuva, Aalto-yliopisto ELO
+ <br/>
 Pukusuunnittelija. Ohjaus Topi Raulo.
 <p></p>  
-2021 LEGO Masters, Tv-show, Endemol Shine Finland Oy
+2021 <strong>LEGO Masters</strong>, Tv-show, Endemol Shine Finland Oy
+ <br/>
 Stylisti.
 <p></p>  
-2021 Ne jotka putoaa, Lyhytelokuva, Aaltoyliopisto ELO
+2021 <strong>Ne jotka putoaa</strong>, Lyhytelokuva, Aaltoyliopisto ELO
+ <br/>
 Pukusuunnittelija. Ohjaus Helmi Donner.
 <p></p>  
 2020 Nutous, liveshow, NJ Production ja Newsec
+ <br/>
 Pukusuunnittelija työparina Karoliina Karjalainen.
 <p></p>  
 2020 De Rasande, Lyhytelokuva, Aalto-yliopisto ELO
+ <br/>
 Pukusuunnittelija. Ohjaus Malin Nyqvist.
 <p></p>  
 2020 The Nightmare, Lyhytelokuva, Aaltoyliopisto ELO
+ <br/>
 Ohjaaja sekä pukusuunnittelija työpareina Maria Vidas ja Katri Nikkola.
 <p></p>  
 2018 Kohtalo – Ricky-Tick Big Band & Julkinen sana, Musiikkivideo, Aalto-yliopisto ELO
+ <br/>
 Pukusuunnittelija. Ohjaus Malin Nyqvist.
 <p></p>  
 2017 Syli, Lyhytelokuva, Aalto-yliopisto ELO
+ <br/>
 Pukusuunnittelija työparina Jenni Räsänen. Ohjaus Anna Äärelä.
 <p></p>  
 2016 BLIND, Tanssilyhytelokuva
+ <br/>
 Pukusuunnittelija. Ohjaus Katariina Räty.
 <p></p>  
 2016 Luna De Miel, Lyhytelokuva, Arcada
+ <br/>
 Pukusuunnittelija. Ohjaus Katariina Räty.
 <p></p>  
 2015 Exit game, Lyhytelokuva, Aalto-yliopisto ELO
+ <br/>
 Pukusuunnittelija.
 <p></p>  
 2015 REC Love eli äänimies rakastuu, Lyhytelokuva, Aalto-yliopisto ELO
+ <br/>
 Pukusuunnittelija työparina Jenni Räsänen.
 
 </div>  
