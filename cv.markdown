@@ -18,7 +18,7 @@ riina.leea(@)gmail.com
 <p></p>   
   Autumn 2017 
   <br/> 
-  Exchange student in <strong>London College of Fashion</strong>, University of the Arts London  
+  <strong>Exchange student in London College of Fashion</strong>, University of the Arts London  
   <br/>  
   Department of Costume for Performance  
 <p></p> 
@@ -153,7 +153,62 @@ Pukusuunnittelija.
 2015 <strong>REC Love eli äänimies rakastuu</strong>, Lyhytelokuva, Aalto-yliopisto ELO
  <br/>
 Pukusuunnittelija työparina Jenni Räsänen.
-
+<p></p> 
+<br/>
+<br/>
+OTHER WORK
+<p></p>  
+<br/>
+2021 <strong>Sisu</strong>, Elokuva, Freezing Point Oy
+<br/>
+Patinoija. Ohjaaja Jalmari Helander.
+<br/>
+2021 <strong>Protagonist</strong>, virtuaalinen live teos, Digital Idiots ja Teatteri Viirus.
+<br/>
+Pukusuunnittelu.
+<br/>
+2020 – <strong>Otus workshop Oy</strong>
+<br/>
+Rekvisiitan valmistaja. Useita julkistamattomia produktioita.
+<br/>
+2020 <strong>Justimus Duo 2</strong>, tv-sarja, Solar Rebuplic Oy
+<br/>
+Puvustaja. Pukusuunnittelija Karoliina Karjalainen.
+<br/>
+2020 <strong>Saara Aalto, esiintymisasu</strong>, musiikkivideo ”When The Sun Goes Down”
+<br/>
+Ompelija. Pukusuunnittelu Karoliina Karjalainen.
+<br/>
+2019 <strong>Norppa -maskottipuku</strong>, Oma SP
+<br/>
+Pukusuunnittelu. Toteutus Anni Konttisen kanssa.
+<br/>
+2017 – 2019 <strong>Sankariliiga Prop shop</strong>, Sankariliiga osk
+<br/>
+Rekvisiitan valmistaja ja puvustaja
+<br/>
+Julkistetut produktiot:
+<br/>
+Puvustaja - Tuntematon REDUX
+<br/>
+Rekvisiitan valmistaja - Space Nation
+<br/>
+Rekvisiitan valmistaja - Hevireissu
+<br/>
+Puvustaja - Kepler 62
+<br/>
+Rekvisiitan valmistaja - esa-avaruuspuku
+<br/>
+2018 <strong>Värikkäät miesten uimahousut</strong>, Uimakerho
+<br/>
+Pukusuunnittelija ja toteuttaja.
+<br/>
+Tekstiilisuunnittelija Eila Lumme.
+<br/>
+2016 <strong>Ylona, esiintymisasu</strong>, UMK 16, YLE
+<br/>
+Pukusuunnittelija.
+<br/>
 </div>  
 <p></p>
 
