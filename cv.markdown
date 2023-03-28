@@ -156,16 +156,35 @@ Pukusuunnittelija työparina Jenni Räsänen.
 <p></p> 
 <br/>
 <br/>
-OTHER WORK
+OTHER
+<p></p>  
+<br/>
+2021 <strong>Protagonist</strong>, virtuaalinen live teos, Digital Idiots ja Teatteri Viirus.
+<br/>
+Pukusuunnittelu.
+<br/>
+2019 <strong>Norppa -maskottipuku</strong>, Oma SP
+<br/>
+Pukusuunnittelu. Toteutus Anni Konttisen kanssa.
+<br/>
+2018 <strong>Värikkäät miesten uimahousut</strong>, Uimakerho
+<br/>
+Pukusuunnittelija ja toteuttaja.
+<br/>
+Tekstiilisuunnittelija Eila Lumme.
+<br/>
+2016 <strong>Ylona, esiintymisasu</strong>, UMK 16, YLE
+<br/>
+Pukusuunnittelija.
+<p></p> 
+<br/>
+<br/>
+<strong>OTHER WORK EXPERIENCE</strong>
 <p></p>  
 <br/>
 2021 <strong>Sisu</strong>, Elokuva, Freezing Point Oy
 <br/>
 Patinoija. Ohjaaja Jalmari Helander.
-<br/>
-2021 <strong>Protagonist</strong>, virtuaalinen live teos, Digital Idiots ja Teatteri Viirus.
-<br/>
-Pukusuunnittelu.
 <br/>
 2020 – <strong>Otus workshop Oy</strong>
 <br/>
@@ -178,10 +197,6 @@ Puvustaja. Pukusuunnittelija Karoliina Karjalainen.
 2020 <strong>Saara Aalto, esiintymisasu</strong>, musiikkivideo ”When The Sun Goes Down”
 <br/>
 Ompelija. Pukusuunnittelu Karoliina Karjalainen.
-<br/>
-2019 <strong>Norppa -maskottipuku</strong>, Oma SP
-<br/>
-Pukusuunnittelu. Toteutus Anni Konttisen kanssa.
 <br/>
 2017 – 2019 <strong>Sankariliiga Prop shop</strong>, Sankariliiga osk
 <br/>
@@ -198,16 +213,6 @@ Rekvisiitan valmistaja - Hevireissu
 Puvustaja - Kepler 62
 <br/>
 Rekvisiitan valmistaja - esa-avaruuspuku
-<br/>
-2018 <strong>Värikkäät miesten uimahousut</strong>, Uimakerho
-<br/>
-Pukusuunnittelija ja toteuttaja.
-<br/>
-Tekstiilisuunnittelija Eila Lumme.
-<br/>
-2016 <strong>Ylona, esiintymisasu</strong>, UMK 16, YLE
-<br/>
-Pukusuunnittelija.
 <br/>
 </div>  
 <p></p>
