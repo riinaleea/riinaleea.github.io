@@ -106,7 +106,6 @@ Pukusuunnittelija, työpari Eila Lumme ja Mia Turu. Ohjaus Meiju Lampinen.
 Pukusuunnittelija, esiintyjä. Ohjaus Laura Mattila.
 <p></p>  
 <br/>
-<br/>
 FILM AND TV
 <p></p>  
 <br/>
@@ -154,7 +153,6 @@ Pukusuunnittelija.
  <br/>
 Pukusuunnittelija työparina Jenni Räsänen.
 <p></p> 
-<br/>
 <br/>
 OTHER
 <p></p>  
@@ -219,11 +217,11 @@ Rekvisiitan valmistaja - esa-avaruuspuku
 <strong>EXHIBITIONS</strong>
 <p></p>  
 <br/>
-2019 ELO 60 Costume Design Exhibition, Aalto-yliopisto
+2019 <strong>ELO 60 Costume Design Exhibition</strong>, Aalto-yliopisto
 <br/>
 De Rasande –lyhytelokuvan pukusuunnittelu, yksi järjestäjistä.
 <p></p>  
-2019 “Kolo”, Prague Quadrennial, Czech Republic
+2019 <strong>“Kolo”, Prague Quadrennial</strong>, Czech Republic
 <br/>
 Taiteellisen työryhmän jäsen. Teos voitti palkinnon “Best Student Exhibtion Experience”.
 </div>  
