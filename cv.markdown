@@ -51,23 +51,23 @@ Costume Designer. Director Jukka Kittilä.
 <p></p>  
 2022 <strong>Pelikanen</strong>, Theatre Production, Viirus Theatre 
  <br/>
-Costume and Set Designer. Director Juho Mantere.
+Costume Designer, Set Designer. Director Juho Mantere.
  <br/>
 <em>Säde award nominee for costume design and set design.</em>
 <p></p>  
 2022 <strong>Tuikesankarit</strong>, Theatre Production, Theatre Tuike
  <br/>
-Performer and creator with Aarne Linden and Tanja Hautakangas
+Performer, Creator with Aarne Linden and Tanja Hautakangas
 <p></p>  
 2021 <strong>Toksinen Kabaree</strong>, Theatre Production, Q Theatre
  <br/>
-Costume and Set Designer. Director Juho Mantere.
+Costume Designer, Set Designer. Director Juho Mantere.
  <br/>
 <em>Säde award nominee for costume design and set design.</em>
 <p></p>  
 2020 <strong>Etsivä Kerttu Kaskas</strong>, Stream Theatre Production, Theatre Tuike, Helsinki Day 2020
  <br/>
-Costume Designer, Performer
+Costume Designer, Performer.
 <p></p>  
 2020 <strong>Moment 2.0</strong>, Performance, Amos Rex
  <br/>
@@ -75,15 +75,15 @@ Costume Designer.
 <p></p>  
 2019 <strong>Mun siivet ei mahdu kahvihuoneeseen</strong>, Contemporary Circus/Theatre Production, Sivuhenkilöt, Cirko
  <br/>
-Costume and Set Designer with Janne Vasama. Director Alma Lehmuskallio.
+Costume Designer and Set Designer with Janne Vasama. Director Alma Lehmuskallio.
 <p></p>  
 2019 <strong>Donkey Hot</strong>, Musical, Theatre Academy ja Q Theatre
  <br/>
-Costume and Set Designer. Director Juho Mantere.
+Costume Designer, Set Designer. Director Juho Mantere.
 <p></p>  
 2019 <strong>Kung Karls Jakt</strong>, Opera, Metropolia University of Applied Sciences
  <br/>
-Costume and Set Designer. Director Ville Sandqvist.
+Costume Designer, Set Designer. Director Ville Sandqvist.
 <p></p> 
 2019 <strong>Siskoni Mun</strong>, Theatre Production, Theatre Tuike
  <br/>
@@ -91,15 +91,15 @@ Performer
 <p></p>  
 2018 <strong>Tämä nimeämätön tarttuma</strong>, Artistic Collaboration, Theatre Academy
  <br/>
-Costume Designer and performer. Choreographer Pietari Kärki.
+Costume Designer, Performer. Choreographer Pietari Kärki.
 <p></p>  
 2018 <strong>Salvat 1701</strong>, Music Drama, Dominante ry
  <br/>
-Costume Designer, Performer (Nainen), Soloists (Itkijänainen). Director Ville Sandqvist.
+Costume Designer, Performer (Nainen), Soloist (Itkijänainen). Director Ville Sandqvist.
 <p></p> 
 2018 <strong>Kreivi Hohoo</strong>, Theatre Production, Theatre Tuike
  <br/>
-Performer and Creator with Aarne Linden
+Performer, Creator with Aarne Linden
 <p></p>  
 2017 <strong>Salome</strong>, Theatre Production, Theatre Academy
  <br/>
@@ -183,7 +183,7 @@ Costume Designer. Creation with Anni Konttinen.
 <p></p>  
 2018 <strong>Värikkäät miesten uimahousut</strong>, Swimming Club
 <br/>
-Costume Designer and Creator. Textile Designer Eila Lumme.
+Costume Designer, Creator. Textile Designer Eila Lumme.
 <p></p>  
 2016 <strong>Ylona, Performance Costume</strong>, UMK 16, YLE
 <br/>
@@ -212,7 +212,7 @@ Seamstress. Costume Designer Karoliina Karjalainen.
 <p></p>  
 2017 – 2019 <strong>Sankariliiga Prop shop</strong>, Sankariliiga osk
 <br/>
-Prop Technician and Costumer
+Prop Technician, Costumer
 <br/>
 Published Productions:
 <br/>
