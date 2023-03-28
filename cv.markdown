@@ -37,23 +37,27 @@ subject: Performing arts in the Theatre Academy
 PERFORMING ARTS  
 <p></p>  
 <br/>
-  2023 <strong>The Pimpsons</strong>, Teatteriesitys, Q-teatteri  
-   <br/>
-  Pukusuunnittelija. Ohjaus Lauri Maijala.  
+2023 <strong>The Pimpsons</strong>, Teatteriesitys, Q-teatteri  
+<br/>
+Pukusuunnittelija. Ohjaus Lauri Maijala.  
 <p></p>  
-  2022 <strong>Vanhempainilta</strong>, Teatteriesitys, Oulun kaupunginteatteri  
-   <br/>
-  Pukusuunnittelija. Ohjaus Jukka Heinänen.  
+2022 <strong>Vanhempainilta</strong>, Teatteriesitys, Oulun kaupunginteatteri  
+<br/>
+Pukusuunnittelija. Ohjaus Jukka Heinänen.  
 <p></p>   
-  2022 <strong>Mouruava yösydän</strong>, Teatteriesitys, Ahaa Teatteri  
-   <br/>
-  Pukusuunnittelija. Ohjaus Jukka Kittilä.  
+2022 <strong>Mouruava yösydän</strong>, Teatteriesitys, Ahaa Teatteri  
+<br/>
+Pukusuunnittelija. Ohjaus Jukka Kittilä.  
 <p></p>  
 2022 <strong>Pelikaani</strong>, Teatteriesitys, Teatteri Viirus
  <br/>
 Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
  <br/>
 <em>Säde-ehdokkuus pukusuunnittelusta sekä lavastuksesta.</em>
+<p></p>  
+2022 <strong>Tuikesankarit</strong>, Theatre Production, Theatre Tuike
+ <br/>
+Actor and creator with Aarne Linden and Tanja Hautakangas
 <p></p>  
 2021 <strong>Toksinen Kabaree</strong>, Teatteriesitys, Q-teatteri
  <br/>
@@ -80,6 +84,10 @@ Puku- ja lavastussuunnittelija. Ohjaus Juho Mantere.
 2019 <strong>Kung Karls Jakt</strong>, Ooppera, Metropolia Ammattikorkeakoulu
  <br/>
 Puku- ja lavastussuunnittelija. Ohjaus Ville Sandqvist.
+<p></p> 
+2019 <strong>Siskoni Mun</strong>, Theatre Production, Theatre Tuike
+ <br/>
+Actor
 <p></p>  
 2018 <strong>Tämä nimeämätön tarttuma</strong>, Artistic Collaboration, Teatterikorkeakoulu
  <br/>
@@ -88,6 +96,10 @@ Pukusuunnittelija, esiintyjä. Koreografi Pietari Kärki.
 2018 <strong>Salvat 1701</strong>, Musiikkidraama, Dominante ry
  <br/>
 Pukusuunnittelija, näyttelijä (Nainen), solisti (Itkijänainen). Ohjaus Ville Sandqvist.
+<p></p> 
+2018 <strong>Kreivi Hohoo</strong>, Theatre Production, Theatre Tuike
+ <br/>
+Actor and creator with Aarne Linden
 <p></p>  
 2017 <strong>Salome</strong>, Teatteriesitys, Teatterikorkeakoulu
  <br/>
@@ -104,6 +116,10 @@ Pukusuunnittelija, työpari Eila Lumme ja Mia Turu. Ohjaus Meiju Lampinen.
 2016 <strong>Huokauksii maailmanlopun kynnykselt</strong>, Teatteriesitys, Teatterikorkeakoulu
  <br/>
 Pukusuunnittelija, esiintyjä. Ohjaus Laura Mattila.
+<p></p> 
+2016 <strong>Veden alla</strong>, Theatre Production, Theatre Tuike
+ <br/>
+Actor
 <p></p>  
 <br/>
 FILM AND TV
@@ -132,7 +148,7 @@ Ohjaaja sekä pukusuunnittelija työpareina Maria Vidas ja Katri Nikkola.
 2018 <strong>Kohtalo – Ricky-Tick Big Band & Julkinen sana</strong>, Musiikkivideo, Aalto-yliopisto ELO
  <br/>
 Pukusuunnittelija. Ohjaus Malin Nyqvist.
-<p></p>  
+<p></p>
 2017 <strong>Syli</strong>, Lyhytelokuva, Aalto-yliopisto ELO
  <br/>
 Pukusuunnittelija työparina Jenni Räsänen. Ohjaus Anna Äärelä.
