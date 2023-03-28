@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "De Rasande"
-featured-image: /assets/derasande_linkki.jpg
+featured-image: /assets/derasande1_linkki.jpg
 featured-image-alt: De Rasande lyhytelokuva
 categories: jekyll update
 productionstyle: Short Film
