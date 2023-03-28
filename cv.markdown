@@ -75,7 +75,7 @@ Costume Designer.
 <p></p>  
 2019 <strong>Mun siivet ei mahdu kahvihuoneeseen</strong>, Contemporary Circus/Theatre Production, Sivuhenkilöt, Cirko
  <br/>
-Costume Designer and Set Designer with Janne Vasama. Director Alma Lehmuskallio.
+Costume and Set Designer with Janne Vasama. Director Alma Lehmuskallio.
 <p></p>  
 2019 <strong>Donkey Hot</strong>, Musical, Theatre Academy ja Q Theatre
  <br/>
@@ -181,7 +181,7 @@ Costume Designer.
 <br/>
 Costume Designer. Creation with Anni Konttinen.
 <p></p>  
-2018 <strong>Värikkäät miesten uimahousut</strong>, Swimming Club
+2018 <strong>Colourful men swimwear</strong>, Swimming Club
 <br/>
 Costume Designer, Creator. Textile Designer Eila Lumme.
 <p></p>  

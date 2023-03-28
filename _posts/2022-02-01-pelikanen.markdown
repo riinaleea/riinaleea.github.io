@@ -23,7 +23,13 @@ productionstyle: Theatre Production
   <br/>
 
 <div class="post-text-alone">  
-  What was it about? – Coming soon... 
+  What was it about? – A dreadful storm, gusts of wind and pouring rain.  
+  Secrets, violence, jealousy, death, hunger, manipulation and so forth.  
+  Every family is the same.  
+
+  Juho Mantere tackles August Strindberg’s pitch-black family drama Pelikanen in Viirus during spring 2022. Dark fates are twisted by toxic relations. Greed and jealousy tear the last pieces of what once was a family apart. What remains is the cold, hunger, and darkness.  
+
+  Everything must burn.  
 <p></p>
   <em>What was important for me? - Coming soon...</em>
 </div>  
