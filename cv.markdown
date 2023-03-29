@@ -67,7 +67,7 @@ Costume Designer, Set Designer. Director Juho Mantere.
 <p></p>  
 2020 <strong>Etsivä Kerttu Kaskas</strong>, Stream Theatre Production, Theatre Tuike, Helsinki Day 2020
  <br/>
-Costume Designer, Performer.
+Costume Designer, Performer. Director Nina Rinkinen.
 <p></p>  
 2020 <strong>Moment 2.0</strong>, Performance, Amos Rex
  <br/>
