@@ -12,7 +12,7 @@ riina.leea(@)gmail.com
 <br/>
 2018 – 2020  
 <br/>
-<strong>Master student of Art and Design</strong>, Aalto University  
+<strong>Master of Art and Design</strong>, Aalto University  
 <br/> 
 Department of Film, Television and Scenography, Main Subject: Costume Design  
 <p></p>   
@@ -57,7 +57,7 @@ Costume Designer, Set Designer. Director Juho Mantere.
 <p></p>  
 2022 <strong>Tuikesankarit</strong>, Theatre Production, Theatre Tuike
  <br/>
-Performer, Creator with Aarne Linden and Tanja Hautakangas
+Performer, Creator with Aarne Linden and Tanja Hautakangas.
 <p></p>  
 2021 <strong>Toksinen Kabaree</strong>, Theatre Production, Q Theatre
  <br/>
@@ -87,7 +87,7 @@ Costume Designer, Set Designer. Director Ville Sandqvist.
 <p></p> 
 2019 <strong>Siskoni Mun</strong>, Theatre Production, Theatre Tuike
  <br/>
-Performer
+Performer. Director Ann-Mari Ohtamaa.
 <p></p>  
 2018 <strong>Tämä nimeämätön tarttuma</strong>, Artistic Collaboration, Theatre Academy
  <br/>
@@ -99,7 +99,7 @@ Costume Designer, Performer (Nainen), Soloist (Itkijänainen). Director Ville Sa
 <p></p> 
 2018 <strong>Kreivi Hohoo</strong>, Theatre Production, Theatre Tuike
  <br/>
-Performer, Creator with Aarne Linden
+Performer, Creator with Aarne.
 <p></p>  
 2017 <strong>Salome</strong>, Theatre Production, Theatre Academy
  <br/>
@@ -111,7 +111,7 @@ Costume Designer. Director Tanja Hautakangas.
 <p></p>  
 2016 <strong>HYLJE</strong>, Musical, OMS-Theatre
  <br/>
-Costume Designer, with Eila Lumme and Mia Turu. Director Meiju Lampinen.
+Costume Designer with Eila Lumme and Mia Turu. Director Meiju Lampinen.
 <p></p>  
 2016 <strong>Huokauksii maailmanlopun kynnykselt</strong>, Theatre Production, Theatre Academy
  <br/>
@@ -119,7 +119,7 @@ Costume Designer. Director Laura Mattila.
 <p></p> 
 2016 <strong>Veden alla</strong>, Theatre Production, Theatre Tuike
  <br/>
-Performer
+Performer. Director Nina Rinkinen.
 <p></p>  
 <br/>
 FILM AND TV
@@ -231,9 +231,9 @@ Prop Technician - esa space suit
 <strong>EXHIBITIONS</strong>
 <p></p>  
 <br/>
-2019 <strong>ELO 60 Costume Design Exhibition</strong>, Aalto University
+2019 <strong>De Rasande –Short Filmn Costume Design, ELO 60 Costume Design Exhibition</strong>, Aalto University
 <br/>
-De Rasande –Short Filmn Costume Design, one of the organizers.
+One of the organizers.
 <p></p>  
 2019 <strong>“Kolo”, Prague Quadrennial</strong>, Czech Republic
 <br/>
