@@ -18,7 +18,7 @@ productionstyle: Mascot Costume
 <div class="post-text-alone"> 
   What was it about? – Friendly Ringed Seal the Mascot travelled across the Finland promoting the bank Oma SP.
 <p></p>
-  <em>What was important for me? – This was a second time I was asked to design and make a mascot which was a seal. It was fun to think how I could improve my previous design (HYLJE 2016) and how to make it look personalized specifically for Oma SP. I love to work with foam and it was a pleasure to sculpture the head and the base of the mascot.</em>
+  <!--<em>What was important for me? – This was a second time I was asked to design and make a mascot which was a seal. It was fun to think how I could improve my previous design (HYLJE 2016) and how to make it look personalized specifically for Oma SP. I love to work with foam and it was a pleasure to sculpture the head and the base of the mascot.</em>-->
 </div>
 <p></p>
 
