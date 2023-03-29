@@ -19,7 +19,7 @@ productionstyle: Performance
 <div class="post-text-alone">  
   What was it about? – Clowns are characters that are impertinent and forthright, they say uncomfortable things out loud without caring about the consequences. They work against learned and established approaches. In the exhibition the artists have put the forthright nature of clowns on a collision course with our daily lives.  
 <p></p>
-  <em>What was important for me? - Our working group was small which made the process intensive and personal. It was fascinating to work with the characteristics of clowns. They have a long history in Western culture and we wanted to be connected to it but at the same time we wanted to create something contemporary and something that represents us as an artists. Feathers started it all for us.</em>  
+  <!--<em>What was important for me? - Our working group was small which made the process intensive and personal. It was fascinating to work with the characteristics of clowns. They have a long history in Western culture and we wanted to be connected to it but at the same time we wanted to create something contemporary and something that represents us as an artists. Feathers started it all for us.</em>-->  
 </div>  
 <p></p>
 

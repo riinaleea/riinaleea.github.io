@@ -29,7 +29,7 @@ Metsän uumenista kantautuu kadonneeksi luullun siimeskissan hyytävä mouru. Va
 Mouruava yösydän – Eli miten metsästää pieni mutta suuri tarkoitus? on leikkisä ja jännittävä, mystisesti myhäilevä ja pöhkösti pöheltävä musiikkipitoinen näytelmä jokaisen pienen teon suuresta merkityksestä.-->
 
 <p></p>
-  <em>What was important for me? - Coming soon...</em>
+  <!--<em>What was important for me? - Coming soon...</em>-->
 </div>  
 <p></p>
 

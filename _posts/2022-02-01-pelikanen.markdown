@@ -31,7 +31,7 @@ productionstyle: Theatre Production
 
   Everything must burn.  
 <p></p>
-  <em>What was important for me? - Coming soon...</em>
+  <!--<em>What was important for me? - Coming soon...</em>-->
 </div>  
 <p></p>
   
