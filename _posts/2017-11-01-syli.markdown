@@ -28,7 +28,7 @@ productionstyle: Short Film
 <div class="post-text-alone">  
   What was it about? – Syli is a short film about a teenage girl, who is desperately waiting for her mother to come home. Now is her birthday and her mom should come home, but she is nowhere to be seen. Just how much longer can she wait?
 <p></p> 
-  <em>What was important for me? – We did the costume design with Jenni and working with her was smooth and inspiring. We both stayed long nights designing and making the costumes and we both liked similar esthetics. The main character became really dear to us both and somehow we had the same idea of her in our minds. Most interesting day of filming was when we filmed underwater. It was educating to learn how much different aspects you have to consider when actor is going to be wet during a filming.</em> 
+  <!--<em>What was important for me? – We did the costume design with Jenni and working with her was smooth and inspiring. We both stayed long nights designing and making the costumes and we both liked similar esthetics. The main character became really dear to us both and somehow we had the same idea of her in our minds. Most interesting day of filming was when we filmed underwater. It was educating to learn how much different aspects you have to consider when actor is going to be wet during a filming.</em>--> 
 <p></p> 
 </div>
 

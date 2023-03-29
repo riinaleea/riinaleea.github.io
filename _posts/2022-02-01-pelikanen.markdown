@@ -21,7 +21,6 @@ productionstyle: Theatre Production
   Actors - Maria Ahlroth, Martin Bahne, Joonas Heikkinen and Iida Kuningas  
 
   <br/>
-
 <div class="post-text-alone">  
   What was it about? – A dreadful storm, gusts of wind and pouring rain.  
   Secrets, violence, jealousy, death, hunger, manipulation and so forth.  
