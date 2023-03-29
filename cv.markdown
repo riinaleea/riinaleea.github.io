@@ -67,7 +67,7 @@ Costume Designer, Set Designer. Director Juho Mantere.
 <p></p>  
 2020 <strong>Etsivä Kerttu Kaskas</strong>, Stream Theatre Production, Theatre Tuike, Helsinki Day 2020
  <br/>
-Costume Designer, Performer. Director Nina Rinkinen.
+Costume Designer, Performer (Kerttu Kaskas). Director Nina Rinkinen.
 <p></p>  
 2020 <strong>Moment 2.0</strong>, Performance, Amos Rex
  <br/>
@@ -87,7 +87,7 @@ Costume Designer, Set Designer. Director Ville Sandqvist.
 <p></p> 
 2019 <strong>Siskoni Mun</strong>, Theatre Production, Theatre Tuike
  <br/>
-Performer. Director Ann-Mari Ohtamaa.
+Performer (Maija). Director Ann-Mari Ohtamaa.
 <p></p>  
 2018 <strong>Tämä nimeämätön tarttuma</strong>, Artistic Collaboration, Theatre Academy
  <br/>
@@ -99,7 +99,7 @@ Costume Designer, Performer (Nainen), Soloist (Itkijänainen). Director Ville Sa
 <p></p> 
 2018 <strong>Kreivi Hohoo</strong>, Theatre Production, Theatre Tuike
  <br/>
-Performer, Creator with Aarne.
+Performer (Kätyri Hähää), Creator with Aarne.
 <p></p>  
 2017 <strong>Salome</strong>, Theatre Production, Theatre Academy
  <br/>
@@ -119,7 +119,7 @@ Costume Designer. Director Laura Mattila.
 <p></p> 
 2016 <strong>Veden alla</strong>, Theatre Production, Theatre Tuike
  <br/>
-Performer. Director Nina Rinkinen.
+Performer (Tyttö). Director Nina Rinkinen.
 <p></p>  
 <br/>
 FILM AND TV
