@@ -34,6 +34,14 @@ subject: Performing arts in the Theatre Academy
 <strong>ARTISTIC WORK EXPERIENCE</strong>  
 <p></p>  
 <br/>
+WORK IN PROGRESS  
+<p></p>  
+<br/>
+2023 <strong>Vihervaaran Anna</strong>, Theatre Production, Lahti City Theatre
+<br/>
+Costume Designer. Director Laura Mattila.  
+<p></p>  
+<br/>
 PERFORMING ARTS  
 <p></p>  
 <br/>
