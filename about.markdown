@@ -7,7 +7,7 @@ permalink: /about/
 riina.leea(@)gmail.com  
 <br/>
 
-![alt text](/assets/riina-2.jpg)  
+![alt text](/assets/riina-3.jpg)  
 <br/>
 <br/>
 <div class="post-text-alone">  
