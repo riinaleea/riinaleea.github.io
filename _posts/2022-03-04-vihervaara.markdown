@@ -45,8 +45,6 @@ productionstyle: Theatre Production
 
   ![alt text](/assets/projects/anna5.jpg)  
 
-  ![alt text](/assets/projects/anna6.jpg)  
-
   ![alt text](/assets/projects/anna7.jpg)  
 
   ![alt text](/assets/projects/anna8.jpg)  
