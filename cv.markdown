@@ -37,7 +37,7 @@ subject: Performing arts in the Theatre Academy
 WORK IN PROGRESS  
 <p></p>  
 <br/>
-2025 <strong>Uusi Eden</strong>, Theatre Production, Helsinki City Theatre and Q Theatre
+2025 <strong>Uusi Eden</strong>, Musical Production, Helsinki City Theatre and Q Theatre
 <br/>
 Costume Designer. Director Juho Mantere.  
 <p></p>  
@@ -153,7 +153,11 @@ Performer (Tyttö). Director Nina Rinkinen.
 FILM AND TV
 <p></p>  
 <br/>
-2023 <strong>Suonsilmä</strong>, Short Film, Aalto University ELO
+2024 <strong>Strive</strong>, Sci-fi Short Film, Bufo
+ <br/>
+Costume Designer. Director Jussi Rautaniemi.
+<p></p> 
+2023 <strong>Suonsilmä</strong>, Sci-fi Short Film, Aalto University ELO
  <br/>
 Costume Designer. Director Topi Raulo.
 <p></p>  
