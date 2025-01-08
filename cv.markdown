@@ -37,14 +37,34 @@ subject: Performing arts in the Theatre Academy
 WORK IN PROGRESS  
 <p></p>  
 <br/>
-2023 <strong>Vihervaaran Anna</strong>, Theatre Production, Lahti City Theatre
+2025 <strong>Uusi Eden</strong>, Theatre Production, Helsinki City Theatre and Q Theatre
 <br/>
-Costume Designer. Director Laura Mattila.  
+Costume Designer. Director Juho Mantere.  
 <p></p>  
 <br/>
 PERFORMING ARTS  
 <p></p>  
 <br/>
+2024 <strong>Isä</strong>, Theatre Production, Turku City Theatre
+<br/>
+Costume Designer. Director Mikko Kouki.  
+<p></p>
+2024 <strong>Theme Park Characters</strong>, Linnanmäki
+<br/>
+Costume Designer.  
+<p></p>
+2024 <strong>Uuteen Nousuun</strong>, Theatre Production, Q Theatre
+<br/>
+Costume Designer. Director Juho Mantere.  
+<p></p>
+2023 <strong>Luukamari</strong>, Contemporary Circus Production, Sivuhenkilöt, Cirko
+<br/>
+Costume Designer. Directors Jyrki Karttunen and Eira Virekoski. Choreographer Jyrki Karttunen.  
+<p></p>
+2023 <strong>Vihervaaran Anna</strong>, Theatre Production, Lahti City Theatre
+<br/>
+Costume Designer. Director Laura Mattila.  
+<p></p>
 2023 <strong>The Pimpsons</strong>, Theatre Production, Q Theatre
 <br/>
 Costume Designer. Director Lauri Maijala.  
