@@ -22,6 +22,7 @@ productionstyle: Theatre Production
   <br/>
 
 <div class="post-text-alone">   
+</div> 
 <p></p>
   
   <br/>
