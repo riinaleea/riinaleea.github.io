@@ -4,10 +4,10 @@ title:  "Suonsilmä"
 featured-image: /assets/suo_linkki.jpg
 featured-image-alt: Suonsilmä short film sci-fi lyhytelokuva
 categories: jekyll update
-productionstyle: Short Film
+productionstyle: Sci-fi Short Film
 ---
   2023   
-  Short Film  
+  Sci-fi Short Film  
   Aalto Arts / ELO Film School Finland  
   <br/>
 <p></p>
