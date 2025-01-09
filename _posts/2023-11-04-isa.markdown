@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Isä"
-featured-image: /assets/isa.jpg
+featured-image: /assets/isa_linkki.jpg
 featured-image-alt: isä zeller Turku City theatre
 categories: jekyll update
 productionstyle: Theatre Production
