@@ -49,41 +49,41 @@ PERFORMING ARTS
 <br/>
 Costume Designer. Director Mikko Kouki.  
 <p></p>
-2024 <strong>Theme Park Characters</strong>, Linnanmäki
+2024 <strong>Theme Park Characters</strong> - Linnanmäki
 <br/>
 Costume Designer.  
 <p></p>
-2024 <strong>Uuteen Nousuun</strong>, Theatre Production, Q Theatre
+2024 <strong>Uuteen Nousuun</strong> - Theatre Production, Q Theatre
 <br/>
 Costume Designer. Director Juho Mantere.  
 <p></p>
-2023 <strong>Luukamari</strong>, Contemporary Circus Production, Sivuhenkilöt, Cirko
+2023 <strong>Luukamari</strong> - Contemporary Circus Production, Sivuhenkilöt, Cirko
 <br/>
 Costume Designer. Directors Jyrki Karttunen and Eira Virekoski. Choreographer Jyrki Karttunen.  
 <p></p>
-2023 <strong>Vihervaaran Anna</strong>, Theatre Production, Lahti City Theatre
+2023 <strong>Vihervaaran Anna</strong> - Theatre Production, Lahti City Theatre
 <br/>
 Costume Designer. Director Laura Mattila.  
 <p></p>
-2023 <strong>The Pimpsons</strong>, Theatre Production, Q Theatre
+2023 <strong>The Pimpsons</strong> - Theatre Production, Q Theatre
 <br/>
 Costume Designer. Director Lauri Maijala.  
 <p></p>  
-2022 <strong>Vanhempainilta</strong>, Theatre Production, Oulu City Theatre  
+2022 <strong>Vanhempainilta</strong> - Theatre Production, Oulu City Theatre  
 <br/>
 Costume Designer. Director Jukka Heinänen.  
 <p></p>   
-2022 <strong>Mouruava yösydän</strong>, Theatre Production, Ahaa Theatre  
+2022 <strong>Mouruava yösydän</strong> - Theatre Production, Ahaa Theatre  
 <br/>
 Costume Designer. Director Jukka Kittilä.  
 <p></p>  
-2022 <strong>Pelikanen</strong>, Theatre Production, Viirus Theatre 
+2022 <strong>Pelikanen</strong> - Theatre Production, Viirus Theatre 
  <br/>
 Costume and Set Designer. Director Juho Mantere.
  <br/>
 <em>Säde award nominee for costume design and set design.</em>
 <p></p>  
-2022 <strong>Tuikesankarit</strong>, Theatre Production, Theatre Tuike
+2022 <strong>Tuikesankarit</strong> - Theatre Production, Theatre Tuike
  <br/>
 Performer, Creator with Aarne Linden and Tanja Hautakangas.
 <p></p>  
