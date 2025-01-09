@@ -17,7 +17,7 @@ productionstyle: Theatre Production
   Set Designer - Jani Uljas  
   Lighting Designer - Jarmo Esko  
   Sound Designers - Tuomas Rissanen     
-  Hair and makeup artist - Tuula Lähteensuo 
+  Hair and makeup artist - Tuula Lähteensuo  
   Actors - Taneli Mäkelä, Minna Hämäläinen, Mikko Nousiainen, Alexandra Oupornikova, Riitta Salminen and Kimmo Rasila     
   <br/>
 
@@ -32,31 +32,31 @@ productionstyle: Theatre Production
 
   ![alt text](/assets/projects/isa1.jpg) 
 
-  ![alt text](/assets/projects/isa2.JPG)  
+  ![alt text](/assets/projects/isa2.jpg)  
 
-  ![alt text](/assets/projects/isa3.JPG)  
+  ![alt text](/assets/projects/isa3.jpg)  
 
-  ![alt text](/assets/projects/isa4.JPG)  
+  ![alt text](/assets/projects/isa4.jpg)  
 
-  ![alt text](/assets/projects/isa5.JPG)  
+  ![alt text](/assets/projects/isa5.jpg)  
 
-  ![alt text](/assets/projects/isa55.JPG)  
+  ![alt text](/assets/projects/isa55.jpg)  
 
-  ![alt text](/assets/projects/isa6.JPG)  
+  ![alt text](/assets/projects/isa6.jpg)  
 
-  ![alt text](/assets/projects/isa7.JPG)  
+  ![alt text](/assets/projects/isa7.jpg)  
 
-  ![alt text](/assets/projects/isa8.JPG)  
+  ![alt text](/assets/projects/isa8.jpg)  
 
-  ![alt text](/assets/projects/isa9.JPG)  
+  ![alt text](/assets/projects/isa9.jpg)  
 
-  ![alt text](/assets/projects/isa10.JPG)  
+  ![alt text](/assets/projects/isa10.jpg)  
 
-  ![alt text](/assets/projects/isa11.JPG)  
+  ![alt text](/assets/projects/isa11.jpg)  
 
-  ![alt text](/assets/projects/isa12.JPG)  
+  ![alt text](/assets/projects/isa12.jpg)  
 
-  ![alt text](/assets/projects/isa13.JPG)  
+  ![alt text](/assets/projects/isa13.jpg)  
 
 
   
