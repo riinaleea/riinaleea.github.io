@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  "HYLJE"
-featured-image: /assets/hyljemusikaali_linkki.jpg
-featured-image-alt: HYLJE musikaali OMS teatteri
-categories: jekyll update
-productionstyle: Musical
+# layout: post
+# title:  "HYLJE"
+# featured-image: /assets/hyljemusikaali_linkki.jpg
+# featured-image-alt: HYLJE musikaali OMS teatteri
+# categories: jekyll update
+# productionstyle: Musical
 ---
   2016  
   Musical  

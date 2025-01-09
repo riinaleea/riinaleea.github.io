@@ -34,7 +34,7 @@ productionstyle: Theatre Production
 
   ![alt text](/assets/projects/uuteen2.jpg) 
 
-  ![alt text](/assets/projects/uuteen1.jpg)   
+  ![alt text](/assets/projects/uuteen1.JPG)   
 
   ![alt text](/assets/projects/uuteen3.jpg)  
 
@@ -42,19 +42,19 @@ productionstyle: Theatre Production
 
   ![alt text](/assets/projects/uuteen5.jpg)  
 
-  ![alt text](/assets/projects/uuteen6.jpg)  
+  ![alt text](/assets/projects/uuteen6.JPG)  
 
   ![alt text](/assets/projects/uuteen7.jpg)  
 
-  ![alt text](/assets/projects/uuteen8.jpg)  
+  ![alt text](/assets/projects/uuteen8.JPG)  
 
-  ![alt text](/assets/projects/uuteen9.jpg)  
+  ![alt text](/assets/projects/uuteen9.JPG)  
 
   ![alt text](/assets/projects/uuteen10.jpg)  
 
-  ![alt text](/assets/projects/uuteen11.jpg)  
+  ![alt text](/assets/projects/uuteen11.JPG)  
 
-  ![alt text](/assets/projects/uuteen12.jpg)  
+  ![alt text](/assets/projects/uuteen12.JPG)  
 
 
   
