@@ -35,6 +35,26 @@ productionstyle: Sci-fi Short Film
   Photographer - Arttu Liimatta
 
 
-![alt text](/assets/projects/syli1.jpg)
+![alt text](/assets/projects/suo1.jpg)  
 
-![alt text](/assets/projects/syli2.jpg)
+![alt text](/assets/projects/suo2.jpg)  
+
+![alt text](/assets/projects/suo3.jpg)  
+
+![alt text](/assets/projects/suo4.jpg)  
+
+![alt text](/assets/projects/suo5.jpg)  
+
+![alt text](/assets/projects/suo6.jpg)  
+
+![alt text](/assets/projects/suo7.jpg)  
+
+![alt text](/assets/projects/suo8.jpg)  
+
+![alt text](/assets/projects/suo9.jpg)  
+
+![alt text](/assets/projects/suo10.jpg)  
+
+![alt text](/assets/projects/suo11.jpg)  
+
+![alt text](/assets/projects/suo12.jpg)  
