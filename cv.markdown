@@ -37,7 +37,7 @@ subject: Performing arts in the Theatre Academy
 WORK IN PROGRESS  
 <p></p>  
 <br/>
-2025 <strong>Uusi Eden, Musical Production, Helsinki City Theatre and Q Theatre</strong>
+2025 <strong>Uusi Eden</strong>  -  Musical Production, Helsinki City Theatre and Q Theatre
 <br/>
 Costume Designer. Director Juho Mantere.  
 <p></p>  
@@ -45,7 +45,7 @@ Costume Designer. Director Juho Mantere.
 PERFORMING ARTS  
 <p></p>  
 <br/>
-2024 <strong>Isä</strong>, Theatre Production, Turku City Theatre
+2024 <strong>Isä</strong>  -  Theatre Production, Turku City Theatre
 <br/>
 Costume Designer. Director Mikko Kouki.  
 <p></p>
