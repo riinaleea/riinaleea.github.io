@@ -267,9 +267,9 @@ Prop Technician - esa space suit
 <strong>EXHIBITIONS</strong>
 <p></p>  
 <br/>
-2023 <strong>Suonsilmä –lyhytelokuvan Costume Design, Costume Design 20 / 10 Research Exhibition</strong> - Aalto University
+2023 <strong>Suonsilmä –Short Film Costume Design, Costume Design 20 / 10 Research Exhibition</strong> - Aalto University
 <p></p>
-2019 <strong>De Rasande –Short Filmn Costume Design, ELO 60 Costume Design Exhibition</strong> - Aalto University
+2019 <strong>De Rasande –Short Film Costume Design, ELO 60 Costume Design Exhibition</strong> - Aalto University
 <br/>
 One of the organizers.
 <p></p>  
