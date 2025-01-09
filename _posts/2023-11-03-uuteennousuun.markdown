@@ -18,8 +18,8 @@ productionstyle: Theatre Production
   Set and Video Designer - Ville Seppänen  
   Lighting Designer - William Iles  
   Sound Designers - Pekka Kiiliäinen     
-  Hair and makeup artist - Riikka Virtanen 
-  Composer and musician - Henri Lyysaari 
+  Hair and makeup artist - Riikka Virtanen  
+  Composer and musician - Henri Lyysaari  
   Actors - Satu Tuuli Karhu, Miro Lopperi, Olli Riipinen and Anna-Sofia Tuominen     
   <br/>
 

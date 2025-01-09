@@ -24,10 +24,7 @@ productionstyle: Theatre Production
   <br/>
 
 <div class="post-text-alone">  
-  What was it about? – Coming soon... <!--Vanhempainilta on Veikko Nuutisen kirjoittama uusi suomalainen näytelmä, joka käsittelee vanhemmuutta ja aikuisuutta henkilökohtaisella, reippaan komediallisella otteella. Näytelmän päähenkilö, päiväkoti-ikäisen pojan isä, yrittää selvitä eron jälkeisessä arjessaan lapsen kysymysten, vanhemmuuden normien ja oman vapaudenkaipuunsa ristitulessa.
-  Näytelmän tapahtumat kiertyvät päiväkodin vanhempainillan ympärille. Isä haluaisi sulautua normivanhempien massaan ja suoriutua tilaisuudesta vähin äänin, mutta kun lapselle ei löydykään hoitajaa, käynnistyy tapahtumasarja, joka tempaa isän ja lapsen huomion keskipisteeseen. Näyttämölle nousee vanhemmuuteen liittyvien tunteiden koko kirjo suorituspaineista leikkimisen riemuun, häpeästä hellyyteen. -->
-<p></p>
-  <!--<em>What was important for me? - Coming soon...</em>-->
+ 
 </div>  
 <p></p>
   

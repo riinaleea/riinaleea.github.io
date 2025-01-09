@@ -22,11 +22,7 @@ productionstyle: Theatre Production
   <br/>
 
 <div class="post-text-alone">  
-  What was it about? – Coming soon... <!--The Pimpsons on räävitön pop-tragedia perheestä, jonka kaikki tuntevat nahoissaan. Se kertoo toksisesta nostalgiasta, itse itsellemme sepittämistä valheista ja vaateista, jotka ajan myötä muuttuvat todellisuudeksi.
-  Se on tosielämän sitcom ihmispoloista ilkikurisen elämän armoilla.-->
 
-<p></p>
-  <!--<em>What was important for me? - Coming soon...</em>-->
 </div>  
 <p></p>
   
