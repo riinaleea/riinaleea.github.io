@@ -155,11 +155,6 @@ Performer (Tyttö). Director Nina Rinkinen.
 <p></p>  
 <br/>
 FILM AND TV
-<p></p>  
-<br/>
-2024 <strong>Strive</strong> - Sci-fi Short Film, Bufo
- <br/>
-Costume Designer. Director Jussi Rautaniemi.
 <p></p> 
 2023 <strong>Suonsilmä</strong> - Sci-fi Short Film, Aalto University ELO
  <br/>
