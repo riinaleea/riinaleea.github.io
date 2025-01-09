@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Isä"
+featured-image: /assets/isa.jpg
+featured-image-alt: isä zeller Turku City theatre
+categories: jekyll update
+productionstyle: Theatre Production
+---
+  2024  
+  Theatre Production  
+  Turku City Theatre  
+  
+  <br/>
+<p></p>
+  Costume Designer - Riina Leea Nieminen  
+  Director - Mikko Kouki
+  Set Designer - Jani Uljas  
+  Lighting Designer - Jarmo Esko  
+  Sound Designers - Tuomas Rissanen     
+  Hair and makeup artist - Tuula Lähteensuo 
+  Actors - Taneli Mäkelä, Minna Hämäläinen, Mikko Nousiainen, Alexandra Oupornikova, Riitta Salminen and Kimmo Rasila     
+  <br/>
+
+<div class="post-text-alone">  
+
+</div>  
+<p></p>
+  
+  <br/>
+  Photographer - Otto Väätäinen
+
+
+  ![alt text](/assets/projects/isa1.jpg) 
+
+  ![alt text](/assets/projects/isa2.JPG)   
+
+
+  
