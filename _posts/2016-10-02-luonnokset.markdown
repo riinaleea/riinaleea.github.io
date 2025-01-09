@@ -27,8 +27,6 @@ productionstyle: Drawings and illustrations
 
 ![alt text](/assets/projects/luonnos5.jpg)  
 
-![alt text](/assets/projects/luonnos7.jpg)
-
   Toksinen Kabaree poster with Pate Pesonius  
   
 ![alt text](/assets/projects/luonnos10.jpg)    
