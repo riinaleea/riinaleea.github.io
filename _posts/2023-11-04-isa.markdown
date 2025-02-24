@@ -27,7 +27,7 @@ productionstyle: Theatre Production
 <p></p>
   
   <br/>
-  Photographer - Otto Väätäinen
+  Photographer - Otto-Ville Väätäinen
 
 
   ![alt text](/assets/projects/isa1.jpg) 
