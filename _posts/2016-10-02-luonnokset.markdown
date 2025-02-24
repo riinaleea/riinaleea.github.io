@@ -9,6 +9,12 @@ productionstyle: Drawings and illustrations
    
   Costume sketches and other illustrations  
   
+![alt text](/assets/projects/luonnos19.jpg) 
+
+![alt text](/assets/projects/luonnos18.jpg) 
+
+![alt text](/assets/projects/luonnos17.jpg) 
+
 ![alt text](/assets/projects/luonnos16.jpg) 
 
 ![alt text](/assets/projects/luonnos13.jpg) 
