@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Uusi Eden"
+featured-image: /assets/eden_linkki.jpg
+featured-image-alt: Uusi Eden Helsinki City theatre Q Theatre
+categories: jekyll update
+productionstyle: Musical
+---
+  2025  
+  Musical  
+  Helsinki City Theatre and Q Theatre  
+  
+  <br/>
+<p></p>
+  Costume Designer - Riina Leea Nieminen  
+  Director and Scriptwriter - Juho Mantere  
+  Composer - Henri Lyysaari  
+  Choreographer and Director's Assistant - Johanna Elovaara  
+  Set and Lighting Designer - William Iles  
+  Sound Designers - Jaakko Virmavirta  
+  Hair and makeup artist - Aino Hyttinen  
+  Actors - Miiko Toiviainen, Anna-Sofia Tuominen, Ushma Olava, Niki Rautén, Tiina Peltonen, Mikko Vihma, Unto Nuora and Leenamari Unho     
+  <br/>
+
+<div class="post-text-alone">  
+
+</div>  
+<p></p>
+  
+  <br/>
+  Photographer - Otto-Ville Väätäinen
+
+
+  ![alt text](/assets/projects/eden1.jpg) 
+
+
+
+
+  
