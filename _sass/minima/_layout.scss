@@ -310,6 +310,9 @@ margin-top: 20px;
   .site-title {
     font-size: 70px;
   }
+  .post-list>li {
+    min-width: calc(80vw - 30px)
+    }
  }
 
 .post-content {
