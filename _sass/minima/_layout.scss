@@ -305,7 +305,7 @@ margin-top: 20px;
   margin: auto;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 800px) {
   .post-text-alone {
    max-width: 100%;
    margin: auto;
@@ -314,9 +314,15 @@ margin-top: 20px;
     font-size: 70px;
   }
   .post-list>li {
-    min-width: calc(80vw - 30px)
+    min-width: 80vw;
     }
- }
+  .wrapper {
+  max-width: 80vw;
+  padding-left: 0;
+  padding-right: 0;
+  }
+  
+} 
 
 .post-content {
   text-align: center;
