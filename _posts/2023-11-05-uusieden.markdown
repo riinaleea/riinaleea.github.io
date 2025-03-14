@@ -31,9 +31,7 @@ productionstyle: Musical
   Photographer - Otto-Ville Väätäinen
 
 
-  ![alt text](/assets/projects/eden3.jpg) 
-
-  ![alt text](/assets/projects/eden2.jpg) 
+  ![alt text](/assets/projects/eden3.jpg) ![alt text](/assets/projects/eden2.jpg) 
 
   ![alt text](/assets/projects/eden11.jpg) 
 
