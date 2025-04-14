@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  "BLIND"
-featured-image: /assets/blind_linkki.jpg
-featured-image-alt: Blind tanssielokuva lyhytelokuva
-categories: jekyll update
-productionstyle: Dance Short Film
+#layout: post
+#title:  "BLIND"
+#featured-image: /assets/blind_linkki.jpg
+#featured-image-alt: Blind tanssielokuva lyhytelokuva
+#categories: jekyll update
+#productionstyle: Dance Short Film
 ---
   2016    
   Dance Short Film  
