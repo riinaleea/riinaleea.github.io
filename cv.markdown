@@ -37,9 +37,9 @@ subject: Performing arts in the Theatre Academy
 WORK IN PROGRESS  
 <p></p>  
 <br/>
-2025 <strong>Uusi Eden</strong>  -  Musical Production, Helsinki City Theatre and Q Theatre
+2026 <strong>Kiss me</strong>  -  Music Theatre Production, TTT Tampere Workers' Theatre
 <br/>
-Costume Designer. Director Juho Mantere.  
+Costume and Set Designer. Director Marika Vapaavuori.  
 <p></p>  
 2025 <strong>Strive</strong>  -  Sci-fi Short Film, Bufo
 <br/>
@@ -47,6 +47,15 @@ Costume Designer. Director Jussi Rautaniemi.
 <p></p> 
 <br/>
 PERFORMING ARTS  
+<p></p>  
+2018 <strong>Tämä nimeämätön tarttuma</strong> - Contemporary Dance and Choir, Riiviöt Collective and ITAK  
+ <br/>
+Costume and Set Designer. Choreographers and Dancers Eevi Kinnunen and Marikki Nyfors.
+<p></p>  
+<br/>
+2025 <strong>Uusi Eden</strong>  -  Musical Production, Helsinki City Theatre and Q Theatre
+<br/>
+Costume Designer. Director Juho Mantere.  
 <p></p>  
 <br/>
 2024 <strong>Isä</strong>  -  Theatre Production, Turku City Theatre
