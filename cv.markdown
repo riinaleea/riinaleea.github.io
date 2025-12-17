@@ -41,7 +41,7 @@ WORK IN PROGRESS
 <br/>
 Costume and Set Designer. Director Marika Vapaavuori.  
 <p></p>  
-2025 <strong>Strive</strong>  -  Sci-fi Short Film, Bufo
+2026 <strong>Strive</strong>  -  Sci-fi Short Film, Bufo
 <br/>
 Costume Designer. Director Jussi Rautaniemi.  
 <p></p> 
@@ -49,7 +49,7 @@ Costume Designer. Director Jussi Rautaniemi.
 PERFORMING ARTS  
 <p></p>  
 <br/>
-2018 <strong>Lempi</strong> - Contemporary Dance and Choir, Riiviöt Collective and ITAK  
+2025 <strong>Lempi</strong> - Contemporary Dance and Choir, Riiviöt Collective and ITAK  
  <br/>
 Costume and Set Designer. Choreographers and Dancers Eevi Kinnunen and Marikki Nyfors.
 <p></p>  
@@ -237,7 +237,7 @@ Costume Designer.
 <strong>OTHER WORK EXPERIENCE</strong>
 <p></p>  
 <br/>
-2021 <strong>Koka Björn</strong> - TV series, Anagram Sweden, Disney+
+2025 <strong>Koka Björn</strong> - TV series, Anagram Sweden, Disney+
 <br/>
 Head Breakdown Artist. Director Trygve Allister Diesen.
 <p></p>  
