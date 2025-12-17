@@ -37,6 +37,10 @@ subject: Performing arts in the Theatre Academy
 WORK IN PROGRESS  
 <p></p>  
 <br/>
+2025 <strong>TBA</strong>  -  Q Theatre
+<br/>
+Costume Designer. Director Juho Mantere.  
+<p></p>  
 2026 <strong>Kiss me</strong>  -  Music Theatre Production, TTT Tampere Workers' Theatre
 <br/>
 Costume and Set Designer. Director Marika Vapaavuori.  
