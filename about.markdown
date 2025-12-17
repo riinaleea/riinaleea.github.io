@@ -9,7 +9,9 @@ permalink: /about/
 <div class="post-text-alone">  
 Riina Leea Nieminen is Master of Art and Design graduated from Aalto University majoring in Costume Design. Her minor subject in Bachelor studies was Performing Arts from the Theatre Academy. Her exchange year she studied in the University of the Arts London majoring in Costume for Performance. She has worked as a freelancer costume designer, scenographer and performer.  
 <p></p>   
-Recent projects have included costume design for Q-theatre's production The Pimpsons (2023), costume design for Aalto University’s short film Suonsilmä (2023), costume design for Oulu City Theatre's production Vanhempainilta (2022), costume and set design for Viirus Theatre's production Pelikanen (2022) and costume and set design for Q-Theatre's music theatre production Toksinen Kabaree (2021). Riina has been a permanent actress in <a href="https://www.teatterituike.fi/2022/02/04/riina-nieminen/">Theatre Tuike</a> since 2016 and her latest work as an actress has been Tuikesankarit (2022), Rohkea Muurahainen (2020), Kerttu Kaskas ja kadonnut kummitus (2020), Siskoni Mun (2020) and Kreivi Hohoo (2019).  
+Recent projects have included costume design for Q-theatre's production The Pimpsons (2023), costume design for Aalto University’s short film Suonsilmä (2023), costume design for Oulu City Theatre's production Vanhempainilta (2022), costume and set design for Viirus Theatre's production Pelikanen (2022) and costume and set design for Q-Theatre's music theatre production Toksinen Kabaree (2021). 
+
+<!-- Riina has been a permanent actress in <a href="https://www.teatterituike.fi/2022/02/04/riina-nieminen/">Theatre Tuike</a> since 2016 and her latest work as an actress has been Tuikesankarit (2022), Rohkea Muurahainen (2020), Kerttu Kaskas ja kadonnut kummitus (2020), Siskoni Mun (2020) and Kreivi Hohoo (2019). -->  
 <p></p>
 Important for Riina are new challenges, visual dramaturgy, physical story telling and gentle and equal working enviroment.  
 <p></p>
