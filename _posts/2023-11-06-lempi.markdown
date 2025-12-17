@@ -15,7 +15,7 @@ productionstyle: Contemporary Dance and Choir
   Costume and Set Designer - Riina Leea Nieminen  
   Choreographers and Dancers - Eevi Kinnunen and Marikki Nyfors   
   Sound Designer - Eliel Tammiharju  
-  Choir - Lumit Art Highschool Choir
+  Choir - Lumit Art Highschool Choir  
   Choir Conducter - Touko Raatikainen   
   <br/>
 
@@ -25,7 +25,7 @@ productionstyle: Contemporary Dance and Choir
 <p></p>
   
   <br/>
-  Photographer - Sampo Jaakkola
+  Photographer - Sampo Jaakkola and Riina Leea Nieminen
 
 
   ![alt text](/assets/projects/eden3.jpg) 
