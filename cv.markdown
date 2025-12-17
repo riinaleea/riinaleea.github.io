@@ -251,7 +251,7 @@ Costume Distresser. Director Jalmari Helander.
 <p></p>  
 2020 – <strong>Otus workshop Oy</strong>
 <br/>
-Prop Technician. Several unpublished productions.
+Prop Technician. Several productions.
 <p></p>  
 2020 <strong>Justimus Duo 2</strong> - tv series, Solar Rebuplic Oy
 <br/>
