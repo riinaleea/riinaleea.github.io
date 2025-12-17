@@ -48,16 +48,15 @@ Costume Designer. Director Jussi Rautaniemi.
 <br/>
 PERFORMING ARTS  
 <p></p>  
-2018 <strong>Tämä nimeämätön tarttuma</strong> - Contemporary Dance and Choir, Riiviöt Collective and ITAK  
+<br/>
+2018 <strong>Lempi</strong> - Contemporary Dance and Choir, Riiviöt Collective and ITAK  
  <br/>
 Costume and Set Designer. Choreographers and Dancers Eevi Kinnunen and Marikki Nyfors.
 <p></p>  
-<br/>
 2025 <strong>Uusi Eden</strong>  -  Musical Production, Helsinki City Theatre and Q Theatre
 <br/>
 Costume Designer. Director Juho Mantere.  
 <p></p>  
-<br/>
 2024 <strong>Isä</strong>  -  Theatre Production, Turku City Theatre
 <br/>
 Costume Designer. Director Mikko Kouki.  
@@ -238,6 +237,10 @@ Costume Designer.
 <strong>OTHER WORK EXPERIENCE</strong>
 <p></p>  
 <br/>
+2021 <strong>Koka Björn</strong> - TV series, Anagram Sweden, Disney+
+<br/>
+Head Breakdown Artist. Director Trygve Allister Diesen.
+<p></p>  
 2021 <strong>Sisu</strong> - Feature Film, Freezing Point Oy
 <br/>
 Costume Distresser. Director Jalmari Helander.
