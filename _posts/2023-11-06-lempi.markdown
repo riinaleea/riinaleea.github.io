@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Lempi"
+featured-image: /assets/lempi_linkki.jpg
+featured-image-alt: Lempi contemporary dance Kuopio
+categories: jekyll update
+productionstyle: Contemporary Dance and Choir
+---
+  2025  
+  Contemporary Dance and Choir  
+  Riiviöt Collective and ITAK  
+  
+  <br/>
+<p></p>
+  Costume and Set Designer - Riina Leea Nieminen  
+  Choreographers and Dancers - Eevi Kinnunen and Marikki Nyfors   
+  Sound Designer - Eliel Tammiharju  
+  Choir - Lumit Art Highschool Choir
+  Choir Conducter - Touko Raatikainen   
+  <br/>
+
+<div class="post-text-alone">  
+
+</div>  
+<p></p>
+  
+  <br/>
+  Photographer - Sampo Jaakkola
+
+
+  ![alt text](/assets/projects/eden3.jpg) 
+
