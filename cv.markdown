@@ -37,7 +37,7 @@ subject: Performing arts in the Theatre Academy
 WORK IN PROGRESS  
 <p></p>  
 <br/>
-2025 <strong>TBA</strong>  -  Q Theatre
+2026 <strong>TBA</strong>  -  Q Theatre
 <br/>
 Costume Designer. Director Juho Mantere.  
 <p></p>  
