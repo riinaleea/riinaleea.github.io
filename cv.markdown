@@ -57,7 +57,7 @@ PERFORMING ARTS
  <br/>
 Costume and Set Designer. Choreographers and Dancers Eevi Kinnunen and Marikki Nyfors.
 <p></p>  
-2025 <strong>Uusi Eden</strong>  -  Musical Production, Helsinki City Theatre and Q Theatre
+2025 <strong>Uusi Eden</strong>  -  Musical, Helsinki City Theatre and Q Theatre
 <br/>
 Costume Designer. Director Juho Mantere.  
 <p></p>  
