@@ -9,7 +9,7 @@ permalink: /about/
 <div class="post-text-alone">  
 Costume designer Riina Leea Nieminen works across the fields of performing and audiovisual arts. She is Master of Art and Design graduated from Aalto University majoring in Costume Design. Her minor subject in Bachelor studies was Performing Arts from the Theatre Academy. Her exchange year she studied in the University of the Arts London majoring in Costume for Performance. She has worked as a freelancer costume designer, scenographer and performer.  
 <p></p> 
-As a designer, Nieminen aims to create something that is not encountered in everyday life. At her best, she contributes to building visually precise and multilayered worlds that echo another possible reality within our own. Listening to intuition and allowing it to guide the creative process is central to her practice. She works through presence, emphasizing sketch-based approaches and embracing the creative process without fear of uncertainty or failure.
+As a designer, Nieminen aims to create something that is not encountered in everyday life. At her best, she contributes to building visually precise and multilayered worlds that echo another possible reality within our own. Listening to intuition and allowing it to guide the creative process is central to her practice. She works through presence, emphasizing exploratory and experimental approaches and embracing the creative process without fear of uncertainty or failure.
 Nieminen’s spatial design often begins with considering how the viewer’s thoughts move through space and what kind of emotional experience the space evokes.
 
 <p></p>   
