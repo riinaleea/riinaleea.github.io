@@ -29,6 +29,7 @@ Riina is part of an online exhibition <a href="https://kuviteltutodellisuus.fi/o
 </div>  
 <p></p>
 <br/>
+<br/>
 riina.leea(@)gmail.com  
 <br/>
 
