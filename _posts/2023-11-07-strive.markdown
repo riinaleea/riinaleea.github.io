@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Strive"
+featured-image: /assets/strive_linkki.jpg
+featured-image-alt: Strive short film sci-fi 
+categories: jekyll update
+productionstyle: Sci-fi Short film
+---
+  2026  
+  Short Film  
+  Bufo  
+  
+  <br/>
+<p></p>
+  Coming soon...
+  <br/>
+
+<div class="post-text-alone">  
+
+</div>  
+<p></p>
+  
+  <br/>
+  Photographer - Mitro Härkönen
+
+
+  ![alt text](/assets/projects/strive1.jpg)  
+
+
