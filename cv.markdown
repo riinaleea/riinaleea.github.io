@@ -37,22 +37,22 @@ subject: Performing arts in the Theatre Academy
 WORK IN PROGRESS  
 <p></p>  
 <br/>
-2026 <strong>TBA</strong>  -  Q Theatre
+2026 <strong>Suliko</strong>  -  Q Theatre
 <br/>
 Costume Designer. Director Juho Mantere.  
 <p></p>  
-2026 <strong>Kiss me</strong>  -  Music Theatre Production, TTT Tampere Workers' Theatre
+2026 <strong>Hyvin toimeentulevat ihmiset</strong>  -  Theatre Production, Lahti City Theatre
 <br/>
-Costume and Set Designer. Director Marika Vapaavuori.  
-<p></p>  
-2026 <strong>Strive</strong>  -  Sci-fi Short Film, Bufo
-<br/>
-Costume Designer. Director Jussi Rautaniemi.  
+Costume Designer. Director Laura Mattila.  
 <p></p> 
 <br/>
 PERFORMING ARTS  
 <p></p>  
 <br/>
+2026 <strong>Kiss me</strong>  -  Music Theatre Production, TTT Tampere Workers' Theatre
+<br/>
+Costume and Set Designer. Director Marika Vapaavuori.  
+<p></p>  
 2025 <strong>Lempi</strong> - Contemporary Dance and Choir, Riiviöt Collective and ITAK  
  <br/>
 Costume and Set Designer. Choreographers and Dancers Eevi Kinnunen and Marikki Nyfors.
@@ -167,6 +167,10 @@ Performer (Tyttö). Director Nina Rinkinen.
 <p></p>  
 <br/>
 FILM AND TV
+<p></p> 
+2026 <strong>Strive</strong>  -  Sci-fi Short Film, Bufo
+<br/>
+Costume Designer. Director Jussi Rautaniemi.  
 <p></p> 
 2025 <strong>Metsä jossa elät</strong> - Short Film, Indie
  <br/>
