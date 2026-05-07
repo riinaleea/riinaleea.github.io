@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  "Tämä nimeämätön tarttuma,"
-featured-image: /assets/tarttuma_linkki.jpg
-featured-image-alt: Donkey Hot musikaali 
-categories: jekyll update
-productionstyle: Contemporary Dance
+#layout: post
+#title:  "Tämä nimeämätön tarttuma,"
+#featured-image: /assets/tarttuma_linkki.jpg
+#featured-image-alt: Donkey Hot musikaali 
+#categories: jekyll update
+#productionstyle: Contemporary Dance
 ---
   2018  
   Contemporary Dance  

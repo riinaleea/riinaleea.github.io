@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  "Kreivi Hohoo"
-featured-image: /assets/kreivi_linkki.jpg
-featured-image-alt: Kreivi Hohoo teatteriesitys lastenteatteri
-categories: jekyll update
-productionstyle: Theatre Production
+#layout: post
+#title:  "Kreivi Hohoo"
+#featured-image: /assets/kreivi_linkki.jpg
+#featured-image-alt: Kreivi Hohoo teatteriesitys lastenteatteri
+#categories: jekyll update
+#productionstyle: Theatre Production
 ---
   2018  
   Theatre Production  
