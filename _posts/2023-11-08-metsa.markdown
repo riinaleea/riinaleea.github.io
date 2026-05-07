@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Metsä jossa elät"
+featured-image: /assets/metsa_linkki.jpg
+featured-image-alt: Metsä jossa elät short film black and white 
+categories: jekyll update
+productionstyle: Short film
+---
+  2026  
+  Short Film  
+  Wildhog  
+  
+  <br/>
+<p></p>
+  Coming soon...
+  <br/>
+
+<div class="post-text-alone">  
+
+</div>  
+<p></p>
