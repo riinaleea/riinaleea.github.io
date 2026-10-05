@@ -28,7 +28,7 @@ productionstyle: Musical
 <p></p>
   
   <br/>
-  Photographer - Otto-Ville Väätäinen
+  Photographer - Otto-Ville Väätäinen and Miika Storm
 
 
   ![alt text](/assets/projects/eden1.jpg)  
