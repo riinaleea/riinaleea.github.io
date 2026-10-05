@@ -13,12 +13,12 @@ productionstyle: Theatre Production
   <br/>
 <p></p>
   Costume Designer - Riina Leea Nieminen  
-  Director - Juho Mantere
+  Director - Juho Mantere  
   Scriptwriters - Anna Brotkin and Juho Mantere  
-  Set Designer - Ville Seppänen
+  Set Designer - Ville Seppänen  
   Video Designer - Jonatan Sundström and Ville Seppänen  
   Lighting Designer - William Iles  
-  Sound Designers - Pekka Kiiliäinen     
+  Sound Designer - Pekka Kiiliäinen     
   Hair and makeup artist - Riikka Virtanen  
   Composer and musician - Henri Lyysaari  
   Actors - Satu Tuuli Karhu, Miro Lopperi, Olli Riipinen and Anna-Sofia Tuominen     
