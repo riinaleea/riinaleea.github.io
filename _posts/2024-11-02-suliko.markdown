@@ -19,7 +19,7 @@ productionstyle: Theatre Production
   Video Designers - Jonatan Sundström and Ville Seppänen  
   Sound Designer - Pekka Kiiliäinen     
   Hair and makeup artist - Riikka Virtanen  
-  Actors - Lotta Kaihua, Elina Knihtilä, Tommi Korpela, Elena Leeve, Pirjo Lonka, Miro Lopperi ja Samuli Niittymäki  
+  Actors - Lotta Kaihua, Elina Knihtilä, Tommi Korpela, Elena Leeve, Pirjo Lonka, Miro Lopperi and Samuli Niittymäki  
   <br/>
 
 <div class="post-text-alone">  
