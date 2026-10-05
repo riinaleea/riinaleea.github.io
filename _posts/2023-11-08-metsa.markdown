@@ -12,10 +12,30 @@ productionstyle: Short film
   
   <br/>
 <p></p>
-  Coming soon...
+  Costume design - Riina Leea Nieminen  
+  Written and directed by - Topi Raulo  
+  Cinematography - Nestori Majoinen  
+  Production design - Sara Pettersson  
+  Make-up design - Heidi Huovinen  
+  Editing - Lyydia Mäkipää  
+  Sound Design - Saku Klemetti  
+  Music - Emil Sana  
+  Starring - Sherwan Haji, Laura Birn, Tapio Liinoja, Tatu Mönttinen  
   <br/>
 
 <div class="post-text-alone">  
 
 </div>  
 <p></p>
+  
+  <br/>
+
+  ![alt text](/assets/projects/metsa1.jpg)  
+
+  ![alt text](/assets/projects/metsa2.jpg)  
+
+  ![alt text](/assets/projects/metsa3.jpg)  
+
+  ![alt text](/assets/projects/metsa4.jpg)  
+
+  ![alt text](/assets/projects/metsa5.jpg)  
