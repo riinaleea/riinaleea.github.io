@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Suliko"
+featured-image: /assets/suliko_linkki.jpg
+featured-image-alt: Suliko theatre performance Q-teatteri
+categories: jekyll update
+productionstyle: Theatre Production
+---
+  2026  
+  Theatre Production  
+  Q Theatre 
+  
+  <br/>
+<p></p>
+  Coming soon...
+  <br/>
+
+<div class="post-text-alone">  
+
+</div>  
+<p></p>
+  
+  <br/>
+  Photographer - Antti Sepponen
+
+
+  ![alt text](/assets/projects/suliko1.jpg)  
+

@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Olema"
+featured-image: /assets/olema_linkki.jpg
+featured-image-alt: Olema contemporary circus performance
+categories: jekyll update
+productionstyle: Contemporary Circus
+---
+  2026  
+  Contemporary Circus
+    
+  
+  <br/>
+<p></p>
+  Coming soon...
+  <br/>
+
+<div class="post-text-alone">  
+
+</div>  
+<p></p>
+  
+  <br/>
+  Photographer - Venla Helenius
+
+
+  ![alt text](/assets/projects/olema1.jpg)  
+
