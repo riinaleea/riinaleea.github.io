@@ -15,7 +15,8 @@ productionstyle: Theatre Production
   Costume Designer - Riina Leea Nieminen  
   Director - Juho Mantere
   Scriptwriters - Anna Brotkin and Juho Mantere  
-  Set and Video Designer - Ville Seppänen  
+  Set Designer - Ville Seppänen
+  Video Designer - Jonatan Sundström and Ville Seppänen  
   Lighting Designer - William Iles  
   Sound Designers - Pekka Kiiliäinen     
   Hair and makeup artist - Riikka Virtanen  
