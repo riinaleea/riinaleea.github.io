@@ -12,7 +12,15 @@ productionstyle: Contemporary Circus
   
   <br/>
 <p></p>
-  Coming soon...
+  Costume design: Riina Leea Nieminen  
+  Performers: Felicia Hedman, Ella Jaakkola, Aino Savolainen  
+  Direction and dramaturgy: Felicia Hedman, Ella Jaakkola, Riina Leea Nieminen, Aino Savolainen, Saana Volanen  
+  Contemporary circus choreography: Felicia Hedman, Aino Savolainen  
+  Composition, music and sound design: Ella Jaakkola  
+  Lighting design and scenography: Saana Volanen  
+  Material research: Jenni Räsänen  
+  Conveners: Ghia Lumia, Aino Savolainen  
+  Artistic development and production: Ella Jaakkola, Ghia Lumia, Aino Savolainen  
   <br/>
 
 <div class="post-text-alone">  
@@ -25,4 +33,16 @@ productionstyle: Contemporary Circus
 
 
   ![alt text](/assets/projects/olema1.jpg)  
+
+  ![alt text](/assets/projects/olema2.jpg)  
+
+  ![alt text](/assets/projects/olema3.jpg)  
+
+  ![alt text](/assets/projects/olema4.jpg)  
+
+  ![alt text](/assets/projects/olema5.jpg)  
+
+  ![alt text](/assets/projects/olema6.jpg)  
+
+  ![alt text](/assets/projects/olema7.jpg)  
 
