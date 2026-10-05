@@ -39,3 +39,5 @@ productionstyle: Short film
   ![alt text](/assets/projects/metsa4.jpg)  
 
   ![alt text](/assets/projects/metsa5.jpg)  
+
+  ![alt text](/assets/projects/metsa6.jpg)  
