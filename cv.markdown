@@ -37,10 +37,6 @@ subject: Performing arts in the Theatre Academy
 WORK IN PROGRESS  
 <p></p>  
 <br/>
-2026 <strong>Suliko</strong>  -  Q Theatre
-<br/>
-Costume Designer. Director Juho Mantere.  
-<p></p>  
 2026 <strong>Hyvin toimeentulevat ihmiset</strong>  -  Theatre Production, Lahti City Theatre
 <br/>
 Costume Designer. Director Laura Mattila.  
@@ -49,6 +45,14 @@ Costume Designer. Director Laura Mattila.
 PERFORMING ARTS  
 <p></p>  
 <br/>
+2026 <strong>Suliko</strong>  -  Q Theatre
+<br/>
+Costume Designer. Director Juho Mantere.  
+<p></p>  
+2026 <strong>Olema</strong> - Contemporary Circus
+<br/>
+Costume Designer.
+<p></p>  
 2026 <strong>Kiss me</strong>  -  Music Theatre Production, TTT Tampere Workers' Theatre
 <br/>
 Costume and Set Designer. Director Marika Vapaavuori.  
